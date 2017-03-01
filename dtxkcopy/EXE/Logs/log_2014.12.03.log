@@ -1,0 +1,1148 @@
+2014-12-03 14:53:19,173 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-03 14:53:21,621 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-03 14:53:32,581 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-03 14:53:32,676 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-03 14:53:39,292 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-03 14:53:39,295 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-03 14:54:56,922 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-03 14:54:56,952 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-03 14:54:57,076 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-03 14:54:57,078 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-03 14:54:57,150 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 14:54:57,153 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 14:54:57,216 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 14:54:57,219 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 14:54:59,604 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 14:54:59,632 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 14:54:59,793 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 14:54:59,796 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 14:55:01,755 DEBUG 10 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-03 14:55:01,759 DEBUG 10 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-03 14:55:02,587 INFO 10 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-03 14:55:02,590 DEBUG 10 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-03 14:55:02,664 DEBUG 10 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-03 14:55:02,666 DEBUG 10 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-03 14:55:03,237 INFO 10 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-03 14:55:03,241 DEBUG 10 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-03 14:55:08,354 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:55:33,142 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:56:53,157 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:56:53,488 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:56:53,593 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:56:56,919 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 14:56:56,953 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :80900601
+2014-12-03 14:56:59,346 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 14:56:59,350 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 14:56:59,426 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 14:56:59,429 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 14:56:59,544 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 14:56:59,546 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 14:56:59,562 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 14:56:59,611 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 14:56:59,681 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 14:56:59,685 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 14:56:59,722 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 14:56:59,725 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 14:56:59,758 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 14:56:59,760 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 14:56:59,803 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 14:56:59,805 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 14:56:59,810 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 14:56:59,812 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 14:57:02,528 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 14:57:03,396 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 14:57:03,400 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - CadastreNo registration
+2014-12-03 14:57:03,423 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 14:57:03,425 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000108
+2014-12-03 14:57:03,427 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 14:57:03,429 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 14:57:03,445 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Address registration
+2014-12-03 14:57:04,937 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Vertex Points registration
+2014-12-03 14:57:10,979 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:57:11,355 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:57:11,431 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:57:13,609 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 14:57:13,614 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :80900601
+2014-12-03 14:57:13,634 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 14:57:13,637 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 14:57:13,645 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 14:57:13,647 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 14:57:13,681 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 14:57:13,685 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 14:57:13,691 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 14:57:13,693 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 14:57:13,738 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 14:57:13,819 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 14:57:13,854 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 14:57:13,856 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 14:57:13,906 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 14:57:13,910 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 14:57:13,943 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 14:57:13,945 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 14:57:13,948 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 14:57:13,949 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 14:57:14,819 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 14:57:15,507 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 14:57:15,510 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - CadastreNo registration
+2014-12-03 14:57:15,511 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 14:57:15,513 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000109
+2014-12-03 14:57:15,515 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 14:57:15,517 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 14:57:15,532 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Address registration
+2014-12-03 14:57:15,555 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Vertex Points registration
+2014-12-03 14:57:22,504 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:57:22,509 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:58:00,275 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:58:00,294 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 14:58:00,297 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000108
+2014-12-03 14:58:00,304 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 14:58:00,305 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 14:58:21,887 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:58:21,893 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 14:58:21,895 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000108
+2014-12-03 14:58:21,901 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 14:58:21,903 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 14:58:32,703 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-03 14:58:32,707 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-03 14:58:32,755 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-03 14:58:32,759 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-03 14:58:32,796 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 14:58:32,799 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 14:58:32,813 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 14:58:32,815 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 14:59:39,024 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:59:41,568 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 14:59:45,879 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 14:59:45,913 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000002
+2014-12-03 14:59:45,919 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 14:59:45,921 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:00:12,626 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:00:12,632 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:00:12,633 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000108
+2014-12-03 15:00:12,639 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:00:12,641 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:00:15,932 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:00:15,937 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:00:15,938 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000108
+2014-12-03 15:00:15,964 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:00:15,968 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:00:17,991 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:00:18,163 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:00:18,166 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000109
+2014-12-03 15:00:18,173 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:00:18,174 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:00:44,256 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:00:44,260 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:00:47,309 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 15:00:47,314 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 15:00:47,351 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 15:00:47,353 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 15:00:52,936 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Find method started
+2014-12-03 15:00:52,941 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method call GetFeatureObject method
+2014-12-03 15:00:52,943 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:01:00,773 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:01:00,777 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:01:01,645 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 15:01:01,649 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 15:01:01,681 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 15:01:01,683 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 15:01:15,279 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Find method started
+2014-12-03 15:01:15,282 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method call GetFeatureObject method
+2014-12-03 15:01:15,284 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:01:33,763 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:01:33,767 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:01:34,505 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 15:01:34,508 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 15:01:34,541 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 15:01:34,543 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 15:02:39,482 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Find method started
+2014-12-03 15:02:39,565 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't found featureobject
+2014-12-03 15:03:02,999 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:03:03,003 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:03:03,637 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 15:03:03,640 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 15:03:03,691 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 15:03:03,694 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 15:03:11,015 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Find method started
+2014-12-03 15:03:11,019 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method call GetFeatureObject method
+2014-12-03 15:03:11,022 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:03:22,699 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:03:22,703 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:04:24,024 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:04:25,687 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:04:25,792 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:04:45,384 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:04:51,888 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:05:18,832 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:05:20,174 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:05:20,278 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:05:22,156 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:05:45,442 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:06:08,958 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:06:09,547 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:06:09,661 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:06:12,257 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 15:06:12,261 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :80900601
+2014-12-03 15:06:12,302 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:06:12,307 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 15:06:12,315 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 15:06:12,317 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 15:06:12,372 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 15:06:12,377 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 15:06:12,383 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:06:12,385 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:06:12,431 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:06:12,478 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:06:12,514 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:06:12,516 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:06:12,553 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:06:12,556 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:06:12,610 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:06:12,614 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:06:12,617 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:06:12,618 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:06:13,397 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:06:14,227 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 15:06:14,231 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - CadastreNo registration
+2014-12-03 15:06:14,232 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:06:14,234 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000110
+2014-12-03 15:06:14,237 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:06:14,238 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:06:14,253 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Address registration
+2014-12-03 15:06:14,271 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Vertex Points registration
+2014-12-03 15:06:21,584 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:06:22,177 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:06:22,279 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:06:24,317 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 15:06:24,321 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :80900601
+2014-12-03 15:06:24,338 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:06:24,341 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 15:06:24,349 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 15:06:24,351 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 15:06:24,399 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 15:06:24,403 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 15:06:24,409 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:06:24,411 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:06:24,455 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:06:24,534 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:06:24,572 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:06:24,575 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:06:24,609 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:06:24,611 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:06:24,643 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:06:24,646 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:06:24,649 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:06:24,650 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:06:25,404 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:06:26,041 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 15:06:26,045 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - CadastreNo registration
+2014-12-03 15:06:26,047 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:06:26,049 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000111
+2014-12-03 15:06:26,051 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:06:26,053 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:06:26,091 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Address registration
+2014-12-03 15:06:26,106 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Vertex Points registration
+2014-12-03 15:07:24,602 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:07:25,167 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:07:25,269 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:07:27,275 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 15:07:27,279 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :80900601
+2014-12-03 15:07:27,296 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:07:27,299 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 15:07:27,307 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 15:07:27,309 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 15:07:27,346 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 15:07:27,348 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 15:07:27,355 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:07:27,358 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:07:27,420 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:07:27,629 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:07:27,674 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:07:27,677 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:07:27,711 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:07:27,714 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:07:27,747 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:07:27,749 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:07:27,752 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:07:27,754 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:07:28,452 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:07:29,092 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 15:07:29,096 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - CadastreNo registration
+2014-12-03 15:07:29,098 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:07:29,100 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000110
+2014-12-03 15:07:29,102 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:07:29,104 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:07:29,116 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Address registration
+2014-12-03 15:07:29,163 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Vertex Points registration
+2014-12-03 15:07:29,389 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:07:29,510 ERROR 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Error Parcel Registration: Exception message = 
+System.Runtime.InteropServices.COMException (0x80004005): The supplied command does not exist in command pool
+   at ESRI.ArcGIS.Geodatabase.IFeature.Store()
+   at dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel.btnOK_Click(Object sender, EventArgs e) in C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\Client\dtxk.cadastre\Windows\Dialogs\Registration\Parcel\FrmDlgRegLandParcel.cs:line 771
+2014-12-03 15:07:34,499 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:07:35,037 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:07:35,142 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:07:37,023 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 15:07:37,027 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :80900601
+2014-12-03 15:07:37,045 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:07:37,047 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 15:07:37,054 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 15:07:37,056 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 15:07:37,090 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 15:07:37,093 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 15:07:37,099 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:07:37,103 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:07:37,167 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:07:37,248 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:07:37,287 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:07:37,289 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:07:37,323 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:07:37,326 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:07:37,356 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:07:37,358 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:07:37,360 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:07:37,362 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:07:37,576 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:07:38,455 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 15:07:38,459 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - CadastreNo registration
+2014-12-03 15:07:38,461 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:07:38,463 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000111
+2014-12-03 15:07:38,465 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:07:38,466 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:07:38,479 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Address registration
+2014-12-03 15:07:38,539 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Vertex Points registration
+2014-12-03 15:07:38,582 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:07:38,654 ERROR 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Error Parcel Registration: Exception message = 
+System.Runtime.InteropServices.COMException (0x80004005): The supplied command does not exist in command pool
+   at ESRI.ArcGIS.Geodatabase.IFeature.Store()
+   at dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel.btnOK_Click(Object sender, EventArgs e) in C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\Client\dtxk.cadastre\Windows\Dialogs\Registration\Parcel\FrmDlgRegLandParcel.cs:line 771
+2014-12-03 15:07:44,106 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:07:47,311 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:08:08,717 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:08:10,539 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:08:10,544 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:08:10,592 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:08:10,595 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:08:10,631 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:08:10,633 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:08:10,679 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:08:10,683 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:08:10,716 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:08:10,718 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:08:10,721 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:08:10,723 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:08:11,538 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:08:11,571 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE started
+2014-12-03 15:08:11,574 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE try to getting ALL OLD_DOCK_TYPE 
+2014-12-03 15:08:11,649 INFO 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE method got OLD_DOCK_TYPE with successfully
+2014-12-03 15:08:11,653 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE finished
+2014-12-03 15:08:13,608 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2014-12-03 15:08:13,612 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2014-12-03 15:08:13,678 INFO 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2014-12-03 15:08:13,681 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2014-12-03 15:08:13,714 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-12-03 15:08:13,717 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-12-03 15:08:13,779 INFO 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-12-03 15:08:13,782 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-12-03 15:08:13,836 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:08:13,841 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:08:13,908 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:08:13,911 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:08:14,040 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:08:14,043 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:08:14,104 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:08:14,106 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:08:14,135 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:08:14,138 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:08:14,151 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:08:14,153 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:08:14,166 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:08:14,168 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:08:14,178 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:08:14,212 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:08:21,206 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:08:21,210 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:08:21,249 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:08:21,253 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:08:21,271 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:08:21,273 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:08:21,284 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:08:21,286 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:08:23,048 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:08:23,052 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:08:23,070 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:08:23,078 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:08:23,091 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:08:23,093 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:08:23,104 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:08:23,106 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:08:26,246 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:08:26,388 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE started
+2014-12-03 15:08:26,392 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE try to getting ALL CADASTRE_PRICE_ZONE 
+2014-12-03 15:08:26,496 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE method got CADASTRE_PRICE_ZONE with successfully
+2014-12-03 15:08:26,500 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE finished
+2014-12-03 15:08:26,564 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF started
+2014-12-03 15:08:26,567 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF try to getting ALL CADASTRE_PRICE_CORR_COEF 
+2014-12-03 15:08:26,691 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF method got CADASTRE_PRICE_CORR_COEF with successfully
+2014-12-03 15:08:26,694 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF finished
+2014-12-03 15:08:27,456 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Main Cadastre Data Page
+2014-12-03 15:08:35,439 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-12-03 15:08:35,455 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-12-03 15:08:35,542 INFO 10 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-12-03 15:08:35,545 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-12-03 15:08:35,716 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Main Cadastre Data Page
+2014-12-03 15:08:35,890 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM started
+2014-12-03 15:08:35,894 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM try to getting ALL CONTRACT_FORM 
+2014-12-03 15:08:35,958 INFO 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM method got CONTRACT_FORM with successfully
+2014-12-03 15:08:35,961 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM finished
+2014-12-03 15:08:35,997 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER started
+2014-12-03 15:08:36,000 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER try to getting ALL CONTRACT_MATTER 
+2014-12-03 15:08:36,077 INFO 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER method got CONTRACT_MATTER with successfully
+2014-12-03 15:08:36,080 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER finished
+2014-12-03 15:08:37,948 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 15:08:39,746 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Cadastral Data registration
+2014-12-03 15:08:54,593 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:08:56,382 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:08:56,386 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:08:56,461 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:08:56,465 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:08:56,503 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:08:56,506 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:08:56,541 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:08:56,544 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:08:56,577 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:08:56,579 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:08:56,582 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:08:56,584 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:08:56,824 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:08:56,846 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE started
+2014-12-03 15:08:56,849 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE try to getting ALL OLD_DOCK_TYPE 
+2014-12-03 15:08:56,864 INFO 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE method got OLD_DOCK_TYPE with successfully
+2014-12-03 15:08:56,867 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE finished
+2014-12-03 15:08:57,780 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2014-12-03 15:08:57,784 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2014-12-03 15:08:57,800 INFO 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2014-12-03 15:08:57,803 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2014-12-03 15:08:57,843 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-12-03 15:08:57,847 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-12-03 15:08:57,862 INFO 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-12-03 15:08:57,864 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-12-03 15:08:57,881 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:08:57,883 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:08:57,900 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:08:57,902 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:08:57,918 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:08:57,993 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:08:58,007 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:08:58,009 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:08:58,036 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:08:58,039 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:08:58,053 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:08:58,055 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:08:58,067 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:08:58,069 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:08:58,080 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:08:58,193 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:08:58,207 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:08:58,209 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:08:58,222 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:08:58,224 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:08:58,236 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:08:58,238 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:08:58,264 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:08:58,268 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:08:58,396 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:08:58,519 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE started
+2014-12-03 15:08:58,523 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE try to getting ALL CADASTRE_PRICE_ZONE 
+2014-12-03 15:08:58,549 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE method got CADASTRE_PRICE_ZONE with successfully
+2014-12-03 15:08:58,552 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE finished
+2014-12-03 15:08:58,570 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF started
+2014-12-03 15:08:58,572 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF try to getting ALL CADASTRE_PRICE_CORR_COEF 
+2014-12-03 15:08:58,627 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF method got CADASTRE_PRICE_CORR_COEF with successfully
+2014-12-03 15:08:58,630 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF finished
+2014-12-03 15:09:00,181 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Main Cadastre Data Page
+2014-12-03 15:09:00,216 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM started
+2014-12-03 15:09:00,219 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM try to getting ALL CONTRACT_FORM 
+2014-12-03 15:09:00,236 INFO 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM method got CONTRACT_FORM with successfully
+2014-12-03 15:09:00,238 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM finished
+2014-12-03 15:09:00,267 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER started
+2014-12-03 15:09:00,284 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER try to getting ALL CONTRACT_MATTER 
+2014-12-03 15:09:00,299 INFO 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER method got CONTRACT_MATTER with successfully
+2014-12-03 15:09:00,301 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER finished
+2014-12-03 15:09:01,668 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 15:09:03,135 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Cadastral Data registration
+2014-12-03 15:10:47,047 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:10:47,053 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:10:47,055 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000108
+2014-12-03 15:10:47,062 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:10:47,064 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:10:49,002 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:10:49,008 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000002
+2014-12-03 15:10:49,015 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:10:49,017 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:11:38,416 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:11:38,930 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:11:39,034 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:18:18,277 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:34:25,536 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-03 15:34:26,142 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-03 15:35:25,957 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-03 15:35:25,965 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-03 15:35:31,232 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-03 15:35:31,235 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-03 15:37:00,497 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:37:00,538 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:37:00,541 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000027
+2014-12-03 15:37:00,549 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:37:00,551 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:37:33,209 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:37:33,692 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:37:33,809 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:37:35,667 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 15:37:35,678 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :80900601
+2014-12-03 15:37:35,732 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:37:35,734 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 15:37:35,872 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-12-03 15:37:35,876 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-12-03 15:37:35,937 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-12-03 15:37:35,939 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-12-03 15:37:35,965 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:37:35,970 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:37:36,077 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:37:36,080 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:37:36,139 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:37:36,142 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:37:36,200 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:37:36,214 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:37:36,281 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:37:36,284 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:37:36,289 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:37:36,291 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:37:37,031 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:37:37,062 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE started
+2014-12-03 15:37:37,066 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE try to getting ALL OLD_DOCK_TYPE 
+2014-12-03 15:37:37,132 INFO 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE method got OLD_DOCK_TYPE with successfully
+2014-12-03 15:37:37,134 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE finished
+2014-12-03 15:37:38,606 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 15:37:38,616 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - CadastreNo registration
+2014-12-03 15:37:38,618 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:37:38,620 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000110
+2014-12-03 15:37:38,649 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:37:38,651 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:37:38,664 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Address registration
+2014-12-03 15:37:40,479 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Vertex Points registration
+2014-12-03 15:37:40,512 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting Spatial data registration
+2014-12-03 15:37:41,016 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Finish spatial data registration
+2014-12-03 15:37:41,038 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Finish registration successfully
+2014-12-03 15:37:41,041 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Writing registration to archive
+2014-12-03 15:37:47,483 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:37:47,491 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:37:47,492 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000110
+2014-12-03 15:37:47,494 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:37:47,495 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:37:50,345 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:37:50,349 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:37:50,399 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:37:50,401 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:37:50,439 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:37:50,441 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:37:50,475 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:37:50,478 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:37:50,509 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:37:50,512 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:37:50,514 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:37:50,516 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:37:52,730 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:37:52,752 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE started
+2014-12-03 15:37:52,754 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE try to getting ALL OLD_DOCK_TYPE 
+2014-12-03 15:37:52,793 INFO 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE method got OLD_DOCK_TYPE with successfully
+2014-12-03 15:37:52,797 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE finished
+2014-12-03 15:37:54,722 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2014-12-03 15:37:54,725 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2014-12-03 15:37:54,794 INFO 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2014-12-03 15:37:54,796 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2014-12-03 15:37:54,829 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-12-03 15:37:54,831 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-12-03 15:37:54,894 INFO 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-12-03 15:37:54,896 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-12-03 15:37:54,927 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:37:54,930 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:37:55,000 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:37:55,002 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:37:55,054 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:37:55,058 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:37:55,128 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:37:55,130 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:37:55,161 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:37:55,163 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:37:55,177 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:37:55,179 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:37:55,192 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:37:55,194 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:37:55,205 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:37:55,274 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:37:59,227 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:37:59,230 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:37:59,249 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:37:59,252 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:37:59,265 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:37:59,270 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:37:59,285 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:37:59,287 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:38:01,130 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:38:01,292 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE started
+2014-12-03 15:38:01,296 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE try to getting ALL CADASTRE_PRICE_ZONE 
+2014-12-03 15:38:01,385 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE method got CADASTRE_PRICE_ZONE with successfully
+2014-12-03 15:38:01,388 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE finished
+2014-12-03 15:38:01,427 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF started
+2014-12-03 15:38:01,430 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF try to getting ALL CADASTRE_PRICE_CORR_COEF 
+2014-12-03 15:38:01,577 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF method got CADASTRE_PRICE_CORR_COEF with successfully
+2014-12-03 15:38:01,582 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF finished
+2014-12-03 15:38:15,953 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-12-03 15:38:15,993 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-12-03 15:38:16,083 INFO 10 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-12-03 15:38:16,086 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-12-03 15:38:52,676 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:40:06,836 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:40:06,847 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:40:06,848 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000110
+2014-12-03 15:40:06,850 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:40:06,852 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:40:12,657 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:40:12,660 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:40:12,717 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:40:12,720 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:40:12,750 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:40:12,953 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:40:12,986 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:40:12,988 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:40:13,016 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:40:13,019 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:40:13,021 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:40:13,022 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:40:14,238 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:40:14,279 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE started
+2014-12-03 15:40:14,282 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE try to getting ALL OLD_DOCK_TYPE 
+2014-12-03 15:40:14,299 INFO 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE method got OLD_DOCK_TYPE with successfully
+2014-12-03 15:40:14,301 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE finished
+2014-12-03 15:40:16,716 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2014-12-03 15:40:16,719 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2014-12-03 15:40:16,735 INFO 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2014-12-03 15:40:16,737 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2014-12-03 15:40:16,758 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-12-03 15:40:16,760 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-12-03 15:40:16,774 INFO 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-12-03 15:40:16,776 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-12-03 15:40:16,793 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:40:16,795 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:40:16,811 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:40:16,813 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:40:16,828 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:40:16,926 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:40:16,940 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:40:16,942 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:40:16,966 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:40:16,968 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:40:16,994 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:40:16,996 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:40:17,011 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:40:17,013 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:40:17,024 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:40:17,126 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:40:21,133 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:40:28,073 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:40:28,076 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:40:28,094 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:40:28,097 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:40:28,112 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:40:28,114 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:40:28,125 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:40:28,127 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:40:29,244 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:40:29,385 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE started
+2014-12-03 15:40:29,388 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE try to getting ALL CADASTRE_PRICE_ZONE 
+2014-12-03 15:40:29,414 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE method got CADASTRE_PRICE_ZONE with successfully
+2014-12-03 15:40:29,416 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE finished
+2014-12-03 15:40:29,446 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF started
+2014-12-03 15:40:29,449 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF try to getting ALL CADASTRE_PRICE_CORR_COEF 
+2014-12-03 15:40:29,509 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF method got CADASTRE_PRICE_CORR_COEF with successfully
+2014-12-03 15:40:29,511 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF finished
+2014-12-03 15:42:38,030 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-12-03 15:42:38,652 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-03 15:43:22,904 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-03 15:43:22,913 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-03 15:43:27,616 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-03 15:43:27,619 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-03 15:44:25,110 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-03 15:44:25,124 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-03 15:44:25,167 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-03 15:44:25,169 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-03 15:44:25,204 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 15:44:25,205 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 15:44:25,236 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 15:44:25,264 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 15:44:28,532 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:44:28,535 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:44:28,670 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:44:28,673 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:44:35,935 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:44:44,508 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:44:47,371 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:44:47,385 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:44:47,387 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :00100101000002
+2014-12-03 15:44:47,393 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:44:47,394 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:44:50,316 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:44:50,327 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:44:50,385 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:44:50,389 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:44:50,428 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:44:50,430 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:44:50,463 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:44:50,465 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:44:50,516 DEBUG 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:44:50,518 DEBUG 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=1550
+2014-12-03 15:44:50,523 INFO 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:44:50,525 DEBUG 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:44:51,398 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:44:51,425 DEBUG 9 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE started
+2014-12-03 15:44:51,428 DEBUG 9 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE try to getting ALL OLD_DOCK_TYPE 
+2014-12-03 15:44:51,507 INFO 9 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE method got OLD_DOCK_TYPE with successfully
+2014-12-03 15:44:51,510 DEBUG 9 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE finished
+2014-12-03 15:44:52,975 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2014-12-03 15:44:52,979 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2014-12-03 15:44:53,044 INFO 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2014-12-03 15:44:53,047 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2014-12-03 15:44:53,076 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-12-03 15:44:53,078 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-12-03 15:44:53,141 INFO 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-12-03 15:44:53,143 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-12-03 15:44:53,171 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:44:53,173 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:44:53,257 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:44:53,280 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:44:53,326 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:44:53,329 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:44:53,390 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:44:53,392 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:44:53,420 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:44:53,422 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:44:53,434 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:44:53,436 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:44:53,449 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:44:53,451 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:44:53,461 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:44:53,463 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:44:53,477 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:44:53,583 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:44:53,597 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:44:53,599 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:44:53,611 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:44:53,613 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:44:53,625 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:44:53,627 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:44:53,769 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:44:53,924 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE started
+2014-12-03 15:44:53,929 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE try to getting ALL CADASTRE_PRICE_ZONE 
+2014-12-03 15:44:54,013 INFO 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE method got CADASTRE_PRICE_ZONE with successfully
+2014-12-03 15:44:54,016 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE finished
+2014-12-03 15:44:54,054 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF started
+2014-12-03 15:44:54,056 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF try to getting ALL CADASTRE_PRICE_CORR_COEF 
+2014-12-03 15:44:54,175 INFO 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF method got CADASTRE_PRICE_CORR_COEF with successfully
+2014-12-03 15:44:54,178 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF finished
+2014-12-03 15:44:54,274 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-12-03 15:44:54,281 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-12-03 15:44:54,354 INFO 9 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-12-03 15:44:54,357 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-12-03 15:46:46,670 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:46:47,682 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:46:56,633 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:46:56,637 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:46:56,673 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:46:56,675 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:47:01,151 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-03 15:47:01,155 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-03 15:47:01,945 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-03 15:47:01,949 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-03 15:47:05,396 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-03 15:47:05,400 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-03 15:47:07,242 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:47:07,295 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-03 15:47:07,333 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-03 15:47:07,335 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-03 15:47:08,650 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:47:08,653 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-03 15:47:18,940 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:47:55,689 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:47:55,701 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:47:55,702 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000110
+2014-12-03 15:47:55,704 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:47:55,706 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:47:57,641 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:47:57,645 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:47:57,695 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:47:57,699 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:47:57,751 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:47:57,754 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:47:57,801 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:47:57,805 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:47:57,842 DEBUG 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:47:57,844 DEBUG 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:47:57,846 INFO 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:47:57,848 DEBUG 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:47:58,464 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:47:58,486 DEBUG 9 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE started
+2014-12-03 15:47:58,488 DEBUG 9 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE try to getting ALL OLD_DOCK_TYPE 
+2014-12-03 15:47:58,505 INFO 9 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE method got OLD_DOCK_TYPE with successfully
+2014-12-03 15:47:58,507 DEBUG 9 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE finished
+2014-12-03 15:48:00,177 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2014-12-03 15:48:00,307 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2014-12-03 15:48:00,323 INFO 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2014-12-03 15:48:00,325 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2014-12-03 15:48:00,347 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-12-03 15:48:00,349 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-12-03 15:48:00,362 INFO 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-12-03 15:48:00,364 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-12-03 15:48:00,380 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:48:00,382 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:48:00,398 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:48:00,401 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:48:00,415 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:48:00,417 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:48:00,438 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:48:00,441 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:48:00,467 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:48:00,469 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:48:00,483 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:48:00,485 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:48:00,497 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:48:00,590 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:48:00,603 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:48:00,605 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:48:01,449 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:48:04,950 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:48:08,230 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:48:08,234 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:48:08,253 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:48:08,255 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:48:08,269 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:48:08,272 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:48:08,286 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:48:08,288 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:48:10,960 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:48:11,105 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE started
+2014-12-03 15:48:11,109 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE try to getting ALL CADASTRE_PRICE_ZONE 
+2014-12-03 15:48:11,135 INFO 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE method got CADASTRE_PRICE_ZONE with successfully
+2014-12-03 15:48:11,138 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE finished
+2014-12-03 15:48:11,158 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF started
+2014-12-03 15:48:11,160 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF try to getting ALL CADASTRE_PRICE_CORR_COEF 
+2014-12-03 15:48:11,215 INFO 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF method got CADASTRE_PRICE_CORR_COEF with successfully
+2014-12-03 15:48:11,218 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF finished
+2014-12-03 15:48:17,779 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:48:17,791 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:48:17,812 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:48:17,815 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:48:36,710 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:48:36,714 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:48:36,736 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:48:36,738 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:49:13,797 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Main Cadastre Data Page
+2014-12-03 15:49:26,763 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Main Cadastre Data Page
+2014-12-03 15:49:50,363 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:49:50,367 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:49:50,390 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:49:50,392 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:49:58,865 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Main Cadastre Data Page
+2014-12-03 15:49:58,914 DEBUG 9 dtxk.business.BasicService - LoadAllCONTRACT_FORM started
+2014-12-03 15:49:58,917 DEBUG 9 dtxk.business.BasicService - LoadAllCONTRACT_FORM try to getting ALL CONTRACT_FORM 
+2014-12-03 15:49:58,982 INFO 9 dtxk.business.BasicService - LoadAllCONTRACT_FORM method got CONTRACT_FORM with successfully
+2014-12-03 15:49:58,984 DEBUG 9 dtxk.business.BasicService - LoadAllCONTRACT_FORM finished
+2014-12-03 15:49:59,031 DEBUG 9 dtxk.business.BasicService - LoadAllCONTRACT_MATTER started
+2014-12-03 15:49:59,034 DEBUG 9 dtxk.business.BasicService - LoadAllCONTRACT_MATTER try to getting ALL CONTRACT_MATTER 
+2014-12-03 15:49:59,094 INFO 9 dtxk.business.BasicService - LoadAllCONTRACT_MATTER method got CONTRACT_MATTER with successfully
+2014-12-03 15:49:59,097 DEBUG 9 dtxk.business.BasicService - LoadAllCONTRACT_MATTER finished
+2014-12-03 15:50:01,213 DEBUG 9 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 15:50:38,423 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-03 15:50:38,994 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-03 15:50:46,122 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-03 15:50:46,130 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-03 15:50:50,871 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username('admin') or password is invalid
+2014-12-03 15:50:50,873 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-03 15:50:55,071 DEBUG 12 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-03 15:50:55,073 DEBUG 12 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-03 15:50:55,118 INFO 12 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-03 15:50:55,120 DEBUG 12 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-03 15:52:45,435 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:52:45,468 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:52:45,470 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000110
+2014-12-03 15:52:45,477 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:52:45,478 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:52:47,910 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:52:47,922 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:52:48,049 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:52:48,052 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:52:48,100 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:52:48,102 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:52:48,136 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:52:48,137 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:52:48,201 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:52:48,204 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-12-03 15:52:48,209 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:52:48,210 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:52:48,399 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2014-12-03 15:52:48,426 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE started
+2014-12-03 15:52:48,428 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE try to getting ALL OLD_DOCK_TYPE 
+2014-12-03 15:52:48,486 INFO 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE method got OLD_DOCK_TYPE with successfully
+2014-12-03 15:52:48,488 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE finished
+2014-12-03 15:52:49,546 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2014-12-03 15:52:49,549 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2014-12-03 15:52:49,611 INFO 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2014-12-03 15:52:49,612 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2014-12-03 15:52:49,641 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-12-03 15:52:49,643 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-12-03 15:52:49,714 INFO 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-12-03 15:52:49,717 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-12-03 15:52:49,745 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:52:49,747 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:52:49,811 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:52:49,812 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:52:49,843 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:52:49,845 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:52:49,907 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:52:49,909 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:52:49,936 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:52:49,938 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:52:49,950 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:52:49,952 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:52:49,963 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:52:49,971 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:52:49,982 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:52:49,983 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:52:53,612 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:52:53,615 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:52:53,625 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:52:53,627 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:52:53,634 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-12-03 15:52:53,636 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-12-03 15:52:53,642 INFO 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-12-03 15:52:53,643 DEBUG 10 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-12-03 15:52:56,878 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Cadastral Data Page
+2014-12-03 15:52:57,052 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE started
+2014-12-03 15:52:57,055 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE try to getting ALL CADASTRE_PRICE_ZONE 
+2014-12-03 15:52:57,138 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE method got CADASTRE_PRICE_ZONE with successfully
+2014-12-03 15:52:57,140 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_ZONE finished
+2014-12-03 15:52:57,177 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF started
+2014-12-03 15:52:57,179 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF try to getting ALL CADASTRE_PRICE_CORR_COEF 
+2014-12-03 15:52:57,314 INFO 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF method got CADASTRE_PRICE_CORR_COEF with successfully
+2014-12-03 15:52:57,317 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRE_PRICE_CORR_COEF finished
+2014-12-03 15:52:58,717 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:52:58,721 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:52:58,757 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:52:58,759 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:53:04,430 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-12-03 15:53:04,436 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-12-03 15:53:04,508 INFO 10 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-12-03 15:53:04,510 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-12-03 15:53:19,813 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-12-03 15:53:19,815 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-12-03 15:53:19,846 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-12-03 15:53:19,849 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-12-03 15:53:28,648 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Main Cadastre Data Page
+2014-12-03 15:53:33,967 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> Main Cadastre Data Page
+2014-12-03 15:53:34,003 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM started
+2014-12-03 15:53:34,006 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM try to getting ALL CONTRACT_FORM 
+2014-12-03 15:53:34,069 INFO 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM method got CONTRACT_FORM with successfully
+2014-12-03 15:53:34,071 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_FORM finished
+2014-12-03 15:53:34,103 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER started
+2014-12-03 15:53:34,105 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER try to getting ALL CONTRACT_MATTER 
+2014-12-03 15:53:34,161 INFO 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER method got CONTRACT_MATTER with successfully
+2014-12-03 15:53:34,163 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER finished
+2014-12-03 15:53:35,790 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2014-12-03 15:53:37,271 DEBUG 10 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2014-12-03 15:53:37,297 DEBUG 10 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :15307
+2014-12-03 15:53:37,433 INFO 10 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2014-12-03 15:53:37,435 DEBUG 10 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2014-12-03 15:53:38,754 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Cadastral Data registration
+2014-12-03 15:53:38,760 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelPartials started
+2014-12-03 15:53:38,762 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelPartials try to getting merged PARCEL_PARTIAL  for Parcel ID .idParcel= :15307
+2014-12-03 15:53:38,812 INFO 10 dtxk.business.Services.ServiceParcel - GetParcelPartials method got PARCEL_PARTIAL with successfully
+2014-12-03 15:53:38,814 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelPartials finfished
+2014-12-03 15:53:38,917 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Finish registration successfully
+2014-12-03 15:53:38,919 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Writing registration to archive
+2014-12-03 15:54:09,315 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-03 15:54:09,319 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-03 15:54:09,362 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-03 15:54:09,364 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-03 15:54:09,413 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 15:54:09,416 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 15:54:09,475 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 15:54:09,477 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 15:54:31,892 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-03 15:54:31,895 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-03 15:54:31,913 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-03 15:54:31,915 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-03 15:54:31,953 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 15:54:31,955 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 15:54:31,988 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 15:54:31,999 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 15:54:51,350 DEBUG 10 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2014-12-03 15:54:51,358 DEBUG 10 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :15307
+2014-12-03 15:54:51,376 INFO 10 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2014-12-03 15:54:51,379 DEBUG 10 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2014-12-03 15:54:51,436 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2014-12-03 15:54:51,439 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :15307
+2014-12-03 15:54:51,841 INFO 10 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2014-12-03 15:54:51,844 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2014-12-03 15:54:53,673 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 15:54:53,677 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 15:54:53,705 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 15:54:53,708 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 15:55:02,328 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-03 15:55:02,339 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-03 15:55:02,689 INFO 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-03 15:55:02,692 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-03 15:55:50,127 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:55:50,131 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:55:50,179 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:55:50,182 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:55:52,981 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 15:55:52,985 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for MUNICIPALITY.ID_CADASTRAL_REGION  :idRegion=203 Refresh=True
+2014-12-03 15:55:53,000 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:55:53,002 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 15:55:53,043 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:55:53,048 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=-1
+2014-12-03 15:55:53,051 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:55:53,053 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:55:53,078 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:55:53,081 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=-1
+2014-12-03 15:55:53,083 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:55:53,192 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:55:53,209 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 15:55:53,211 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for MUNICIPALITY.ID_CADASTRAL_REGION  :idRegion=233 Refresh=True
+2014-12-03 15:55:53,366 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:55:53,371 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 15:55:53,448 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:55:53,451 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=-1
+2014-12-03 15:55:53,453 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:55:53,456 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:55:54,401 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 15:55:54,405 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for MUNICIPALITY.ID_CADASTRAL_REGION  :idRegion=232 Refresh=True
+2014-12-03 15:55:54,478 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:55:54,483 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 15:55:54,550 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:55:54,553 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=-1
+2014-12-03 15:55:54,566 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:55:54,569 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:55:56,265 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:55:56,269 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=3101
+2014-12-03 15:55:56,272 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:55:56,275 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:55:56,816 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:55:56,819 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=3101
+2014-12-03 15:55:56,822 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:55:56,824 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:55:57,099 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:55:57,103 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=3101
+2014-12-03 15:55:57,107 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:55:57,109 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:55:57,301 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:55:57,305 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=3101
+2014-12-03 15:55:57,307 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:55:57,309 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:56:23,999 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 15:56:24,002 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 15:56:24,042 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 15:56:24,045 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 15:56:47,965 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:56:47,968 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:56:48,011 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:56:48,014 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:56:50,588 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-03 15:56:50,591 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for MUNICIPALITY.ID_CADASTRAL_REGION  :idRegion=175 Refresh=True
+2014-12-03 15:56:50,665 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-03 15:56:50,670 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-03 15:56:50,725 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:56:50,729 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=-1
+2014-12-03 15:56:50,732 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:56:50,735 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:56:50,827 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-12-03 15:56:50,830 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=-1
+2014-12-03 15:56:50,833 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-12-03 15:56:50,835 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2014-12-03 15:57:04,232 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE started
+2014-12-03 15:57:04,235 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE try to getting ALL DOCUMENT_TYPE 
+2014-12-03 15:57:04,355 INFO 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE method got DOCUMENT_TYPE with successfully
+2014-12-03 15:57:04,359 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE finished
+2014-12-03 15:57:04,456 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION started
+2014-12-03 15:57:04,459 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION try to getting ALL ORGANIZATION 
+2014-12-03 15:57:04,615 INFO 10 dtxk.business.BasicService - LoadAllORGANIZATION method got ORGANIZATION with successfully
+2014-12-03 15:57:04,618 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION finished
+2014-12-03 15:57:09,767 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE started
+2014-12-03 15:57:09,771 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE try to getting ALL DOCUMENT_TYPE 
+2014-12-03 15:57:09,801 INFO 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE method got DOCUMENT_TYPE with successfully
+2014-12-03 15:57:09,803 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE finished
+2014-12-03 15:57:09,880 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION started
+2014-12-03 15:57:09,882 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION try to getting ALL ORGANIZATION 
+2014-12-03 15:57:09,976 INFO 10 dtxk.business.BasicService - LoadAllORGANIZATION method got ORGANIZATION with successfully
+2014-12-03 15:57:09,980 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION finished
+2014-12-03 15:57:19,012 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 15:57:19,014 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 15:57:19,045 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 15:57:19,049 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 15:57:26,507 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 15:57:26,509 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 15:57:26,526 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 15:57:26,528 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 15:57:36,798 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-03 15:57:36,800 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-03 15:57:36,830 INFO 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-03 15:57:36,832 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-03 15:57:40,264 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-03 15:57:40,267 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-03 15:57:40,678 INFO 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-03 15:57:40,681 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-03 15:57:47,122 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-03 15:57:47,124 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-03 15:57:47,273 INFO 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-03 15:57:47,280 DEBUG 17 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-03 15:58:04,282 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-03 15:58:04,286 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-03 15:58:04,346 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-03 15:58:04,350 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-03 15:58:12,884 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 15:58:12,886 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 15:58:12,898 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 15:58:12,901 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 15:58:19,978 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE started
+2014-12-03 15:58:19,981 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE try to getting ALL DOCUMENT_TYPE 
+2014-12-03 15:58:20,012 INFO 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE method got DOCUMENT_TYPE with successfully
+2014-12-03 15:58:20,014 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE finished
+2014-12-03 15:58:20,102 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION started
+2014-12-03 15:58:20,104 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION try to getting ALL ORGANIZATION 
+2014-12-03 15:58:20,204 INFO 10 dtxk.business.BasicService - LoadAllORGANIZATION method got ORGANIZATION with successfully
+2014-12-03 15:58:20,360 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION finished
+2014-12-03 15:58:26,301 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-03 15:58:26,305 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-03 15:58:26,321 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-03 15:58:26,323 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-03 15:58:29,755 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE started
+2014-12-03 15:58:29,758 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE try to getting ALL DOCUMENT_TYPE 
+2014-12-03 15:58:29,786 INFO 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE method got DOCUMENT_TYPE with successfully
+2014-12-03 15:58:29,788 DEBUG 10 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE finished
+2014-12-03 15:58:29,868 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION started
+2014-12-03 15:58:29,870 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION try to getting ALL ORGANIZATION 
+2014-12-03 15:58:29,968 INFO 10 dtxk.business.BasicService - LoadAllORGANIZATION method got ORGANIZATION with successfully
+2014-12-03 15:58:29,971 DEBUG 10 dtxk.business.BasicService - LoadAllORGANIZATION finished
+2014-12-03 15:58:44,088 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2014-12-03 15:58:44,093 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :15307
+2014-12-03 15:58:44,231 INFO 10 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2014-12-03 15:58:44,233 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2014-12-03 15:58:54,807 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-03 15:58:54,824 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-12-03 15:58:54,828 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :80900601000110
+2014-12-03 15:58:54,835 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-12-03 15:58:54,837 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-12-03 15:59:11,773 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2014-12-03 15:59:11,777 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :15307
+2014-12-03 15:59:11,893 INFO 10 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2014-12-03 15:59:11,896 DEBUG 10 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished

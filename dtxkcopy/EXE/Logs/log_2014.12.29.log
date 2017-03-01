@@ -1,0 +1,681 @@
+2014-12-29 09:44:47,666 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-12-29 09:44:53,659 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 09:45:13,817 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 09:45:13,919 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 09:45:18,298 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-29 09:45:18,300 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-29 09:45:26,893 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-29 09:45:27,861 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-29 09:45:28,227 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-29 09:45:28,229 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-29 09:45:33,668 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-29 09:45:33,697 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-29 09:45:34,318 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-29 09:45:34,457 DEBUG 1 dtxk.business.BasicService - LoadAllECONOMIC_REGION started
+2014-12-29 09:45:34,613 DEBUG 1 dtxk.business.BasicService - LoadAllECONOMIC_REGION try to getting ALL ECONOMIC_REGION 
+2014-12-29 09:45:34,787 INFO 1 dtxk.business.BasicService - LoadAllECONOMIC_REGION method got ECONOMIC_REGION with successfully
+2014-12-29 09:45:34,788 DEBUG 1 dtxk.business.BasicService - LoadAllECONOMIC_REGION finished
+2014-12-29 09:45:35,795 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-29 09:45:35,838 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-29 09:45:36,316 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-29 09:45:36,317 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-29 09:46:01,186 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-29 09:46:01,308 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-29 09:46:02,136 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-29 09:46:02,137 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-29 09:46:03,258 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET started
+2014-12-29 09:46:03,334 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET try to getting ALL STREET 
+2014-12-29 09:46:03,474 INFO 1 dtxk.business.BasicService - LoadAllSTREET method got STREET with successfully
+2014-12-29 09:46:03,476 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET finished
+2014-12-29 09:46:03,479 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET started
+2014-12-29 09:46:03,480 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET try to getting ALL STREET 
+2014-12-29 09:46:03,483 INFO 1 dtxk.business.BasicService - LoadAllSTREET method got STREET with successfully
+2014-12-29 09:46:03,485 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET finished
+2014-12-29 09:46:08,410 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-12-29 09:46:08,426 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-12-29 09:46:08,441 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-12-29 09:46:08,442 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-12-29 09:46:09,214 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET_TYPE started
+2014-12-29 09:46:09,262 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET_TYPE try to getting ALL STREET_TYPE 
+2014-12-29 09:46:09,275 INFO 1 dtxk.business.BasicService - LoadAllSTREET_TYPE method got STREET_TYPE with successfully
+2014-12-29 09:46:09,276 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET_TYPE finished
+2014-12-29 09:46:10,172 DEBUG 1 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE started
+2014-12-29 09:46:10,192 DEBUG 1 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE try to getting ALL SERVITUDE_TYPE 
+2014-12-29 09:46:10,241 INFO 1 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE method got SERVITUDE_TYPE with successfully
+2014-12-29 09:46:10,242 DEBUG 1 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE finished
+2014-12-29 09:46:16,562 DEBUG 1 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-12-29 09:46:16,662 DEBUG 1 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-12-29 09:46:16,943 INFO 1 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-12-29 09:46:16,945 DEBUG 1 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-12-29 09:46:23,281 DEBUG 1 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-12-29 09:46:23,290 DEBUG 1 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-12-29 09:46:23,296 INFO 1 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-12-29 09:46:23,297 DEBUG 1 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-12-29 09:57:41,504 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-29 09:57:42,486 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 09:58:10,329 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 09:58:10,331 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 09:58:11,441 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-29 09:58:11,442 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-29 09:58:14,722 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-29 09:58:14,738 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-29 09:58:14,774 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-29 09:58:14,775 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-29 09:58:17,558 DEBUG 10 dtxk.business.BasicService - LoadAllECONOMIC_REGION started
+2014-12-29 09:58:17,560 DEBUG 10 dtxk.business.BasicService - LoadAllECONOMIC_REGION try to getting ALL ECONOMIC_REGION 
+2014-12-29 09:58:17,579 INFO 10 dtxk.business.BasicService - LoadAllECONOMIC_REGION method got ECONOMIC_REGION with successfully
+2014-12-29 09:58:17,580 DEBUG 10 dtxk.business.BasicService - LoadAllECONOMIC_REGION finished
+2014-12-29 09:58:18,097 DEBUG 10 dtxk.business.BasicService - LoadAllSTREET_TYPE started
+2014-12-29 09:58:18,098 DEBUG 10 dtxk.business.BasicService - LoadAllSTREET_TYPE try to getting ALL STREET_TYPE 
+2014-12-29 09:58:18,108 INFO 10 dtxk.business.BasicService - LoadAllSTREET_TYPE method got STREET_TYPE with successfully
+2014-12-29 09:58:18,108 DEBUG 10 dtxk.business.BasicService - LoadAllSTREET_TYPE finished
+2014-12-29 09:58:18,719 DEBUG 10 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE started
+2014-12-29 09:58:18,721 DEBUG 10 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE try to getting ALL SERVITUDE_TYPE 
+2014-12-29 09:58:18,744 INFO 10 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE method got SERVITUDE_TYPE with successfully
+2014-12-29 09:58:18,745 DEBUG 10 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE finished
+2014-12-29 09:58:19,306 DEBUG 10 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-12-29 09:58:19,307 DEBUG 10 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-12-29 09:58:19,329 INFO 10 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-12-29 09:58:19,330 DEBUG 10 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-12-29 09:58:22,663 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER started
+2014-12-29 09:58:22,665 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER try to getting ALL CONTRACT_MATTER 
+2014-12-29 09:58:22,774 INFO 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER method got CONTRACT_MATTER with successfully
+2014-12-29 09:58:22,775 DEBUG 10 dtxk.business.BasicService - LoadAllCONTRACT_MATTER finished
+2014-12-29 10:19:02,773 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-12-29 10:19:03,063 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 10:19:09,303 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 10:19:09,305 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 10:19:10,070 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-29 10:19:10,071 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-29 10:20:15,908 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-29 10:20:15,915 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-29 10:20:15,937 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-29 10:20:15,938 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-29 10:20:22,448 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-29 10:20:22,467 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-29 10:20:22,473 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-29 10:20:22,473 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-29 10:20:22,494 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-29 10:20:22,495 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-29 10:20:22,565 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-29 10:20:22,566 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-29 10:20:23,939 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-29 10:20:23,969 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-29 10:20:24,244 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-29 10:20:27,297 DEBUG 9 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2014-12-29 10:20:27,303 DEBUG 9 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :5805
+2014-12-29 10:20:27,423 INFO 9 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2014-12-29 10:20:27,425 DEBUG 9 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2014-12-29 10:20:27,505 DEBUG 9 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2014-12-29 10:20:27,507 DEBUG 9 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :5805
+2014-12-29 10:20:28,001 INFO 9 dtxk.business.Services.ServiceParcel - GetParcelOwners can't getting PARCEL_OWNER
+2014-12-29 10:20:28,046 ERROR 9 dtxk.business.Services.ServiceParcel - GetParcelOwners didn't work ,Exception message=System.Data.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> Oracle.DataAccess.Client.OracleException: ORA-00904: "Extent2"."NOTE": invalid identifier
+   at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.EntityClient.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   --- End of inner exception stack trace ---
+   at System.Data.EntityClient.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   at System.Data.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at dtxk.business.Services.ServiceParcel.GetParcelOwners(Decimal idParcel, BusinessParam businessParam) in D:\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceParcel.cs:line 353
+2014-12-29 10:20:28,228 DEBUG 9 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2014-12-29 10:20:29,154 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-29 10:20:29,155 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-29 10:20:29,165 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-29 10:20:29,166 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-29 11:04:30,454 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-12-29 11:04:30,711 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 11:04:36,612 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 11:04:36,614 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 11:04:37,491 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-29 11:04:37,492 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-29 11:04:39,849 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-29 11:04:39,856 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-29 11:04:39,878 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-29 11:04:39,879 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-29 11:04:41,335 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT started
+2014-12-29 11:04:41,337 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT try to getting ALL PRICE_DISTRICT 
+2014-12-29 11:04:41,395 INFO 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT method got PRICE_DISTRICT with successfully
+2014-12-29 11:04:41,396 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT finished
+2014-12-29 11:04:42,202 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT started
+2014-12-29 11:04:42,365 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT try to getting ALL PRICE_DISTRICT 
+2014-12-29 11:04:42,391 INFO 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT method got PRICE_DISTRICT with successfully
+2014-12-29 11:04:42,393 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT finished
+2014-12-29 11:49:06,914 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-12-29 11:49:07,271 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 11:49:11,949 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 11:49:11,951 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 11:49:12,828 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-29 11:49:12,829 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-29 12:14:43,621 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-12-29 12:14:43,835 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:05:42,426 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-29 16:05:42,913 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:05:48,023 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:05:48,025 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:05:48,241 ERROR 3 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:05:53,967 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:05:53,967 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:05:54,112 ERROR 3 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:06:00,911 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-12-29 16:06:01,053 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:06:05,503 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:06:05,505 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:06:05,544 ERROR 4 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:06:36,091 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-12-29 16:06:36,283 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:06:42,766 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:06:42,768 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:06:42,821 ERROR 11 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:07:21,019 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-12-29 16:07:21,227 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:08:19,060 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:08:19,064 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:08:19,112 ERROR 10 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:10:13,567 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-12-29 16:10:13,703 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:10:17,664 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:10:17,668 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:10:17,710 ERROR 4 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:11:11,524 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-29 16:11:11,745 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:11:16,373 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:11:16,375 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:11:16,429 ERROR 6 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:12:21,923 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-12-29 16:12:22,122 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:12:26,389 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:12:26,391 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:12:26,445 ERROR 10 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:12:50,042 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-29 16:12:50,232 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:12:53,416 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:12:53,418 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:12:53,472 ERROR 6 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:12:57,011 DEBUG 12 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:12:57,012 DEBUG 12 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:12:57,037 ERROR 12 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 16:13:58,214 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-29 16:13:58,400 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 16:14:02,985 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 16:14:02,987 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 16:14:03,040 ERROR 6 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-29 17:18:20,392 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-29 17:18:23,811 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-29 17:18:32,583 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-29 17:18:32,619 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-29 17:18:32,954 ERROR 3 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.MetadataException: Schema specified is not valid. Errors: 
+The relationship 'dtxk.model.FK_OWNER_LEGAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_USER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_PHYSICAL_PERSON' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_ARCH_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_OWNER_DOCUMENT_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+The relationship 'dtxk.model.FK_PARCEL_OWNER_OWNER' was not loaded because the type 'dtxk.model.OWNER' is not available.
+The following information may be useful in resolving the previous error:
+The required property 'ID_PARCEL_OWNER' does not exist on the type 'dtxk.model.OWNER'.
+
+
+   at System.Data.Metadata.Edm.ObjectItemCollection.LoadAssemblyFromCache(ObjectItemCollection objectItemCollection, Assembly assembly, Boolean loadReferencedAssemblies, EdmItemCollection edmItemCollection, Action`1 logLoadMessage)
+   at System.Data.Metadata.Edm.ObjectItemCollection.ImplicitLoadAssemblyForType(Type type, EdmItemCollection edmItemCollection)
+   at System.Data.Metadata.Edm.MetadataWorkspace.ImplicitLoadAssemblyForType(Type type, Assembly callingAssembly)
+   at System.Data.Objects.ObjectContext.GetTypeUsage(Type entityCLRType)
+   at System.Data.Objects.ObjectContext.GetEntitySetForNameAndType(String entitySetName, Type entityCLRType, String exceptionParameterName)
+   at System.Data.Objects.ObjectContext.CreateObjectSet[TEntity](String entitySetName)
+   at dtxk.database.DtxkContext.get_APP_USER() in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Database\dtxk.database\DataModel.Designer.cs:line 278
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40

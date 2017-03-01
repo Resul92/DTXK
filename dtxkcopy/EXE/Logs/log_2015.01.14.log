@@ -1,0 +1,747 @@
+2015-01-14 09:41:00,175 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 09:41:01,262 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 09:42:35,781 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 09:42:35,781 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 09:42:36,811 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 09:42:36,827 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 09:44:25,809 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 09:44:25,824 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 09:44:25,934 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 09:44:25,934 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 09:44:25,965 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 09:44:25,965 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 09:44:26,043 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 09:44:26,043 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 09:44:28,726 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 09:44:28,757 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 09:44:28,913 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 09:44:28,929 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 09:44:34,624 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 09:44:34,624 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 09:44:34,624 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 09:44:34,624 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 09:44:34,639 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 09:44:34,639 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 09:44:34,639 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 09:44:34,655 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 09:44:36,948 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 09:44:36,948 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 09:44:36,979 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 09:44:36,979 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 09:46:04,536 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-01-14 09:46:04,801 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 09:47:18,256 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 09:47:18,272 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 09:47:19,114 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 09:47:19,114 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 09:47:40,645 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 09:47:40,645 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 09:47:40,677 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 09:47:40,677 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 09:47:40,692 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 09:47:40,692 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 09:47:40,708 INFO 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 09:47:40,708 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 09:47:42,114 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 09:47:42,114 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 09:47:42,161 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 09:47:42,176 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 09:55:08,507 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 09:55:08,782 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 09:55:13,756 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 09:55:13,756 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 09:55:14,536 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 09:55:14,536 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 09:55:17,827 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 09:55:17,827 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 09:55:17,858 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 09:55:17,858 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 09:55:17,874 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 09:55:17,874 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 09:55:17,890 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 09:55:17,890 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 09:55:19,653 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 09:55:19,653 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 09:55:19,731 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 09:55:19,747 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 09:56:29,272 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 09:56:29,522 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 09:56:34,061 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 09:56:34,061 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 09:56:34,904 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 09:56:34,904 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 09:56:37,212 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 09:56:37,212 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 09:56:37,228 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 09:56:37,228 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 09:56:37,244 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 09:56:37,244 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 09:56:37,259 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 09:56:37,259 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 09:56:39,162 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 09:56:39,162 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 09:56:39,209 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 09:56:39,225 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 09:58:25,500 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2015-01-14 09:58:25,500 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2015-01-14 09:58:25,875 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2015-01-14 09:58:25,875 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2015-01-14 10:01:21,937 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 10:01:22,186 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 10:01:27,335 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 10:01:27,335 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 10:01:28,318 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 10:01:28,536 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 10:01:30,564 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 10:01:30,580 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 10:01:30,596 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 10:01:30,596 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 10:01:30,611 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 10:01:30,611 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 10:01:30,627 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 10:01:30,627 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 10:01:32,936 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 10:01:32,951 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 10:01:32,998 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 10:01:32,998 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 10:01:34,340 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 10:01:34,340 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 10:01:34,355 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 10:01:34,355 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 10:05:03,515 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 10:05:03,765 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 10:06:19,682 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 10:06:19,682 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 10:06:20,587 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 10:06:20,587 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 10:06:23,740 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 10:06:23,755 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 10:06:23,771 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 10:06:23,771 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 10:06:23,786 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 10:06:23,786 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 10:06:23,802 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 10:06:23,802 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 10:06:27,642 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 10:06:27,657 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 10:06:27,704 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 10:06:27,704 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 10:10:23,488 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 10:10:23,769 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 10:10:31,850 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 10:10:31,850 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 10:10:32,599 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 10:10:32,599 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 10:10:39,823 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 10:10:39,823 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 10:10:39,838 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 10:10:39,838 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 10:10:39,854 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 10:10:39,869 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 10:10:39,885 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 10:10:39,885 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 10:10:45,768 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 10:10:45,768 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 10:10:45,831 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 10:10:45,831 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 10:16:40,814 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 10:16:41,063 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 10:16:45,634 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 10:16:45,650 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 10:16:46,461 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 10:16:46,461 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 10:16:48,801 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 10:16:48,816 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 10:16:48,832 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 10:16:48,832 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 10:16:48,848 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 10:16:48,848 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 10:16:48,863 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 10:16:48,863 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 10:16:53,200 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 10:16:53,200 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 10:16:53,278 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 10:16:53,278 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 10:18:19,064 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 10:18:19,345 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 10:18:33,560 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 10:18:33,560 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 10:18:34,309 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 10:18:34,309 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 10:18:38,943 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 10:18:38,943 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 10:18:38,958 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 10:18:38,958 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 10:18:38,974 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 10:18:38,974 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 10:18:38,990 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 10:18:38,990 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 10:18:40,378 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 10:18:40,378 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 10:18:40,440 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 10:18:40,440 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 10:20:09,537 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 10:20:09,771 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 10:29:27,347 DEBUG 22 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 10:29:27,347 DEBUG 22 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 10:29:28,252 INFO 22 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 10:29:28,267 DEBUG 22 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 10:35:42,029 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 10:35:42,029 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 10:35:42,045 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 10:35:42,045 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 10:35:42,061 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 10:35:42,061 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 10:35:42,076 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 10:35:42,076 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 10:35:53,170 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 10:35:53,170 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 10:35:53,233 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 10:35:53,233 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 10:55:49,147 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-01-14 10:55:49,411 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:02:41,559 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:02:41,793 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:02:48,066 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:02:48,066 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:02:48,940 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:02:48,940 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:02:51,982 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:02:51,982 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:02:51,997 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:02:51,997 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:02:52,013 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:02:52,013 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:02:52,029 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:02:52,029 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:04:16,611 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:04:16,877 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:05:12,402 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:05:12,651 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:05:17,349 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:05:17,349 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:05:18,176 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:05:18,176 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:05:21,050 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:05:21,050 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:05:21,081 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:05:21,081 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:05:21,097 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:05:21,097 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:05:21,112 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:05:21,112 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:06:42,520 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:06:42,848 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:06:47,465 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:06:47,465 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:06:48,214 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:06:48,214 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:06:50,585 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:06:50,585 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:06:50,617 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:06:50,617 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:06:50,632 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:06:50,632 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:06:50,648 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:06:50,648 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:08:04,130 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:08:04,364 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:08:09,060 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:08:09,060 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:08:09,902 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:08:09,902 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:08:11,790 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:08:11,806 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:08:11,821 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:08:11,821 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:08:11,837 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:08:11,837 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:08:11,852 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:08:11,852 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:09:32,172 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 11:09:32,172 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 11:09:32,203 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 11:09:32,203 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 11:09:36,758 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 11:09:36,758 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 11:09:36,774 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 11:09:36,774 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 11:09:40,377 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 11:09:40,377 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 11:09:40,424 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 11:09:40,424 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 11:09:44,137 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 11:09:44,153 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 11:09:44,168 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 11:09:44,168 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 11:09:47,463 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 11:09:47,463 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 11:09:47,494 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 11:09:47,494 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 11:09:51,269 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 11:09:51,269 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 11:09:51,300 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 11:09:51,300 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 11:10:50,040 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:10:50,270 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:11:14,867 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:11:14,867 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:11:15,632 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:11:15,632 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:11:18,239 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:11:18,239 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:11:18,254 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:11:18,254 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:11:18,270 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:11:18,270 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:11:18,286 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:11:18,286 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:11:35,725 DEBUG 11 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2015-01-14 11:11:35,725 DEBUG 11 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2015-01-14 11:11:35,896 INFO 11 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2015-01-14 11:11:35,896 DEBUG 11 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2015-01-14 11:11:50,443 DEBUG 12 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson started
+2015-01-14 11:11:50,443 DEBUG 12 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson try to getting LEGAL_PERSON  : Refresh=True
+2015-01-14 11:11:50,568 INFO 12 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson method got archives with successfully
+2015-01-14 11:11:50,568 DEBUG 12 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson finfished
+2015-01-14 11:29:30,544 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:29:30,824 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:29:35,286 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:29:35,286 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:29:36,035 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:29:36,035 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:29:37,907 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:29:37,922 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:29:37,938 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:29:37,938 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:29:37,954 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:29:37,954 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:29:37,969 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:29:37,969 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:29:42,166 DEBUG 3 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2015-01-14 11:29:42,166 DEBUG 3 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2015-01-14 11:29:42,228 INFO 3 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2015-01-14 11:29:42,228 DEBUG 3 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2015-01-14 11:29:50,621 DEBUG 14 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson started
+2015-01-14 11:29:50,621 DEBUG 14 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson try to getting LEGAL_PERSON  : Refresh=True
+2015-01-14 11:29:50,636 INFO 14 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson method got archives with successfully
+2015-01-14 11:29:50,636 DEBUG 14 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson finfished
+2015-01-14 11:30:36,086 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:30:36,343 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:30:41,675 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:30:41,675 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:30:42,486 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:30:42,486 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:30:44,763 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:30:44,763 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:30:44,795 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:30:44,795 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:30:44,810 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:30:44,810 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:30:44,826 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:30:44,826 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:30:49,334 DEBUG 12 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2015-01-14 11:30:49,334 DEBUG 12 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2015-01-14 11:30:49,397 INFO 12 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2015-01-14 11:30:49,397 DEBUG 12 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2015-01-14 11:31:48,293 DEBUG 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson started
+2015-01-14 11:31:48,293 DEBUG 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson try to getting LEGAL_PERSON  : Refresh=True
+2015-01-14 11:31:48,324 INFO 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson method got archives with successfully
+2015-01-14 11:31:48,324 DEBUG 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson finfished
+2015-01-14 11:32:34,541 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:32:34,796 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:32:39,211 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:32:39,211 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:32:40,053 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:32:40,053 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:32:44,063 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:32:44,063 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:32:44,094 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:32:44,094 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:32:44,109 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:32:44,109 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:32:44,125 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:32:44,125 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:32:51,239 DEBUG 15 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2015-01-14 11:32:51,239 DEBUG 15 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2015-01-14 11:32:51,301 INFO 15 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2015-01-14 11:32:51,301 DEBUG 15 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2015-01-14 11:33:01,259 DEBUG 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson started
+2015-01-14 11:33:01,274 DEBUG 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson try to getting LEGAL_PERSON  : Refresh=True
+2015-01-14 11:33:01,306 INFO 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson method got archives with successfully
+2015-01-14 11:33:01,306 DEBUG 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson finfished
+2015-01-14 11:33:04,069 DEBUG 15 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson started
+2015-01-14 11:33:04,069 DEBUG 15 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson try to getting LEGAL_PERSON  : Refresh=True
+2015-01-14 11:33:04,069 INFO 15 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson method got archives with successfully
+2015-01-14 11:33:04,069 DEBUG 15 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson finfished
+2015-01-14 11:33:05,629 DEBUG 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson started
+2015-01-14 11:33:05,629 DEBUG 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson try to getting LEGAL_PERSON  : Refresh=True
+2015-01-14 11:33:05,644 INFO 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson method got archives with successfully
+2015-01-14 11:33:05,644 DEBUG 11 dtxk.business.Services.ServiceLegalPerson - FindLegalPerson finfished
+2015-01-14 11:34:15,772 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:34:16,037 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:42:22,072 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:42:22,322 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:42:34,024 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:42:34,040 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:42:34,882 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:42:34,882 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:42:37,441 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:42:37,441 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:42:37,473 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:42:37,473 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:42:37,488 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:42:37,488 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:42:37,504 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:42:37,504 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:42:37,504 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 11:42:37,504 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 11:42:37,551 INFO 9 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 11:42:37,551 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 11:43:36,575 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:43:36,837 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:43:41,746 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:43:41,746 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:43:42,563 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:43:42,564 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:43:45,612 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:43:45,612 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:43:45,643 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:43:45,643 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:43:45,658 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:43:45,658 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:43:45,674 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:43:45,674 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:43:45,690 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 11:43:45,690 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 11:43:45,721 INFO 9 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 11:43:45,721 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 11:51:54,965 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:51:55,208 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:52:00,062 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:52:00,062 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:52:00,889 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:52:00,889 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:52:03,011 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:52:03,026 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:52:03,058 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:52:03,058 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:52:03,073 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:52:03,073 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:52:03,089 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:52:03,089 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:52:03,089 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 11:52:03,089 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 11:52:03,120 INFO 10 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 11:52:03,120 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 11:55:29,794 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:55:30,068 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:55:33,790 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:55:33,792 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:55:34,643 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:55:34,644 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:55:37,079 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:55:37,084 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:55:37,106 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:55:37,107 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:55:37,124 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:55:37,125 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:55:37,141 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:55:37,142 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:55:37,147 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 11:55:37,148 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 11:55:37,176 INFO 9 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 11:55:37,177 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 11:58:52,334 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 11:58:52,585 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 11:58:56,920 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 11:58:56,922 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 11:58:57,736 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 11:58:57,737 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 11:58:59,992 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 11:58:59,996 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 11:59:00,018 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 11:59:00,019 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 11:59:00,037 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 11:59:00,038 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 11:59:00,055 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 11:59:00,055 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 11:59:00,061 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 11:59:00,062 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 11:59:00,114 INFO 9 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 11:59:00,115 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 12:01:47,441 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-01-14 12:01:47,713 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 12:01:52,285 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 12:01:52,287 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 12:01:53,080 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 12:01:53,081 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 12:01:54,916 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 12:01:54,921 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 12:01:54,943 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 12:01:54,944 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 12:01:54,963 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 12:01:54,964 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 12:01:54,980 INFO 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 12:01:54,981 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 12:01:54,986 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 12:01:54,987 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 12:01:55,015 INFO 8 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 12:01:55,017 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 12:03:56,552 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-01-14 12:03:56,832 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 12:04:04,431 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 12:04:04,433 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 12:04:05,232 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 12:04:05,233 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 12:04:11,477 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 12:04:11,482 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 12:04:11,503 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 12:04:11,504 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 12:04:11,522 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 12:04:11,523 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 12:04:11,539 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 12:04:11,540 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 12:04:11,546 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 12:04:11,547 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 12:04:11,577 INFO 10 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 12:04:11,578 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 12:19:08,843 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-01-14 12:19:09,137 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 12:19:21,978 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 12:19:21,980 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 12:19:23,017 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 12:19:23,018 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 12:19:26,279 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 12:19:26,284 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 12:19:26,307 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 12:19:26,308 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 12:19:26,328 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 12:19:26,329 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 12:19:26,345 INFO 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 12:19:26,346 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 12:19:26,352 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 12:19:26,353 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 12:19:26,385 INFO 8 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 12:19:26,388 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 12:31:26,654 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 12:31:26,917 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 12:31:31,664 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 12:31:31,666 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 12:31:32,476 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 12:31:32,476 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 12:31:35,040 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 12:31:35,044 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 12:31:35,066 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 12:31:35,067 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 12:31:35,084 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 12:31:35,085 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 12:31:35,100 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 12:31:35,101 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 12:31:35,106 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 12:31:35,107 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 12:31:35,134 INFO 9 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 12:31:35,135 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 12:32:43,546 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 12:32:44,203 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 12:32:48,800 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 12:32:48,802 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 12:32:49,822 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 12:32:49,823 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 12:33:49,801 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 12:33:49,806 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 12:33:49,829 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 12:33:49,830 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 12:33:49,849 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 12:33:49,850 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 12:33:49,866 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 12:33:49,867 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 12:33:49,873 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 12:33:49,874 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 12:33:49,923 INFO 9 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 12:33:49,924 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 12:33:49,976 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2015-01-14 12:33:49,977 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2015-01-14 12:33:50,119 INFO 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2015-01-14 12:33:50,120 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2015-01-14 12:34:44,981 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-01-14 12:34:44,984 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-01-14 12:34:45,052 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-01-14 12:34:45,053 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-01-14 14:18:25,103 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-01-14 14:18:25,437 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 14:18:30,810 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 14:18:30,843 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 14:18:31,666 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 14:18:31,667 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 14:18:37,725 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 14:18:37,918 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 14:18:37,940 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 14:18:37,941 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 14:18:38,016 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 14:18:38,018 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 14:18:38,058 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 14:18:38,059 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 14:18:38,067 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 14:18:38,068 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 14:18:38,100 INFO 10 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 14:18:38,101 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 14:18:38,151 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2015-01-14 14:18:38,155 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2015-01-14 14:18:38,173 INFO 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2015-01-14 14:18:38,174 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2015-01-14 14:18:38,203 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2015-01-14 14:18:38,205 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2015-01-14 14:18:38,427 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2015-01-14 14:18:38,429 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2015-01-14 14:18:38,471 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2015-01-14 14:18:38,472 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2015-01-14 14:18:38,654 INFO 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2015-01-14 14:18:38,655 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2015-01-14 17:22:28,501 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-01-14 17:22:28,998 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 17:22:55,066 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 17:22:55,088 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 17:22:56,061 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 17:22:56,062 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 17:23:59,540 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 17:23:59,579 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 17:23:59,601 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 17:23:59,602 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 17:23:59,629 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 17:23:59,630 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 17:23:59,658 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 17:23:59,659 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 17:23:59,671 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 17:23:59,672 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 17:23:59,713 INFO 10 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 17:23:59,714 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 17:23:59,850 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2015-01-14 17:23:59,926 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2015-01-14 17:24:00,017 INFO 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2015-01-14 17:24:00,019 DEBUG 10 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2015-01-14 17:24:00,051 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM started
+2015-01-14 17:24:00,053 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2015-01-14 17:24:00,072 INFO 10 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2015-01-14 17:24:00,073 DEBUG 10 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2015-01-14 17:24:00,091 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2015-01-14 17:24:00,092 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2015-01-14 17:24:00,109 INFO 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2015-01-14 17:24:00,110 DEBUG 10 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2015-01-14 17:31:05,087 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-01-14 17:31:05,360 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 17:31:10,880 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 17:31:10,883 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 17:31:11,677 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 17:31:11,677 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 17:31:16,021 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 17:31:16,026 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 17:31:16,048 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 17:31:16,049 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 17:31:16,067 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 17:31:16,068 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 17:31:16,084 INFO 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 17:31:16,085 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 17:31:16,096 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 17:31:16,097 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 17:31:16,127 INFO 8 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 17:31:16,128 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 17:31:16,179 DEBUG 8 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2015-01-14 17:31:16,180 DEBUG 8 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2015-01-14 17:31:16,198 INFO 8 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2015-01-14 17:31:16,251 DEBUG 8 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2015-01-14 17:31:16,274 DEBUG 8 dtxk.business.BasicService - LoadAllUSING_FORM started
+2015-01-14 17:31:16,282 DEBUG 8 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2015-01-14 17:31:16,308 INFO 8 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2015-01-14 17:31:16,309 DEBUG 8 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2015-01-14 17:31:16,326 DEBUG 8 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2015-01-14 17:31:16,327 DEBUG 8 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2015-01-14 17:31:16,344 INFO 8 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2015-01-14 17:31:16,345 DEBUG 8 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2015-01-14 17:31:18,540 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson started
+2015-01-14 17:31:18,541 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=
+2015-01-14 17:31:18,542 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson finfished
+2015-01-14 17:31:19,963 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson started
+2015-01-14 17:31:19,964 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=
+2015-01-14 17:31:19,965 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson finfished
+2015-01-14 17:31:20,237 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson started
+2015-01-14 17:31:20,238 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=
+2015-01-14 17:31:20,239 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson finfished
+2015-01-14 17:33:08,498 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-01-14 17:33:08,747 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 17:33:13,425 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 17:33:13,427 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 17:33:14,277 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 17:33:14,278 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 17:33:16,249 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 17:33:16,254 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 17:33:16,297 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 17:33:16,298 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 17:33:16,316 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 17:33:16,317 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 17:33:16,335 INFO 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 17:33:16,335 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 17:33:16,348 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 17:33:16,349 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 17:33:16,399 INFO 8 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 17:33:16,400 DEBUG 8 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 17:33:16,450 DEBUG 8 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2015-01-14 17:33:16,452 DEBUG 8 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2015-01-14 17:33:16,494 INFO 8 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2015-01-14 17:33:16,495 DEBUG 8 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2015-01-14 17:33:16,505 DEBUG 8 dtxk.business.BasicService - LoadAllUSING_FORM started
+2015-01-14 17:33:16,506 DEBUG 8 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2015-01-14 17:33:16,525 INFO 8 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2015-01-14 17:33:16,526 DEBUG 8 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2015-01-14 17:33:16,543 DEBUG 8 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2015-01-14 17:33:16,544 DEBUG 8 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2015-01-14 17:33:16,561 INFO 8 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2015-01-14 17:33:16,562 DEBUG 8 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2015-01-14 17:33:18,774 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson started
+2015-01-14 17:33:18,775 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=
+2015-01-14 17:33:18,776 DEBUG 8 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson finfished
+2015-01-14 17:35:54,673 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-14 17:35:54,934 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-14 17:36:07,904 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-14 17:36:07,906 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-14 17:36:08,712 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-14 17:36:08,713 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-14 17:36:14,392 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-14 17:36:14,397 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-14 17:36:14,418 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-14 17:36:14,419 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-14 17:36:14,436 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-14 17:36:14,437 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-14 17:36:14,453 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-14 17:36:14,454 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-14 17:36:14,465 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER started
+2015-01-14 17:36:14,466 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2015-01-14 17:36:14,496 INFO 9 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2015-01-14 17:36:14,498 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_USER finished
+2015-01-14 17:36:14,548 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2015-01-14 17:36:14,549 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2015-01-14 17:36:14,652 INFO 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2015-01-14 17:36:14,653 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2015-01-14 17:36:14,663 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2015-01-14 17:36:14,664 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2015-01-14 17:36:14,683 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2015-01-14 17:36:14,684 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2015-01-14 17:36:14,702 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2015-01-14 17:36:14,703 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2015-01-14 17:36:14,720 INFO 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2015-01-14 17:36:14,721 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2015-01-14 17:36:17,582 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson started
+2015-01-14 17:36:17,584 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=
+2015-01-14 17:36:17,585 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson finfished
+2015-01-14 17:36:19,717 DEBUG 9 dtxk.business.Services.ServiceLegalPerson - LoadAllLegalPerson started
+2015-01-14 17:36:19,718 DEBUG 9 dtxk.business.Services.ServiceLegalPerson - LoadAllLegalPerson try to getting LEGAL_PERSON  : Refresh=
+2015-01-14 17:36:19,719 DEBUG 9 dtxk.business.Services.ServiceLegalPerson - LoadAllLegalPerson finfished
+2015-01-14 17:36:50,962 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson started
+2015-01-14 17:36:50,963 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=
+2015-01-14 17:36:50,964 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson finfished
+2015-01-14 17:36:51,254 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson started
+2015-01-14 17:36:51,256 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=
+2015-01-14 17:36:51,257 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson finfished
+2015-01-14 17:36:51,528 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson started
+2015-01-14 17:36:51,529 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=
+2015-01-14 17:36:51,530 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - LoadAllPerson finfished

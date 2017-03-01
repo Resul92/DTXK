@@ -1,0 +1,96 @@
+2015-01-22 11:23:29,270 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-01-22 11:23:30,630 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-01-22 11:26:30,011 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-01-22 11:26:30,011 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-01-22 11:26:31,602 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-01-22 11:26:31,602 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-01-22 11:26:41,461 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-01-22 11:26:41,461 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-01-22 11:26:41,586 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-01-22 11:26:41,586 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-01-22 11:26:41,601 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-01-22 11:26:41,601 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-01-22 11:26:41,757 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-01-22 11:26:41,757 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-01-22 11:26:41,773 DEBUG 9 dtxk.business.BasicService - LoadAllEMPLOYEE started
+2015-01-22 11:26:41,789 DEBUG 9 dtxk.business.BasicService - LoadAllEMPLOYEE try to getting ALL EMPLOYEE 
+2015-01-22 11:26:42,101 INFO 9 dtxk.business.BasicService - LoadAllEMPLOYEE method got EMPLOYEE with successfully
+2015-01-22 11:26:42,101 DEBUG 9 dtxk.business.BasicService - LoadAllEMPLOYEE finished
+2015-01-22 11:26:42,147 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2015-01-22 11:26:42,147 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2015-01-22 11:26:42,225 INFO 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2015-01-22 11:26:42,225 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2015-01-22 11:26:42,241 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2015-01-22 11:26:42,241 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2015-01-22 11:26:42,319 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2015-01-22 11:26:42,319 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2015-01-22 11:26:42,350 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2015-01-22 11:26:42,350 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2015-01-22 11:26:42,397 INFO 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2015-01-22 11:26:42,397 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2015-01-22 11:26:42,413 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE started
+2015-01-22 11:26:42,413 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE try to getting ALL DOCUMENT_TYPE 
+2015-01-22 11:26:42,506 INFO 9 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE method got DOCUMENT_TYPE with successfully
+2015-01-22 11:26:42,506 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT_TYPE finished
+2015-01-22 11:26:45,763 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT started
+2015-01-22 11:26:45,763 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT try to getting ALL DOCUMENT 
+2015-01-22 11:26:48,430 INFO 9 dtxk.business.BasicService - LoadAllDOCUMENT method got DOCUMENT with successfully
+2015-01-22 11:26:48,430 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT finished
+2015-01-22 11:26:49,912 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT started
+2015-01-22 11:26:49,912 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT try to getting ALL DOCUMENT 
+2015-01-22 11:26:51,566 INFO 9 dtxk.business.BasicService - LoadAllDOCUMENT method got DOCUMENT with successfully
+2015-01-22 11:26:51,566 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT finished
+2015-01-22 11:28:40,479 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT started
+2015-01-22 11:28:40,481 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT try to getting ALL DOCUMENT 
+2015-01-22 11:28:42,320 INFO 9 dtxk.business.BasicService - LoadAllDOCUMENT method got DOCUMENT with successfully
+2015-01-22 11:28:42,321 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT finished
+2015-01-22 11:33:10,050 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT started
+2015-01-22 11:33:10,065 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT try to getting ALL OWNER_DOCUMENT 
+2015-01-22 11:33:12,519 INFO 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT method got OWNER_DOCUMENT with successfully
+2015-01-22 11:33:12,519 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT finished
+2015-01-22 11:37:06,401 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT started
+2015-01-22 11:37:06,404 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT try to getting ALL OWNER_DOCUMENT 
+2015-01-22 11:37:07,929 INFO 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT method got OWNER_DOCUMENT with successfully
+2015-01-22 11:37:07,930 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT finished
+2015-01-22 11:44:12,208 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT started
+2015-01-22 11:44:12,223 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT try to getting ALL OWNER_DOCUMENT 
+2015-01-22 11:44:13,768 INFO 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT method got OWNER_DOCUMENT with successfully
+2015-01-22 11:44:13,768 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT finished
+2015-01-22 11:44:14,517 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT started
+2015-01-22 11:44:14,517 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT try to getting ALL OWNER_DOCUMENT 
+2015-01-22 11:44:16,045 INFO 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT method got OWNER_DOCUMENT with successfully
+2015-01-22 11:44:16,045 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT finished
+2015-01-22 11:44:16,077 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT started
+2015-01-22 11:44:16,077 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT try to getting ALL OWNER_DOCUMENT 
+2015-01-22 11:44:17,574 INFO 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT method got OWNER_DOCUMENT with successfully
+2015-01-22 11:44:17,574 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT finished
+2015-01-22 11:44:17,605 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT started
+2015-01-22 11:44:17,605 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT try to getting ALL OWNER_DOCUMENT 
+2015-01-22 11:44:19,119 INFO 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT method got OWNER_DOCUMENT with successfully
+2015-01-22 11:44:19,119 DEBUG 9 dtxk.business.BasicService - LoadAllOWNER_DOCUMENT finished
+2015-01-22 11:59:05,538 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER started
+2015-01-22 11:59:05,554 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER try to getting ALL PARCEL_OWNER 
+2015-01-22 11:59:08,163 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER method got PARCEL_OWNER with successfully
+2015-01-22 11:59:08,163 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER finished
+2015-01-22 12:04:33,712 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER started
+2015-01-22 12:04:33,728 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER try to getting ALL PARCEL_OWNER 
+2015-01-22 12:04:35,506 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER method got PARCEL_OWNER with successfully
+2015-01-22 12:04:35,506 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER finished
+2015-01-22 12:04:35,537 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER started
+2015-01-22 12:04:35,537 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER try to getting ALL PARCEL_OWNER 
+2015-01-22 12:04:37,253 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER method got PARCEL_OWNER with successfully
+2015-01-22 12:04:37,253 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER finished
+2015-01-22 12:04:37,285 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER started
+2015-01-22 12:04:37,285 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER try to getting ALL PARCEL_OWNER 
+2015-01-22 12:04:38,891 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER method got PARCEL_OWNER with successfully
+2015-01-22 12:04:38,891 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER finished
+2015-01-22 12:04:38,938 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER started
+2015-01-22 12:04:38,938 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER try to getting ALL PARCEL_OWNER 
+2015-01-22 12:04:40,592 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER method got PARCEL_OWNER with successfully
+2015-01-22 12:04:40,592 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER finished
+2015-01-22 12:04:40,639 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER started
+2015-01-22 12:04:40,639 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER try to getting ALL PARCEL_OWNER 
+2015-01-22 12:04:42,261 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER method got PARCEL_OWNER with successfully
+2015-01-22 12:04:42,261 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_OWNER finished
+2015-01-22 16:36:31,617 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-01-22 16:36:35,483 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.

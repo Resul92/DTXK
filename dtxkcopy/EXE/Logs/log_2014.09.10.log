@@ -1,0 +1,406 @@
+2014-09-10 16:09:58,597 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-10 16:10:02,441 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-10 16:10:45,219 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-10 16:10:45,233 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-10 16:10:49,854 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-10 16:10:49,857 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-10 16:12:21,249 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-10 16:12:21,276 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-10 16:12:21,374 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-10 16:12:21,377 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-10 16:12:21,419 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-09-10 16:12:21,422 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-09-10 16:12:21,482 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-09-10 16:12:21,484 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-09-10 16:12:47,967 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:12:49,517 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:13:42,878 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-10 16:13:43,485 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-10 16:13:47,895 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-10 16:13:47,902 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-10 16:13:52,526 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username('admin') or password is invalid
+2014-09-10 16:13:52,528 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-10 16:13:59,047 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-10 16:13:59,049 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-10 16:13:59,099 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-10 16:13:59,100 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-10 16:15:05,326 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:15:06,829 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:15:14,281 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-10 16:15:14,286 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-10 16:15:14,369 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-10 16:15:14,372 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-10 16:15:14,434 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:15:14,476 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:15:14,581 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:15:14,583 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:15:14,619 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:14,621 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:15,415 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:15,418 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:15,519 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:15,521 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:16,023 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:16,027 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:16,079 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:15:16,081 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:15:16,116 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:15:16,118 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:15:16,135 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:16,136 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:16,641 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:16,644 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:25,291 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:25,294 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:25,858 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:25,861 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:25,938 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:25,940 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:26,484 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:26,488 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:26,525 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:26,526 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:26,993 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:26,996 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:27,025 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:27,027 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:27,434 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:27,437 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:27,463 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:27,465 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:27,849 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:27,852 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:31,697 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:15:31,700 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:15:31,742 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:15:31,745 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:15:31,763 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:31,767 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:32,315 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:32,318 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:33,699 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:33,702 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:34,240 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:34,244 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:45,460 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:15:45,474 DEBUG 9 dtxk.business.Services.ServiceCadastralRegions - FindByCadastralCode started
+2014-09-10 16:15:45,477 DEBUG 9 dtxk.business.Services.ServiceCadastralRegions - FindByCadastralCode try to getting Cadastral_Region for Code :809
+2014-09-10 16:15:45,515 INFO 9 dtxk.business.Services.ServiceCadastralRegions - FindByCadastralCode method got Cadatral_Region with successfully
+2014-09-10 16:15:45,517 DEBUG 9 dtxk.business.Services.ServiceCadastralRegions - FindByCadastralCode finfished
+2014-09-10 16:15:57,890 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:15:58,918 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:16:01,104 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-10 16:16:01,107 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-10 16:16:01,126 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-10 16:16:01,127 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-10 16:16:01,143 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:16:01,145 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:16:01,200 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:16:01,203 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:16:01,224 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:16:01,226 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:16:01,920 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:16:01,954 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:16:02,062 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:16:02,064 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:16:02,544 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:16:02,547 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:16:02,594 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:16:02,596 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:16:02,627 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:16:02,629 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:16:02,645 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:16:02,646 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:16:03,040 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:16:03,043 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:16:05,502 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:16:05,505 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:16:05,541 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:16:05,542 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:16:05,558 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:16:05,559 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:16:06,104 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:16:06,108 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:16:07,765 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:16:07,767 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:16:08,306 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:16:08,309 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:17:54,129 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-10 16:17:54,736 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-10 16:17:59,914 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-10 16:17:59,922 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-10 16:18:04,230 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-10 16:18:04,232 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-10 16:18:47,770 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:18:49,304 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:18:51,509 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-10 16:18:51,514 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-10 16:18:51,593 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-10 16:18:51,595 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-10 16:18:51,842 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:18:51,845 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:18:51,977 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:18:51,980 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:18:52,020 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:18:52,022 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:18:52,773 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:18:52,777 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:18:52,894 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:18:52,896 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:18:53,345 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:18:53,347 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:18:53,389 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:18:53,390 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:18:53,420 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:18:53,422 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:18:53,438 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:18:53,439 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:18:53,814 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:18:53,817 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:18:57,709 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:18:57,713 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:18:57,765 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:18:57,769 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:18:57,787 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:18:57,789 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:18:58,330 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:18:58,333 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:18:59,803 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:18:59,807 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:19:00,337 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:19:00,340 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:19:03,497 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-10 16:19:03,501 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-10 16:19:03,719 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-10 16:19:03,721 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-10 16:19:03,724 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-10 16:19:03,730 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-09-10 16:19:03,736 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-09-10 16:19:04,104 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-09-10 16:19:04,106 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-09-10 16:19:04,108 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-09-10 16:19:06,596 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:19:07,961 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:19:09,873 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-10 16:19:09,898 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-10 16:19:09,930 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-10 16:19:09,933 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-10 16:19:09,952 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:19:09,955 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:19:09,998 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:19:10,000 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:19:10,021 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:19:10,022 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:19:10,686 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:19:10,689 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:19:10,795 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:19:10,796 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:19:11,240 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:19:11,243 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:19:11,290 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:19:11,292 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:19:11,318 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:19:11,319 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:19:11,334 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:19:11,335 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:19:11,704 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:19:11,707 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:19:11,736 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:19:11,737 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:19:11,759 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:19:11,760 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:19:11,772 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:19:11,773 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:19:12,092 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:19:12,094 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:19:12,111 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:19:12,112 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:19:12,405 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:19:12,407 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:19:18,191 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-10 16:19:18,195 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-10 16:19:18,421 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-10 16:19:18,424 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-10 16:19:18,426 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-10 16:19:18,438 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-09-10 16:19:18,440 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-09-10 16:19:18,672 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-09-10 16:19:18,674 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-09-10 16:19:18,675 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-09-10 16:19:22,350 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:19:22,361 DEBUG 9 dtxk.business.Services.ServiceMunicipality - FindByCadastralCode started
+2014-09-10 16:19:22,363 DEBUG 9 dtxk.business.Services.ServiceMunicipality - FindByCadastralCode try to getting MUNICIPALITY for Code : Code=809006
+2014-09-10 16:19:22,398 INFO 9 dtxk.business.Services.ServiceMunicipality - FindByCadastralCode method got Municipality with successfully
+2014-09-10 16:19:22,400 DEBUG 9 dtxk.business.Services.ServiceMunicipality - FindByCadastralCode finfished
+2014-09-10 16:19:27,332 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:19:27,335 DEBUG 9 dtxk.business.Services.ServiceMunicipality - FindByCadastralCode started
+2014-09-10 16:19:27,337 DEBUG 9 dtxk.business.Services.ServiceMunicipality - FindByCadastralCode try to getting MUNICIPALITY for Code : Code=809006
+2014-09-10 16:19:27,349 INFO 9 dtxk.business.Services.ServiceMunicipality - FindByCadastralCode method got Municipality with successfully
+2014-09-10 16:19:27,351 DEBUG 9 dtxk.business.Services.ServiceMunicipality - FindByCadastralCode finfished
+2014-09-10 16:19:54,765 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:19:55,028 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:20:00,133 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:20:00,397 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:22:52,020 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-10 16:22:52,652 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-10 16:22:57,024 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-10 16:22:57,032 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-10 16:23:01,584 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-10 16:23:01,586 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-10 16:23:21,523 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-10 16:23:21,547 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-10 16:23:21,629 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-10 16:23:21,632 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-10 16:23:25,777 DEBUG 9 dtxk.gis.ClsGISCadastralZone - GetRegion finished
+2014-09-10 16:23:25,788 DEBUG 9 dtxk.gis.ClsGISCadastralZone - GetRegion try to get CadastralZone for Region_code code=8
+2014-09-10 16:23:25,911 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:23:25,924 DEBUG 9 dtxk.gis.ClsGISCadastralZone - GetRegion stopped
+2014-09-10 16:23:25,970 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:23:25,972 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:23:26,101 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:23:26,104 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:23:30,723 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:23:30,744 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:23:30,746 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:23:31,540 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:23:31,543 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:23:37,468 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:23:37,489 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:23:37,491 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:23:39,085 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:23:39,087 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:23:51,760 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:23:52,050 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:23:52,335 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-09-10 16:23:52,339 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-09-10 16:23:52,422 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-09-10 16:23:52,424 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-09-10 16:23:52,445 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-10 16:23:52,447 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-10 16:23:52,473 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-10 16:23:52,476 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-10 16:23:52,491 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:23:52,493 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:23:52,536 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:23:52,538 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:23:52,572 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:23:52,574 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:23:53,270 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:23:53,273 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:23:53,304 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:23:53,307 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:14:53,517 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:14:53,520 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:14:53,554 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:14:53,556 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:14:54,319 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:14:54,322 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:14:54,335 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:14:54,336 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:14:54,622 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:14:54,625 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:14:54,667 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:14:54,668 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:14:55,324 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:14:55,327 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:14:55,340 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:14:55,341 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:14:55,360 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:14:55,361 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:14:55,369 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:14:55,371 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:14:55,675 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:14:55,678 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:14:55,693 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:14:55,694 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:14:56,313 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:14:56,315 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:14:59,042 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:14:59,045 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:14:59,100 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:14:59,102 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:14:59,119 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:14:59,121 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:14:59,664 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:14:59,668 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:14:59,689 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:14:59,691 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:15:00,738 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:15:00,741 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:15:02,520 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:15:02,522 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:15:03,061 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:15:03,064 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:15:03,089 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:15:03,092 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:15:04,187 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:15:04,190 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:15:05,783 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:15:05,785 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:15:06,974 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:15:06,977 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:15:06,996 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:15:06,997 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:15:07,938 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:15:07,941 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:15:11,798 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-10 16:15:11,803 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-10 16:15:12,733 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-10 16:15:12,736 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-10 16:15:12,740 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-10 16:15:12,746 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-09-10 16:15:12,751 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-09-10 16:15:13,226 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-09-10 16:15:13,228 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-09-10 16:15:13,230 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-09-10 16:35:45,126 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-10 16:35:45,737 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-10 16:35:56,361 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-10 16:35:56,374 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-10 16:36:00,976 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-10 16:36:00,977 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-10 16:36:17,803 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-10 16:36:17,827 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-10 16:36:17,906 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-10 16:36:17,921 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-10 16:36:21,735 DEBUG 9 dtxk.gis.ClsGISCadastralZone - GetRegion finished
+2014-09-10 16:36:21,744 DEBUG 9 dtxk.gis.ClsGISCadastralZone - GetRegion try to get CadastralZone for Region_code code=8
+2014-09-10 16:36:21,778 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:36:21,789 DEBUG 9 dtxk.gis.ClsGISCadastralZone - GetRegion stopped
+2014-09-10 16:36:21,829 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:36:21,831 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:36:21,956 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:36:21,959 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:36:26,306 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:36:26,327 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-09-10 16:36:26,329 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-09-10 16:36:27,121 INFO 9 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-09-10 16:36:27,124 DEBUG 9 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-09-10 16:36:28,918 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:36:28,940 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-09-10 16:36:28,943 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-09-10 16:36:30,504 INFO 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:36:30,507 DEBUG 9 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-09-10 16:36:52,134 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:36:52,407 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:36:52,578 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-10 16:36:54,865 DEBUG 9 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-09-10 16:36:54,874 DEBUG 9 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :80900601
+2014-09-10 16:36:54,906 INFO 9 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-09-10 16:36:54,908 DEBUG 9 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-09-10 16:36:54,992 DEBUG 9 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2014-09-10 16:36:54,995 DEBUG 9 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :2178
+2014-09-10 16:36:55,113 INFO 9 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2014-09-10 16:36:55,115 DEBUG 9 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2014-09-10 16:36:55,123 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:36:55,126 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:36:55,168 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:36:55,170 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:36:55,197 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-09-10 16:36:55,199 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-09-10 16:36:55,249 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-09-10 16:36:55,252 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-09-10 16:36:55,323 DEBUG 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2014-09-10 16:36:55,325 DEBUG 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=2178
+2014-09-10 16:36:55,330 INFO 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2014-09-10 16:36:55,331 DEBUG 9 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished

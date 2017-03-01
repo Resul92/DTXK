@@ -1,0 +1,222 @@
+2015-02-09 12:46:20,723 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-09 12:46:21,141 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-09 12:46:26,002 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-09 12:46:26,008 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-09 12:46:28,172 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-09 12:46:28,174 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-09 12:46:43,190 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-02-09 12:46:43,204 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-02-09 12:46:43,291 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-02-09 12:46:43,293 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-02-09 12:46:43,349 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 12:46:43,350 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 12:46:43,405 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 12:46:43,406 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 12:46:45,844 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-09 12:46:45,847 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-09 12:46:45,936 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-09 12:46:45,938 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-09 12:46:49,305 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-09 12:46:49,307 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-09 12:46:49,334 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-09 12:46:49,336 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-09 12:46:53,153 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2015-02-09 12:46:53,164 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :5805
+2015-02-09 12:46:53,233 INFO 1 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2015-02-09 12:46:53,234 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2015-02-09 12:46:53,316 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2015-02-09 12:46:53,318 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :5805
+2015-02-09 12:46:53,801 INFO 1 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2015-02-09 12:46:53,803 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2015-02-09 12:46:55,724 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 12:46:55,727 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 12:46:55,740 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 12:46:55,741 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 12:47:00,881 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-02-09 12:47:00,882 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-02-09 12:47:00,896 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-02-09 12:47:00,897 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-02-09 12:47:00,930 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 12:47:00,931 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 12:47:00,941 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 12:47:00,942 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 12:47:02,952 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-09 12:47:02,954 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-09 12:47:03,010 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-09 12:47:03,012 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-09 12:47:08,075 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2015-02-09 12:47:08,077 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :17745
+2015-02-09 12:47:08,082 INFO 1 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2015-02-09 12:47:08,083 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2015-02-09 12:47:08,114 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2015-02-09 12:47:08,115 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :17745
+2015-02-09 12:47:08,151 INFO 1 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2015-02-09 12:47:08,153 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2015-02-09 12:47:10,866 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-02-09 12:47:10,868 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-02-09 12:47:10,881 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-02-09 12:47:10,882 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-02-09 12:47:10,916 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 12:47:10,918 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 12:47:10,926 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 12:47:10,927 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 12:47:15,792 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-09 12:47:15,794 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-09 12:47:15,828 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-09 12:47:15,830 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-09 12:47:22,002 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2015-02-09 12:47:22,004 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :20151
+2015-02-09 12:47:22,009 INFO 1 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2015-02-09 12:47:22,010 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2015-02-09 12:47:22,043 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2015-02-09 12:47:22,044 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :20151
+2015-02-09 12:47:22,053 INFO 1 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2015-02-09 12:47:22,054 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2015-02-09 12:47:24,260 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 12:47:24,262 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 12:47:24,276 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 12:47:24,277 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 12:48:43,839 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 12:48:43,841 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 12:48:43,854 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 12:48:43,855 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 12:48:52,738 DEBUG 10 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2015-02-09 12:48:52,741 DEBUG 10 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2015-02-09 12:48:52,854 INFO 10 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2015-02-09 12:48:52,855 DEBUG 10 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2015-02-09 12:49:10,081 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2015-02-09 12:49:10,082 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2015-02-09 12:49:10,123 INFO 9 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2015-02-09 12:49:10,124 DEBUG 9 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2015-02-09 12:50:37,556 DEBUG 11 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2015-02-09 12:50:37,557 DEBUG 11 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2015-02-09 12:50:37,579 INFO 11 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2015-02-09 12:50:37,580 DEBUG 11 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2015-02-09 16:14:18,243 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-09 16:14:19,103 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-09 16:14:26,362 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-09 16:14:26,368 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-09 16:14:28,702 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-09 16:14:28,704 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-09 16:22:29,828 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-09 16:22:30,706 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-09 17:55:08,931 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-09 17:55:09,636 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-09 17:55:14,308 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-09 17:55:14,314 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-09 17:55:17,121 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-09 17:55:17,123 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-09 17:55:23,408 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-02-09 17:55:23,422 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-02-09 17:55:23,486 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-02-09 17:55:23,488 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-02-09 17:55:23,545 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 17:55:23,547 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 17:55:23,591 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 17:55:23,593 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 17:55:26,090 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-09 17:55:26,094 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-09 17:55:26,201 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-09 17:55:26,204 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-09 17:55:32,494 DEBUG 9 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2015-02-09 17:55:32,499 DEBUG 9 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :8914
+2015-02-09 17:55:32,540 INFO 9 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2015-02-09 17:55:32,542 DEBUG 9 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2015-02-09 17:55:32,626 DEBUG 9 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2015-02-09 17:55:32,629 DEBUG 9 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :8914
+2015-02-09 17:55:32,837 INFO 9 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2015-02-09 17:55:32,840 DEBUG 9 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2015-02-09 17:55:35,195 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 17:55:35,199 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 17:55:35,212 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 17:55:35,213 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 17:58:20,815 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-09 17:58:21,546 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-09 17:58:26,774 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-09 17:58:26,781 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-09 17:58:29,279 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-09 17:58:29,281 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-09 17:58:35,638 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-02-09 17:58:35,653 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-02-09 17:58:35,728 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-02-09 17:58:35,730 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-02-09 17:58:35,784 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 17:58:35,786 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 17:58:35,834 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 17:58:35,836 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 17:58:37,708 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-09 17:58:37,712 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-09 17:58:37,830 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-09 17:58:37,833 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-09 17:58:47,657 DEBUG 9 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2015-02-09 17:58:47,664 DEBUG 9 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :19602
+2015-02-09 17:58:47,729 INFO 9 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2015-02-09 17:58:47,731 DEBUG 9 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2015-02-09 17:58:47,817 DEBUG 9 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2015-02-09 17:58:47,820 DEBUG 9 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :19602
+2015-02-09 17:58:48,241 INFO 9 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2015-02-09 17:58:48,244 DEBUG 9 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2015-02-09 17:58:49,422 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 17:58:49,425 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 17:58:49,438 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 17:58:49,439 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 18:00:48,335 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-09 18:00:49,099 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-09 18:00:53,949 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-09 18:00:53,955 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-09 18:00:56,659 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-09 18:00:56,661 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-09 18:01:02,736 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-02-09 18:01:02,753 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-02-09 18:01:02,826 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-02-09 18:01:02,828 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-02-09 18:01:02,883 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 18:01:02,886 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 18:01:02,937 INFO 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 18:01:02,940 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 18:01:04,991 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-09 18:01:04,996 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-09 18:01:05,123 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-09 18:01:05,127 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-09 18:01:13,461 DEBUG 8 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2015-02-09 18:01:13,467 DEBUG 8 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :20061
+2015-02-09 18:01:13,533 INFO 8 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2015-02-09 18:01:13,537 DEBUG 8 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2015-02-09 18:01:13,628 DEBUG 8 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2015-02-09 18:01:13,632 DEBUG 8 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :20061
+2015-02-09 18:01:13,857 INFO 8 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2015-02-09 18:01:13,859 DEBUG 8 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2015-02-09 18:01:15,251 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 18:01:15,255 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 18:01:15,271 INFO 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 18:01:15,272 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 18:05:43,274 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-09 18:05:43,665 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-09 18:05:47,785 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-09 18:05:47,792 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-09 18:05:50,279 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-09 18:05:50,280 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-09 18:05:55,573 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-02-09 18:05:55,581 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-02-09 18:05:55,619 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-02-09 18:05:55,620 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-02-09 18:05:55,653 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 18:05:55,653 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 18:05:55,678 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 18:05:55,679 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-02-09 18:05:57,507 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-09 18:05:57,510 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-09 18:05:57,623 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-09 18:05:57,625 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-09 18:06:03,271 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2015-02-09 18:06:03,277 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :20061
+2015-02-09 18:06:03,334 INFO 1 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2015-02-09 18:06:03,337 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2015-02-09 18:06:03,410 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2015-02-09 18:06:03,412 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :20061
+2015-02-09 18:06:03,653 INFO 1 dtxk.business.Services.ServiceParcel - GetParcelOwners method got PARCEL_PARTIAL with successfully
+2015-02-09 18:06:03,654 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2015-02-09 18:06:04,758 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-02-09 18:06:04,761 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-02-09 18:06:04,773 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-02-09 18:06:04,775 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished

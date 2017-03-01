@@ -1,0 +1,66 @@
+2015-02-16 14:14:36,679 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-16 14:14:39,489 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-16 14:14:50,239 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-16 14:14:50,395 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-16 14:14:52,407 ERROR 4 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.EntityException: The underlying provider failed on Open. ---> Oracle.DataAccess.Client.OracleException: ORA-12541: TNS:no listener
+   at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   --- End of inner exception stack trace ---
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   at System.Data.EntityClient.EntityConnection.Open()
+   at System.Data.Objects.ObjectContext.EnsureConnection()
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__1[TResult](IEnumerable`1 sequence)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source)
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\isleryenin copysi\dtxkcopy\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2015-02-16 14:14:57,526 DEBUG 5 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-16 14:14:57,526 DEBUG 5 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-16 14:14:58,824 ERROR 5 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.EntityException: The underlying provider failed on Open. ---> Oracle.DataAccess.Client.OracleException: ORA-12541: TNS:no listener
+   at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   --- End of inner exception stack trace ---
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   at System.Data.EntityClient.EntityConnection.Open()
+   at System.Data.Objects.ObjectContext.EnsureConnection()
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__1[TResult](IEnumerable`1 sequence)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source)
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in D:\isleryenin copysi\dtxkcopy\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2015-02-16 14:17:16,272 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-16 14:17:16,685 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-16 14:17:21,766 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-16 14:17:21,772 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-16 14:17:24,778 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-16 14:17:24,780 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-16 14:19:02,195 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-16 14:19:02,375 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-16 14:19:06,033 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-16 14:19:06,038 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-16 14:19:06,881 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-16 14:19:06,881 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-16 14:20:32,998 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-16 14:20:33,161 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-16 14:20:36,643 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-16 14:20:36,646 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-16 14:20:37,440 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-16 14:20:37,441 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-16 14:25:48,851 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-16 14:25:49,025 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-16 14:25:52,487 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-16 14:25:52,491 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-16 14:25:53,331 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-16 14:25:53,332 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished

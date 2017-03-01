@@ -1,0 +1,803 @@
+2014-10-22 10:49:25,912 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 10:49:26,314 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 10:49:42,008 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 10:49:42,015 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 10:49:46,782 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 10:49:46,785 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 10:51:35,630 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 10:51:35,667 DEBUG 9 dtxk.business.BasicService - GetUSING_FORMById started
+2014-10-22 10:51:35,671 DEBUG 9 dtxk.business.BasicService - GetUSING_FORMById try to get USING_FORM for Id. idUSING_FORM=8
+2014-10-22 10:51:35,754 INFO 9 dtxk.business.BasicService - GetUSING_FORMById method got USING_FORM with successfully
+2014-10-22 10:51:35,756 DEBUG 9 dtxk.business.BasicService - GetUSING_FORMById finished
+2014-10-22 10:51:35,761 DEBUG 9 dtxk.business.BasicService - GetPARCEL_NAMEById started
+2014-10-22 10:51:35,763 DEBUG 9 dtxk.business.BasicService - GetPARCEL_NAMEById try to get PARCEL_NAME for Id. idPARCEL_NAME=1
+2014-10-22 10:51:35,874 INFO 9 dtxk.business.BasicService - GetPARCEL_NAMEById method got PARCEL_NAME with successfully
+2014-10-22 10:51:35,877 DEBUG 9 dtxk.business.BasicService - GetPARCEL_NAMEById finished
+2014-10-22 10:51:35,882 DEBUG 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById started
+2014-10-22 10:51:35,883 DEBUG 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById try to get MECHANICAL_STRUCTURE for Id. idMECHANICAL_STRUCTURE=1
+2014-10-22 10:51:35,975 INFO 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById method got MECHANICAL_STRUCTURE with successfully
+2014-10-22 10:51:35,977 DEBUG 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById finished
+2014-10-22 10:51:35,982 DEBUG 9 dtxk.business.BasicService - GetWATER_REGIMEById started
+2014-10-22 10:51:35,984 DEBUG 9 dtxk.business.BasicService - GetWATER_REGIMEById try to get WATER_REGIME for Id. idWATER_REGIME=0
+2014-10-22 10:51:36,025 INFO 9 dtxk.business.BasicService - GetWATER_REGIMEById method got WATER_REGIME with successfully
+2014-10-22 10:51:36,027 DEBUG 9 dtxk.business.BasicService - GetWATER_REGIMEById finished
+2014-10-22 11:44:13,269 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 11:44:13,870 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 11:44:42,442 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 11:44:42,448 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 11:44:47,204 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 11:44:47,206 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 11:47:08,363 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 11:47:08,993 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 11:47:15,912 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 11:47:15,919 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 11:47:20,596 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 11:47:20,597 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 11:41:20,987 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 11:41:21,489 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 11:52:10,572 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 11:52:11,611 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 11:52:30,635 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 11:52:30,642 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 11:52:35,285 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 11:52:35,286 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 12:15:58,991 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 12:15:59,953 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 12:23:24,634 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 12:23:24,641 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 12:23:28,894 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 12:23:28,895 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 12:27:31,382 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-10-22 12:27:32,060 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 12:28:00,160 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 12:28:00,167 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 12:28:04,994 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 12:28:04,997 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 12:29:22,974 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:35:07,211 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 12:35:07,855 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 12:35:17,168 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 12:35:17,175 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 12:35:21,653 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 12:35:21,654 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 12:35:41,922 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 12:35:41,941 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 12:35:42,023 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 12:35:42,025 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 12:35:42,091 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 12:35:42,094 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 12:35:42,136 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 12:35:42,138 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 12:35:46,735 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-10-22 12:35:46,739 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-10-22 12:35:46,850 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-10-22 12:35:46,852 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-10-22 12:35:53,541 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:35:54,496 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:35:54,814 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:36:44,958 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:37:13,797 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:38:23,151 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 12:38:23,792 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 12:38:36,716 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 12:38:36,724 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 12:38:41,499 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 12:38:41,501 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 12:39:06,168 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 12:39:06,189 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 12:39:06,302 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 12:39:06,305 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 12:39:06,353 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 12:39:06,355 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 12:39:06,416 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 12:39:06,418 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 12:39:18,976 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:32:53,674 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:32:54,776 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:33:16,186 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 12:33:16,192 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-10-22 12:33:16,194 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :00100101000004
+2014-10-22 12:33:16,200 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-10-22 12:33:16,201 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-10-22 12:33:16,614 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT started
+2014-10-22 12:33:16,618 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT try to getting ALL DOCUMENT 
+2014-10-22 12:33:19,706 INFO 9 dtxk.business.BasicService - LoadAllDOCUMENT method got DOCUMENT with successfully
+2014-10-22 12:33:19,709 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT finished
+2014-10-22 13:01:43,686 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 13:01:44,433 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 13:01:57,662 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 13:01:58,183 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 13:24:17,420 DEBUG 49 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 13:24:17,427 DEBUG 49 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 13:24:22,030 INFO 49 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 13:24:22,031 DEBUG 49 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 13:24:46,721 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 13:24:46,743 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 13:24:46,859 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 13:24:46,862 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 13:24:46,917 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 13:24:46,920 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 13:24:46,983 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 13:24:46,985 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 13:25:00,854 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:25:22,277 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:29:58,044 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 13:29:58,690 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 13:30:17,171 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 13:30:17,178 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 13:30:22,011 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 13:30:22,013 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 13:23:57,030 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 13:23:57,053 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 13:23:57,173 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 13:23:57,177 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 13:23:57,226 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 13:23:57,229 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 13:23:57,293 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 13:23:57,296 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 13:24:09,879 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:24:10,588 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:24:17,018 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:24:20,541 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:31:48,432 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:31:51,552 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:31:52,673 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:31:52,992 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:31:59,078 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:31:59,587 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:32:01,920 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:33:42,230 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 13:33:42,851 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 13:33:58,843 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 13:33:58,850 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 13:34:03,490 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username('admin') or password is invalid
+2014-10-22 13:34:03,492 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 13:34:14,980 DEBUG 12 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 13:34:14,981 DEBUG 12 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 13:34:15,032 INFO 12 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 13:34:15,033 DEBUG 12 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 13:34:45,324 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 13:34:45,345 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 13:34:45,460 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 13:34:45,463 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 13:34:45,507 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 13:34:45,510 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 13:34:45,567 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 13:34:45,569 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 13:34:58,741 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:35:13,871 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:35:15,060 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:35:15,076 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:35:26,076 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:35:27,402 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:37:35,063 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:37:36,360 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:37:36,374 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:52:09,239 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 13:52:09,893 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 13:52:20,081 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 13:52:20,088 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 13:52:24,899 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 13:52:24,901 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 13:52:46,301 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 13:52:46,324 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 13:52:46,433 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 13:52:46,436 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 13:52:46,482 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 13:52:46,485 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 13:52:46,545 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 13:52:46,547 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 13:53:04,737 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:53:22,809 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:53:24,138 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:53:24,176 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:53:34,787 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:53:35,509 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:53:47,455 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:54:38,378 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 13:54:38,379 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 13:54:38,395 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 13:54:38,396 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 13:54:38,408 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 13:54:38,409 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 13:54:38,414 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 13:54:38,415 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 13:55:12,464 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 13:55:12,469 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 13:55:12,487 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 13:55:12,490 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 13:55:21,390 DEBUG 10 dtxk.gis.ClsGISCadastralZone - GetRegion finished
+2014-10-22 13:55:21,394 DEBUG 10 dtxk.gis.ClsGISCadastralZone - GetRegion try to get CadastralZone for Region_code code=0
+2014-10-22 13:55:21,541 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:55:21,547 DEBUG 10 dtxk.gis.ClsGISCadastralZone - GetRegion stopped
+2014-10-22 13:55:21,573 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-10-22 13:55:21,575 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-10-22 13:55:21,688 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-10-22 13:55:21,691 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-10-22 13:55:29,895 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:55:29,923 DEBUG 10 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-10-22 13:55:29,926 DEBUG 10 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-10-22 13:55:30,693 INFO 10 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-10-22 13:55:30,696 DEBUG 10 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-10-22 13:55:35,740 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:55:35,764 DEBUG 10 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-10-22 13:55:35,767 DEBUG 10 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-10-22 13:55:37,311 INFO 10 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-10-22 13:55:37,313 DEBUG 10 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-10-22 13:55:39,713 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:57:40,236 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:57:41,559 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:57:41,581 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:59:49,680 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:59:50,893 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:59:50,929 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:59:50,932 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 13:59:59,388 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:00:00,603 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:00:00,641 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:00:00,643 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:00:11,285 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:00:12,541 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:00:12,578 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:00:12,580 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:19:50,109 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 14:19:51,192 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 14:20:05,367 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 14:20:05,370 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 14:20:09,943 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 14:20:09,945 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 14:20:27,395 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 14:20:27,417 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 14:20:27,474 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 14:20:27,475 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 14:20:27,516 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 14:20:27,519 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 14:20:27,547 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 14:20:27,548 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 14:20:37,326 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:20:58,307 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:20:59,373 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:20:59,402 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:15:13,329 INFO 11 dtxk.client.FrmLogIn - Program started
+2014-10-22 14:15:13,852 DEBUG 11 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 14:15:34,233 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 14:15:34,240 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 14:15:38,780 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 14:15:38,781 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 14:22:57,110 DEBUG 11 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 14:22:57,129 DEBUG 11 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 14:22:57,216 INFO 11 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 14:22:57,247 DEBUG 11 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 14:22:57,294 DEBUG 11 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 14:22:57,298 DEBUG 11 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 14:22:57,360 INFO 11 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 14:22:57,363 DEBUG 11 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 14:23:10,010 DEBUG 11 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:23:30,997 DEBUG 11 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:23:32,065 DEBUG 11 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:23:32,088 DEBUG 11 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:26:19,544 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 14:26:20,199 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 14:26:25,298 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 14:26:25,305 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 14:26:30,082 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 14:26:30,084 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 14:26:48,614 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 14:26:48,634 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 14:26:48,716 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 14:26:48,718 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 14:26:48,792 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 14:26:48,848 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 14:26:48,910 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 14:26:48,912 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 14:27:08,063 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:27:23,092 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:27:24,426 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:27:24,463 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:29:50,745 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 14:29:51,656 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 14:30:43,120 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 14:30:43,126 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 14:30:47,674 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 14:30:47,675 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 14:35:50,266 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 14:35:50,288 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 14:35:50,367 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 14:35:50,369 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 14:35:50,411 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 14:35:50,413 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 14:35:50,471 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 14:35:50,473 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 14:36:03,869 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:36:18,217 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:36:19,565 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:36:19,603 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 14:36:29,711 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-10-22 14:36:29,715 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-10-22 14:36:29,991 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-10-22 14:36:29,994 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-10-22 14:36:29,996 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-10-22 14:36:30,002 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-10-22 14:36:30,007 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-10-22 14:36:30,350 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-10-22 14:36:30,352 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-10-22 14:36:30,354 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-10-22 15:02:02,387 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 15:02:03,013 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 15:02:13,022 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 15:02:13,029 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 15:02:17,848 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 15:02:17,850 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 15:04:49,737 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 15:04:49,759 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 15:04:49,849 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 15:04:49,852 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 15:04:49,899 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 15:04:49,901 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 15:04:49,961 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 15:04:49,963 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 15:08:28,884 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:08:29,291 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:08:30,634 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:08:43,511 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:08:44,847 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:08:44,879 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:08:52,094 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-10-22 15:08:52,099 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-10-22 15:08:52,365 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-10-22 15:08:52,368 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-10-22 15:08:52,370 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-10-22 15:08:52,376 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-10-22 15:08:52,381 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-10-22 15:08:52,677 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-10-22 15:08:52,679 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-10-22 15:08:52,680 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-10-22 15:21:36,404 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 15:21:36,933 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 15:44:55,045 DEBUG 50 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 15:44:55,052 DEBUG 50 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 15:44:59,383 INFO 50 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 15:44:59,386 DEBUG 50 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 15:45:03,499 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER started
+2014-10-22 15:45:03,524 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2014-10-22 15:45:03,609 INFO 10 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2014-10-22 15:45:03,613 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER finished
+2014-10-22 15:45:13,966 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE started
+2014-10-22 15:45:13,969 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE try to getting ALL EMPLOYEE 
+2014-10-22 15:45:14,074 INFO 10 dtxk.business.BasicService - LoadAllEMPLOYEE method got EMPLOYEE with successfully
+2014-10-22 15:45:14,076 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE finished
+2014-10-22 15:45:14,142 DEBUG 10 dtxk.business.BasicService - LoadAllROLE started
+2014-10-22 15:45:14,144 DEBUG 10 dtxk.business.BasicService - LoadAllROLE try to getting ALL ROLE 
+2014-10-22 15:45:14,201 INFO 10 dtxk.business.BasicService - LoadAllROLE method got ROLE with successfully
+2014-10-22 15:45:14,227 DEBUG 10 dtxk.business.BasicService - LoadAllROLE finished
+2014-10-22 15:45:14,239 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE started
+2014-10-22 15:45:14,241 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE try to getting ALL USER_ROLE 
+2014-10-22 15:45:14,315 INFO 10 dtxk.business.BasicService - LoadAllUSER_ROLE method got USER_ROLE with successfully
+2014-10-22 15:45:14,316 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE finished
+2014-10-22 15:45:31,871 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 15:45:32,388 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 15:45:44,285 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 15:45:44,292 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=sevda trying to connect
+2014-10-22 15:45:49,091 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(sevda) connected
+2014-10-22 15:45:49,093 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 15:45:56,237 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-10-22 15:45:56,272 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-10-22 15:45:56,359 INFO 10 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-10-22 15:45:56,361 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-10-22 15:46:12,210 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 15:46:12,225 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 15:46:12,303 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 15:46:12,305 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 15:46:12,344 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 15:46:12,346 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 15:46:12,399 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 15:46:12,401 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 15:46:25,992 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:46:59,612 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 15:47:00,213 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 15:53:49,689 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 15:53:50,320 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 15:53:57,831 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 15:53:57,837 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 15:54:02,458 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 15:54:02,459 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 15:54:19,564 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 15:54:19,585 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 15:54:19,666 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 15:54:19,668 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 15:54:19,740 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 15:54:19,743 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 15:54:19,805 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 15:54:19,807 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 15:54:32,883 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:54:33,274 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:54:33,598 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:55:07,770 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:55:08,668 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:55:08,684 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:55:24,172 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-10-22 15:55:24,177 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-10-22 15:55:24,373 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-10-22 15:55:24,375 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-10-22 15:55:24,378 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-10-22 15:55:24,383 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-10-22 15:55:24,388 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-10-22 15:55:24,623 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-10-22 15:55:24,626 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-10-22 15:55:24,627 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-10-22 15:55:26,849 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:55:28,043 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:55:28,102 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:55:34,877 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-10-22 15:55:34,879 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-10-22 15:55:35,146 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-10-22 15:55:35,149 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-10-22 15:55:35,151 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-10-22 15:55:35,153 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-10-22 15:55:35,155 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-10-22 15:55:35,377 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-10-22 15:55:35,378 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-10-22 15:55:35,379 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-10-22 15:55:38,261 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:55:39,481 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 15:55:39,508 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:01:13,467 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:01:14,095 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:01:19,504 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:01:19,511 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 16:01:24,321 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 16:01:24,324 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:01:54,233 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 16:01:54,256 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 16:01:54,341 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 16:01:54,343 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 16:01:54,423 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 16:01:54,427 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 16:01:54,489 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 16:01:54,491 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 16:02:08,581 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:02:08,976 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:02:09,304 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:02:26,862 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:02:28,180 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:02:28,210 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:02:39,347 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-10-22 16:02:39,352 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-10-22 16:02:39,585 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-10-22 16:02:39,587 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-10-22 16:02:39,590 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-10-22 16:02:39,594 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-10-22 16:02:39,599 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-10-22 16:02:39,912 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-10-22 16:02:39,914 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-10-22 16:02:39,916 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-10-22 15:57:36,313 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 15:57:37,278 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 15:57:43,126 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 15:57:43,133 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 15:57:47,610 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 15:57:47,611 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:07:11,119 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 16:07:11,140 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 16:07:11,260 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 16:07:11,263 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 16:07:11,309 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 16:07:11,311 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 16:07:11,365 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 16:07:11,367 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 16:07:25,070 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:07:25,465 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:07:40,029 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:07:41,339 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:07:41,365 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:08:00,452 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-10-22 16:08:00,457 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-10-22 16:08:00,743 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-10-22 16:08:00,745 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-10-22 16:08:00,749 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-10-22 16:08:00,753 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-10-22 16:08:00,760 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-10-22 16:08:01,021 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-10-22 16:08:01,023 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-10-22 16:08:01,026 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-10-22 16:08:22,546 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-10-22 16:08:22,551 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-10-22 16:08:22,642 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-10-22 16:08:22,646 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-10-22 16:08:22,659 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-10-22 16:08:22,661 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-10-22 16:08:22,722 INFO 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-10-22 16:08:22,725 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-10-22 16:08:22,766 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-10-22 16:08:22,808 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-10-22 16:08:22,885 INFO 9 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-10-22 16:08:22,887 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-10-22 16:09:16,565 DEBUG 9 dtxk.business.BasicService - SaveAPP_SETTING started
+2014-10-22 16:09:16,567 DEBUG 9 dtxk.business.BasicService - SaveAPP_SETTING try to save APP_SETTING
+2014-10-22 16:09:17,683 INFO 9 dtxk.business.BasicService - SaveAPP_SETTING method saved APP_SETTING with successfully
+2014-10-22 16:09:17,685 DEBUG 9 dtxk.business.BasicService - SaveAPP_SETTING finished
+2014-10-22 16:09:34,135 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-10-22 16:09:34,139 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-10-22 16:09:34,159 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-10-22 16:09:34,161 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-10-22 16:09:34,168 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-10-22 16:09:34,170 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-10-22 16:09:34,181 INFO 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-10-22 16:09:34,183 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-10-22 16:09:40,400 DEBUG 9 dtxk.business.BasicService - SaveAPP_SETTING started
+2014-10-22 16:09:40,403 DEBUG 9 dtxk.business.BasicService - SaveAPP_SETTING try to save APP_SETTING
+2014-10-22 16:09:40,523 INFO 9 dtxk.business.BasicService - SaveAPP_SETTING method saved APP_SETTING with successfully
+2014-10-22 16:09:40,526 DEBUG 9 dtxk.business.BasicService - SaveAPP_SETTING finished
+2014-10-22 16:10:13,904 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:10:14,415 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:10:26,922 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:10:26,928 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 16:10:31,311 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 16:10:31,313 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:11:01,718 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 16:11:01,737 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 16:11:01,803 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 16:11:01,804 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 16:11:01,838 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 16:11:01,840 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 16:11:01,867 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 16:11:01,869 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 16:11:13,436 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:12:11,253 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:12:12,574 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:12:12,613 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:12:49,957 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-10-22 16:12:49,962 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-10-22 16:12:50,150 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-10-22 16:12:50,152 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-10-22 16:12:50,155 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-10-22 16:12:50,160 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-10-22 16:12:50,165 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-10-22 16:12:50,371 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-10-22 16:12:50,373 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-10-22 16:12:50,375 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-10-22 16:13:01,799 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:13:01,806 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2014-10-22 16:13:01,809 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :00100101000004
+2014-10-22 16:13:01,815 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2014-10-22 16:13:01,816 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2014-10-22 16:13:02,204 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT started
+2014-10-22 16:13:02,208 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT try to getting ALL DOCUMENT 
+2014-10-22 16:13:04,764 INFO 9 dtxk.business.BasicService - LoadAllDOCUMENT method got DOCUMENT with successfully
+2014-10-22 16:13:04,767 DEBUG 9 dtxk.business.BasicService - LoadAllDOCUMENT finished
+2014-10-22 16:22:33,997 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:22:34,612 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:22:43,841 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:22:43,848 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 16:22:48,697 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 16:22:48,699 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:30:14,049 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:30:14,760 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:31:20,083 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:31:20,090 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 16:31:24,898 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 16:31:24,900 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:32:00,298 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 16:32:00,321 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 16:32:00,446 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 16:32:00,449 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 16:32:00,500 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 16:32:00,503 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 16:32:00,564 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 16:32:00,566 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 16:32:13,205 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:32:14,427 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:33:01,344 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:33:01,859 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:33:24,404 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:33:24,411 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 16:33:29,226 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 16:33:29,228 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:34:22,076 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER started
+2014-10-22 16:34:22,097 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2014-10-22 16:34:22,162 INFO 10 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2014-10-22 16:34:22,165 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER finished
+2014-10-22 16:34:29,191 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE started
+2014-10-22 16:34:29,195 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE try to getting ALL EMPLOYEE 
+2014-10-22 16:34:29,309 INFO 10 dtxk.business.BasicService - LoadAllEMPLOYEE method got EMPLOYEE with successfully
+2014-10-22 16:34:29,312 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE finished
+2014-10-22 16:34:29,385 DEBUG 10 dtxk.business.BasicService - LoadAllROLE started
+2014-10-22 16:34:29,387 DEBUG 10 dtxk.business.BasicService - LoadAllROLE try to getting ALL ROLE 
+2014-10-22 16:34:29,442 INFO 10 dtxk.business.BasicService - LoadAllROLE method got ROLE with successfully
+2014-10-22 16:34:29,443 DEBUG 10 dtxk.business.BasicService - LoadAllROLE finished
+2014-10-22 16:34:29,453 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE started
+2014-10-22 16:34:29,456 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE try to getting ALL USER_ROLE 
+2014-10-22 16:34:29,526 INFO 10 dtxk.business.BasicService - LoadAllUSER_ROLE method got USER_ROLE with successfully
+2014-10-22 16:34:29,528 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE finished
+2014-10-22 16:34:35,600 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE started
+2014-10-22 16:34:35,603 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE try to getting ALL EMPLOYEE 
+2014-10-22 16:34:35,634 INFO 10 dtxk.business.BasicService - LoadAllEMPLOYEE method got EMPLOYEE with successfully
+2014-10-22 16:34:35,635 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE finished
+2014-10-22 16:34:35,710 DEBUG 10 dtxk.business.BasicService - LoadAllROLE started
+2014-10-22 16:34:35,712 DEBUG 10 dtxk.business.BasicService - LoadAllROLE try to getting ALL ROLE 
+2014-10-22 16:34:35,723 INFO 10 dtxk.business.BasicService - LoadAllROLE method got ROLE with successfully
+2014-10-22 16:34:35,724 DEBUG 10 dtxk.business.BasicService - LoadAllROLE finished
+2014-10-22 16:34:35,730 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE started
+2014-10-22 16:34:35,732 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE try to getting ALL USER_ROLE 
+2014-10-22 16:34:35,779 INFO 10 dtxk.business.BasicService - LoadAllUSER_ROLE method got USER_ROLE with successfully
+2014-10-22 16:34:35,781 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE finished
+2014-10-22 16:34:42,324 DEBUG 10 dtxk.business.BasicService - GetAPP_USERById started
+2014-10-22 16:34:42,328 DEBUG 10 dtxk.business.BasicService - GetAPP_USERById try to get APP_USER for Id. idAPP_USER=24
+2014-10-22 16:34:42,344 INFO 10 dtxk.business.BasicService - GetAPP_USERById method got APP_USER with successfully
+2014-10-22 16:34:42,345 DEBUG 10 dtxk.business.BasicService - GetAPP_USERById finished
+2014-10-22 16:34:43,598 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER started
+2014-10-22 16:34:43,599 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2014-10-22 16:34:43,609 INFO 10 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2014-10-22 16:34:43,610 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_USER finished
+2014-10-22 16:34:46,600 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE started
+2014-10-22 16:34:46,603 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE try to getting ALL EMPLOYEE 
+2014-10-22 16:34:46,634 INFO 10 dtxk.business.BasicService - LoadAllEMPLOYEE method got EMPLOYEE with successfully
+2014-10-22 16:34:46,636 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE finished
+2014-10-22 16:34:46,707 DEBUG 10 dtxk.business.BasicService - LoadAllROLE started
+2014-10-22 16:34:46,709 DEBUG 10 dtxk.business.BasicService - LoadAllROLE try to getting ALL ROLE 
+2014-10-22 16:34:46,720 INFO 10 dtxk.business.BasicService - LoadAllROLE method got ROLE with successfully
+2014-10-22 16:34:46,722 DEBUG 10 dtxk.business.BasicService - LoadAllROLE finished
+2014-10-22 16:34:46,729 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE started
+2014-10-22 16:34:46,731 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE try to getting ALL USER_ROLE 
+2014-10-22 16:34:46,802 INFO 10 dtxk.business.BasicService - LoadAllUSER_ROLE method got USER_ROLE with successfully
+2014-10-22 16:34:46,804 DEBUG 10 dtxk.business.BasicService - LoadAllUSER_ROLE finished
+2014-10-22 16:34:56,649 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE started
+2014-10-22 16:34:56,652 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE try to getting ALL EMPLOYEE 
+2014-10-22 16:34:56,682 INFO 10 dtxk.business.BasicService - LoadAllEMPLOYEE method got EMPLOYEE with successfully
+2014-10-22 16:34:56,683 DEBUG 10 dtxk.business.BasicService - LoadAllEMPLOYEE finished
+2014-10-22 16:35:00,192 DEBUG 10 dtxk.business.BasicService - LoadAllDEPARTAMENT started
+2014-10-22 16:35:00,195 DEBUG 10 dtxk.business.BasicService - LoadAllDEPARTAMENT try to getting ALL DEPARTAMENT 
+2014-10-22 16:35:00,300 INFO 10 dtxk.business.BasicService - LoadAllDEPARTAMENT method got DEPARTAMENT with successfully
+2014-10-22 16:35:00,302 DEBUG 10 dtxk.business.BasicService - LoadAllDEPARTAMENT finished
+2014-10-22 16:35:17,837 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:35:18,337 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:35:33,152 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:35:33,156 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=sevda trying to connect
+2014-10-22 16:35:37,860 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(sevda) connected
+2014-10-22 16:35:37,862 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:35:40,003 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-10-22 16:35:40,014 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-10-22 16:35:40,101 INFO 10 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-10-22 16:35:40,103 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-10-22 16:36:26,683 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 16:36:26,698 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 16:36:26,768 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 16:36:26,770 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 16:36:26,998 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 16:36:27,001 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 16:36:27,062 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 16:36:27,064 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 16:43:03,039 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:43:03,431 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:43:04,167 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:44:07,558 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:44:08,580 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:44:08,603 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:44:17,820 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-10-22 16:44:17,825 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-10-22 16:44:18,011 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-10-22 16:44:18,013 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-10-22 16:44:18,015 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-10-22 16:44:18,021 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-10-22 16:44:18,026 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-10-22 16:44:18,261 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-10-22 16:44:18,263 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-10-22 16:44:18,265 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-10-22 16:49:21,693 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:49:22,205 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:49:29,705 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:49:29,711 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 16:49:33,930 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 16:49:33,931 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:49:59,552 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:50:00,042 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:50:08,142 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:50:08,148 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 16:50:12,818 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 16:50:12,820 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:50:33,415 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:50:33,890 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:50:40,102 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:50:40,110 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=sevda trying to connect
+2014-10-22 16:50:44,603 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(sevda) connected
+2014-10-22 16:50:44,605 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 16:50:48,009 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-10-22 16:50:48,016 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-10-22 16:50:48,084 INFO 10 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-10-22 16:50:48,085 DEBUG 10 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-10-22 16:51:05,558 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 16:51:05,574 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 16:51:05,656 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 16:51:05,659 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 16:51:05,710 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 16:51:05,713 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 16:51:05,776 INFO 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 16:51:05,779 DEBUG 10 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 16:51:16,244 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:51:17,436 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 16:57:24,903 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 16:57:25,887 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 16:59:10,047 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 16:59:10,055 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 16:59:14,868 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 16:59:14,870 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 17:01:28,366 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 17:01:28,388 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 17:01:28,478 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 17:01:28,480 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 17:01:28,613 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 17:01:28,615 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 17:01:28,676 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 17:01:28,678 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 17:01:40,825 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:01:41,227 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:01:41,555 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:02:23,918 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:02:24,953 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:02:24,978 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:02:32,921 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-10-22 17:02:32,926 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-10-22 17:02:33,124 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-10-22 17:02:33,126 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-10-22 17:02:33,128 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-10-22 17:02:33,134 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-10-22 17:02:44,351 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-10-22 17:02:44,839 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-10-22 17:02:44,841 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-10-22 17:02:44,843 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-10-22 17:03:19,822 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 17:03:20,615 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 17:04:56,520 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 17:04:56,528 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=sevda trying to connect
+2014-10-22 17:05:01,200 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(sevda) connected
+2014-10-22 17:05:01,202 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 17:05:25,850 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-10-22 17:05:25,855 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-10-22 17:05:25,895 INFO 9 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-10-22 17:05:25,895 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-10-22 17:05:42,866 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 17:05:42,878 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 17:05:42,933 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 17:05:42,935 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 17:05:43,039 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 17:05:43,041 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 17:05:43,090 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 17:05:43,092 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 17:08:45,854 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:11:41,935 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 17:11:43,081 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 17:11:52,258 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 17:11:52,265 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=sevda trying to connect
+2014-10-22 17:11:57,049 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(sevda) connected
+2014-10-22 17:11:57,051 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 17:12:17,576 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING started
+2014-10-22 17:12:17,587 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING try to getting ALL APP_SETTING 
+2014-10-22 17:12:17,676 INFO 9 dtxk.business.BasicService - LoadAllAPP_SETTING method got APP_SETTING with successfully
+2014-10-22 17:12:17,678 DEBUG 9 dtxk.business.BasicService - LoadAllAPP_SETTING finished
+2014-10-22 17:14:18,860 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 17:14:18,882 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 17:14:18,963 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 17:14:18,966 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 17:14:19,017 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-10-22 17:14:19,019 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-10-22 17:14:19,082 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-10-22 17:14:19,084 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-10-22 17:15:06,907 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:15:07,272 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:15:08,434 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-10-22 17:15:12,815 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-10-22 17:15:12,822 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-10-22 17:15:12,840 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-10-22 17:15:12,843 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-10-22 17:17:49,281 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-10-22 17:17:50,274 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 17:24:55,386 DEBUG 17 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 17:24:55,394 DEBUG 17 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 17:25:00,155 INFO 17 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 17:25:00,157 DEBUG 17 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-10-22 17:28:26,652 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-10-22 17:28:27,208 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-10-22 17:28:35,148 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-10-22 17:28:35,155 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-10-22 17:28:39,982 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-10-22 17:28:39,984 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished

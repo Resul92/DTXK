@@ -1,0 +1,358 @@
+D:\New folder (3)\dtxk\EXE\dtxk.client.exe.config
+D:\New folder (3)\dtxk\EXE\app.config
+D:\New folder (3)\dtxk\EXE\dtxk.client.exe
+D:\New folder (3)\dtxk\EXE\dtxk.client.pdb
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\New folder (3)\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\DTXK project\dtxk\EXE\dtxk.client.exe.config
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\DTXK project\dtxk\EXE\app.config
+D:\DTXK project\dtxk\EXE\dtxk.client.exe
+D:\DTXK project\dtxk\EXE\dtxk.client.pdb
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\DTXK project\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\EXE\dtxk.client.exe.config
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\EXE\app.config
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\EXE\dtxk.client.exe
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\EXE\dtxk.client.pdb
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\atkis\Desktop\Share\24apr2014\dtxk\dtxk.client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\EXE\dtxk.client.exe.config
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\EXE\app.config
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\EXE\dtxk.client.exe
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\EXE\dtxk.client.pdb
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\atkis\Desktop\Share\24apr2014LAST\dtxk\dtxk.client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\EXE\dtxk.client.exe.config
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\EXE\app.config
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\EXE\dtxk.client.exe
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\EXE\dtxk.client.pdb
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\dtxk.client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\EXE\dtxk.client.exe.config
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\EXE\app.config
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\EXE\dtxk.client.exe
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\EXE\dtxk.client.pdb
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\DTXK BACKUP COPY\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\EXE\dtxk.client.exe.config
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\EXE\app.config
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\EXE\dtxk.client.exe
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\EXE\dtxk.client.pdb
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr  COPY\NEWBAKC\dtxk\EXE\dtxk.client.exe.config
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr  COPY\NEWBAKC\dtxk\EXE\app.config
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr  COPY\NEWBAKC\dtxk\EXE\dtxk.client.exe
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr  COPY\NEWBAKC\dtxk\EXE\dtxk.client.pdb
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+D:\NEWBAKC\dtxk\EXE\app.config
+D:\NEWBAKC\dtxk\EXE\dtxk.client.exe.config
+D:\NEWBAKC\dtxk\EXE\dtxk.client.exe
+D:\NEWBAKC\dtxk\EXE\dtxk.client.pdb
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\DTXK SERVERDEN GOTRULEN 29 dekabr\NEWBAKC\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\DTXK\dtxk\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+D:\dtxkcopy\EXE\dtxk.client.exe.config
+D:\dtxkcopy\EXE\app.config
+D:\dtxkcopy\EXE\dtxk.client.exe
+D:\dtxkcopy\EXE\dtxk.client.pdb
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\New folder (4)\dtxk son\dtxkcopy\EXE\dtxk.client.exe.config
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+D:\New folder (4)\dtxk son\dtxkcopy\EXE\app.config
+D:\New folder (4)\dtxk son\dtxkcopy\EXE\dtxk.client.exe
+D:\New folder (4)\dtxk son\dtxkcopy\EXE\dtxk.client.pdb
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\New folder (4)\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\dtxk son\dtxkcopy\EXE\app.config
+D:\dtxk son\dtxkcopy\EXE\dtxk.client.exe.config
+D:\dtxk son\dtxkcopy\EXE\dtxk.client.exe
+D:\dtxk son\dtxkcopy\EXE\dtxk.client.pdb
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\dtxk son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\dtxk cop son\dtxkcopy\EXE\dtxk.client.exe.config
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\dtxk cop son\dtxkcopy\EXE\app.config
+D:\dtxk cop son\dtxkcopy\EXE\dtxk.client.exe
+D:\dtxk cop son\dtxkcopy\EXE\dtxk.client.pdb
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+F:\Source\dtxk cop son\dtxkcopy\EXE\dtxk.client.exe.config
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+F:\Source\dtxk cop son\dtxkcopy\EXE\app.config
+F:\Source\dtxk cop son\dtxkcopy\EXE\dtxk.client.exe
+F:\Source\dtxk cop son\dtxkcopy\EXE\dtxk.client.pdb
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+F:\Source\dtxk cop son\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+C:\Users\atkis\Desktop\dtxkcopy\EXE\dtxk.client.exe.config
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+C:\Users\atkis\Desktop\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+C:\Users\atkis\Desktop\dtxkcopy\EXE\app.config
+C:\Users\atkis\Desktop\dtxkcopy\EXE\dtxk.client.exe
+C:\Users\atkis\Desktop\dtxkcopy\EXE\dtxk.client.pdb
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\EXE\dtxk.client.exe.config
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\EXE\app.config
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\EXE\dtxk.client.exe
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\EXE\dtxk.client.pdb
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+C:\Users\atkis\Desktop\New folder (2)\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+D:\Isleyen proyekt\dtxkcopy\EXE\dtxk.client.exe.config
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\Isleyen proyekt\dtxkcopy\EXE\app.config
+D:\Isleyen proyekt\dtxkcopy\EXE\dtxk.client.exe
+D:\Isleyen proyekt\dtxkcopy\EXE\dtxk.client.pdb
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\Isleyen proyekt\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+D:\isleryenin copysi\dtxkcopy\EXE\dtxk.client.exe.config
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\isleryenin copysi\dtxkcopy\EXE\app.config
+D:\isleryenin copysi\dtxkcopy\EXE\dtxk.client.exe
+D:\isleryenin copysi\dtxkcopy\EXE\dtxk.client.pdb
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\isleryenin copysi\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses
+D:\DTXK LEGV TEHVIL\dtxkcopy\EXE\dtxk.client.exe.config
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.pdb
+D:\DTXK LEGV TEHVIL\dtxkcopy\EXE\app.config
+D:\DTXK LEGV TEHVIL\dtxkcopy\EXE\dtxk.client.exe
+D:\DTXK LEGV TEHVIL\dtxkcopy\EXE\dtxk.client.pdb
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csprojResolveAssemblyReference.cache
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmLogIn.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.FrmMain.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Properties.Resources.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.ResourceClient.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmAbout.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dialog.FrmProgress.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockClaim.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockReport.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.Dock.FrmDockUserManagment.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.Windows.FrmStartPage.resources
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.csproj.GenerateResource.Cache
+D:\DTXK LEGV TEHVIL\dtxkcopy\dtxk.client\obj\x86\Debug\dtxk.client.exe.licenses

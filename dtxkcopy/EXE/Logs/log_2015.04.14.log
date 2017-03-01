@@ -1,0 +1,32 @@
+2015-04-14 15:46:57,650 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-04-14 15:47:01,574 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-04-14 15:47:07,107 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-04-14 15:47:07,225 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-04-14 15:47:10,886 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-04-14 15:47:10,888 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-04-14 15:47:56,075 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-04-14 15:47:56,364 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-04-14 15:47:56,692 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-04-14 15:47:56,693 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-04-14 15:47:56,724 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2015-04-14 15:47:56,748 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2015-04-14 15:47:56,913 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2015-04-14 15:47:56,914 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2015-04-14 15:48:04,185 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-04-14 15:48:04,348 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-04-14 15:48:09,032 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-04-14 15:48:09,035 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-04-14 15:48:09,953 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-04-14 15:48:09,954 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-04-14 15:48:12,108 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2015-04-14 15:48:12,175 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2015-04-14 15:48:12,214 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2015-04-14 15:48:12,215 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2015-04-14 15:48:13,703 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP started
+2015-04-14 15:48:13,764 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP try to getting ALL PRICE_ZONE_GROUP 
+2015-04-14 15:48:13,900 INFO 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP method got PRICE_ZONE_GROUP with successfully
+2015-04-14 15:48:13,902 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP finished
+2015-04-14 15:48:14,750 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP started
+2015-04-14 15:48:14,780 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP try to getting ALL PRICE_ZONE_GROUP 
+2015-04-14 15:48:14,794 INFO 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP method got PRICE_ZONE_GROUP with successfully
+2015-04-14 15:48:14,795 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP finished

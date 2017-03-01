@@ -1,0 +1,649 @@
+2014-09-15 15:15:56,155 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:15:58,248 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:16:07,773 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:16:07,809 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:16:12,952 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:16:12,954 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:25:53,593 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:25:54,293 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:26:03,033 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:26:03,044 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:26:07,571 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:26:07,573 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:39:35,683 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:39:36,061 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:39:41,929 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:39:41,936 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:39:46,429 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:39:46,431 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:41:32,379 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:41:32,737 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:41:37,858 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:41:37,865 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:41:42,163 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:41:42,164 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:41:44,961 DEBUG 1 dtxk.business.BasicService - LoadAllAPP_USER started
+2014-09-15 15:41:44,987 DEBUG 1 dtxk.business.BasicService - LoadAllAPP_USER try to getting ALL APP_USER 
+2014-09-15 15:41:45,116 INFO 1 dtxk.business.BasicService - LoadAllAPP_USER method got APP_USER with successfully
+2014-09-15 15:41:45,119 DEBUG 1 dtxk.business.BasicService - LoadAllAPP_USER finished
+2014-09-15 15:41:47,152 DEBUG 1 dtxk.business.BasicService - LoadAllEMPLOYEE started
+2014-09-15 15:41:47,187 DEBUG 1 dtxk.business.BasicService - LoadAllEMPLOYEE try to getting ALL EMPLOYEE 
+2014-09-15 15:41:47,283 INFO 1 dtxk.business.BasicService - LoadAllEMPLOYEE method got EMPLOYEE with successfully
+2014-09-15 15:41:47,284 DEBUG 1 dtxk.business.BasicService - LoadAllEMPLOYEE finished
+2014-09-15 15:41:47,320 DEBUG 1 dtxk.business.BasicService - LoadAllROLE started
+2014-09-15 15:41:47,322 DEBUG 1 dtxk.business.BasicService - LoadAllROLE try to getting ALL ROLE 
+2014-09-15 15:41:47,381 INFO 1 dtxk.business.BasicService - LoadAllROLE method got ROLE with successfully
+2014-09-15 15:41:47,383 DEBUG 1 dtxk.business.BasicService - LoadAllROLE finished
+2014-09-15 15:41:47,389 DEBUG 1 dtxk.business.BasicService - LoadAllUSER_ROLE started
+2014-09-15 15:41:47,391 DEBUG 1 dtxk.business.BasicService - LoadAllUSER_ROLE try to getting ALL USER_ROLE 
+2014-09-15 15:41:47,494 INFO 1 dtxk.business.BasicService - LoadAllUSER_ROLE method got USER_ROLE with successfully
+2014-09-15 15:41:47,497 DEBUG 1 dtxk.business.BasicService - LoadAllUSER_ROLE finished
+2014-09-15 15:45:06,564 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:45:06,924 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:45:13,029 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:45:13,033 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:45:16,798 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username('admin') or password is invalid
+2014-09-15 15:45:16,799 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:45:23,026 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:45:23,027 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:45:23,087 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:45:23,089 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:47:01,488 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:47:01,652 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:47:07,575 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:47:07,578 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:47:11,526 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:47:11,527 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:49:17,407 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:49:17,766 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:49:26,851 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:49:26,858 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:49:31,128 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:49:31,130 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:51:27,980 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:51:28,329 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:51:39,438 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:51:39,445 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:51:43,866 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:51:43,867 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:54:43,796 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:54:44,158 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:54:51,638 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:54:51,645 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:54:56,378 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:54:56,380 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:55:57,011 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 15:55:57,060 ERROR 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 15:56:12,506 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 15:56:12,508 ERROR 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 15:56:20,456 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 15:56:20,458 ERROR 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 15:57:58,339 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-09-15 15:57:58,876 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 15:58:05,063 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 15:58:05,069 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 15:58:09,454 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 15:58:09,456 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 15:59:14,365 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 15:59:14,441 ERROR 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:00:50,438 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-15 16:00:51,116 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 16:00:57,858 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 16:00:57,865 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 16:01:02,709 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 16:01:02,711 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 16:01:32,735 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:01:32,814 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:01:36,659 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:01:40,894 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:01:40,900 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:01:40,949 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:01:40,951 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:01:41,052 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:01:41,054 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:01:41,090 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:01:41,092 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:01:41,116 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:01:41,118 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:01:41,157 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:01:41,159 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:01:41,181 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:01:41,183 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:01:41,256 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:01:41,258 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:02:03,071 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-15 16:02:03,077 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-15 16:02:03,109 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-15 16:02:03,111 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-15 16:02:11,754 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-09-15 16:02:11,766 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-09-15 16:02:11,805 INFO 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-09-15 16:02:11,806 DEBUG 9 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-09-15 16:02:14,508 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2014-09-15 16:02:14,511 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2014-09-15 16:02:14,583 INFO 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2014-09-15 16:02:14,585 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2014-09-15 16:02:14,594 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE started
+2014-09-15 16:02:14,595 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE try to getting ALL PROPERTY_TYPE 
+2014-09-15 16:02:14,604 INFO 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE method got PROPERTY_TYPE with successfully
+2014-09-15 16:02:14,605 DEBUG 9 dtxk.business.BasicService - LoadAllPROPERTY_TYPE finished
+2014-09-15 16:02:18,343 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:02:18,346 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:02:18,383 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:02:18,386 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:02:19,052 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:02:19,055 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:02:19,065 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:02:19,066 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:02:30,267 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:02:30,316 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:02:32,882 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:03:09,222 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:03:09,224 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:03:09,236 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:03:09,237 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:03:10,584 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:03:10,587 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:03:10,594 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:03:10,595 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:03:11,965 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:03:11,967 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:03:11,975 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:03:11,978 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:03:13,621 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:03:13,624 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:03:13,640 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:03:13,642 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:03:27,882 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:03:27,887 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:03:28,171 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:03:28,173 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:03:28,177 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:03:28,258 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:04:01,014 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:04:01,047 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:04:03,565 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:04:06,057 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:04:06,058 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:04:06,065 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:04:06,065 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:04:06,072 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:04:06,074 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:04:06,081 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:04:06,083 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:04:06,092 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:04:06,094 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:04:06,100 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:04:06,102 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:04:06,110 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:04:06,110 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:04:06,117 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:04:06,118 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:04:36,837 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:04:37,942 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:04:38,155 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:04:38,443 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:04:41,136 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:04:53,075 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:05:04,125 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:06:37,320 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:06:50,243 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:07:14,043 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:07:14,089 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:07:15,982 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:07:18,296 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:07:18,298 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:07:18,310 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:07:18,312 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:07:18,323 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:07:18,324 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:07:18,330 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:07:18,331 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:07:18,337 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:07:18,339 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:07:18,344 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:07:18,345 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:07:18,353 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:07:18,355 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:07:18,366 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:07:18,515 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:07:27,782 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:07:27,785 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:07:27,891 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:07:27,892 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:07:28,334 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:10:25,910 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-15 16:10:26,709 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 16:10:33,915 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 16:10:33,923 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 16:10:38,483 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 16:10:38,485 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 16:11:09,398 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:11:09,477 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:11:12,132 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:11:14,647 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:11:14,653 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:11:14,696 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:11:14,698 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:11:14,750 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:11:14,752 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:11:14,783 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:11:14,785 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:11:14,805 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:11:14,808 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:11:14,838 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:11:14,854 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:11:14,873 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:11:14,875 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:11:14,948 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:11:14,949 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:11:29,338 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:11:29,343 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:11:29,587 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:11:29,589 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:11:29,998 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:11:33,053 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:11:46,635 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:11:46,704 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:11:56,364 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:11:56,410 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:12:01,822 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:12:01,869 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:12:03,836 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:12:07,449 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:12:07,451 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:12:07,462 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:12:07,464 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:12:07,476 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:12:07,479 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:12:07,487 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:12:07,488 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:12:07,498 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:12:07,500 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:12:07,506 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:12:07,508 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:12:07,517 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:12:07,653 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:12:07,668 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:12:07,685 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:12:20,404 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:12:20,407 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:12:20,603 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:12:20,605 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:12:22,516 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:12:59,303 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:14:31,095 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:14:31,152 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The supplied command does not exist in command pool
+2014-09-15 16:14:33,260 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:14:33,311 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The supplied command does not exist in command pool
+2014-09-15 16:14:33,639 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:14:33,690 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:14:34,069 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:14:34,120 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The supplied command does not exist in command pool
+2014-09-15 16:14:34,920 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:14:34,971 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The supplied command does not exist in command pool
+2014-09-15 16:14:36,566 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:14:36,577 DEBUG 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode started
+2014-09-15 16:14:36,579 DEBUG 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode try to getting Cadastral_Zone for Code :9
+2014-09-15 16:14:36,640 INFO 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode method got Cadatral_Zones with successfully
+2014-09-15 16:14:36,643 DEBUG 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode finfished
+2014-09-15 16:14:37,771 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:14:37,823 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The supplied command does not exist in command pool
+2014-09-15 16:15:01,355 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:15:01,409 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The supplied command does not exist in command pool
+2014-09-15 16:15:03,438 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:15:03,490 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The supplied command does not exist in command pool
+2014-09-15 16:15:09,021 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:15:09,067 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The supplied command does not exist in command pool
+2014-09-15 16:15:13,207 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:15:14,982 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:15:14,984 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:15:14,998 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:15:15,000 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:15:15,014 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:15:15,016 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:15:15,023 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:15:15,024 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:15:15,035 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:15:15,037 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:15:15,043 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:15:15,186 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:15:15,197 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:15:15,199 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:15:15,214 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:15:15,215 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:15:34,199 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:15:34,201 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:15:34,537 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:15:34,539 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:15:35,723 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:16:18,709 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:19:46,762 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-15 16:19:47,799 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 16:20:01,014 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 16:20:01,021 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 16:20:05,425 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 16:20:05,426 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 16:20:43,914 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:20:43,992 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:20:45,513 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:20:48,188 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:20:48,194 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:20:48,238 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:20:48,240 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:20:48,294 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:20:48,296 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:20:48,327 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:20:48,329 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:20:48,349 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:20:48,351 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:20:48,381 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:20:48,382 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:20:48,402 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:20:48,418 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:20:48,487 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:20:48,489 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:21:02,784 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:21:02,789 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:21:03,014 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:21:03,016 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:21:05,847 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:21:24,053 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:21:41,428 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:21:41,473 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:21:42,787 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:21:48,402 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:21:48,404 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:21:48,416 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:21:48,418 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:21:48,432 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:21:48,434 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:21:48,441 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:21:48,443 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:21:48,453 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:21:48,455 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:21:48,462 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:21:48,463 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:21:48,475 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:21:48,609 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:21:48,623 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:21:48,625 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:21:59,093 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:21:59,095 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:21:59,296 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:21:59,298 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:22:01,878 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:17:06,237 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:24:45,880 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-15 16:24:46,559 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 16:24:55,228 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 16:24:55,241 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 16:24:59,540 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 16:24:59,541 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 16:25:58,215 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:25:58,307 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:25:59,506 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:25:59,595 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:25:59,601 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:25:59,644 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:25:59,645 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:25:59,669 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:25:59,670 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:25:59,684 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:25:59,684 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:25:59,697 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:25:59,699 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:25:59,712 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:25:59,732 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:25:59,749 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:25:59,751 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:25:59,850 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:25:59,852 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:26:05,376 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:26:05,380 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:26:06,224 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:26:06,226 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:26:10,245 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:26:49,283 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:28:14,851 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:28:14,901 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:28:15,977 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:28:16,037 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:28:16,039 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:28:16,052 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:28:16,053 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:28:16,063 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:28:16,065 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:28:16,071 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:28:16,073 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:28:16,082 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:28:16,084 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:28:16,090 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:28:16,205 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:28:16,229 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:28:16,231 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:28:16,246 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:28:16,248 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:28:30,697 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:28:30,699 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:28:31,711 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:28:31,713 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:28:31,715 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:28:36,228 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:28:47,957 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:28:48,006 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:28:49,297 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:28:49,349 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:28:49,351 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:28:49,362 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:28:49,364 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:28:49,373 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:28:49,375 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:28:49,382 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:28:49,383 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:28:49,392 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:28:49,394 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:28:49,400 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:28:49,520 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:28:49,530 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:28:49,532 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:28:49,546 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:28:49,547 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:29:01,902 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:29:01,905 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:29:02,785 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:29:02,788 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:29:02,790 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:29:02,858 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:30:35,321 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-15 16:30:35,996 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 16:30:44,382 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 16:30:44,389 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 16:30:48,911 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 16:30:48,912 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 16:31:23,100 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:31:23,164 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:31:23,977 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:31:24,032 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:31:24,038 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:31:24,079 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:31:24,080 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:31:24,125 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:31:24,127 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:31:24,157 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:31:24,159 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:31:24,177 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:31:24,179 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:31:24,207 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:31:24,209 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:31:24,226 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:31:24,228 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:31:24,298 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:31:24,300 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:31:28,708 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:31:28,711 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:31:28,916 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:31:28,918 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:31:28,921 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:31:29,000 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:31:41,083 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:31:41,114 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:31:42,360 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:31:42,406 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:31:42,407 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:31:42,414 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:31:42,414 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:31:42,419 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:31:42,420 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:31:42,423 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:31:42,424 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:31:42,428 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:31:42,429 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:31:42,432 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:31:42,581 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:31:42,586 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:31:42,587 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:31:42,594 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:31:42,594 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:31:56,578 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:31:56,580 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:31:56,740 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:31:56,742 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:31:56,744 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:31:56,806 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:32:08,904 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:32:09,516 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:32:09,822 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:32:10,109 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:32:12,586 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:32:20,614 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:34:28,034 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-15 16:34:28,733 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-15 16:34:36,111 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-15 16:34:36,117 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-15 16:34:40,763 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-15 16:34:40,764 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-15 16:35:07,749 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:35:07,834 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:35:09,255 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:35:09,306 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:35:09,309 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:35:09,329 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:35:09,330 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:35:09,364 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:35:09,366 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:35:09,380 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:35:09,381 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:35:09,391 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:35:09,392 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:35:09,405 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:35:09,474 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:35:09,482 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:35:09,483 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:35:09,514 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:35:09,515 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:35:18,267 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:35:18,273 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:35:19,411 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:35:19,413 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:35:19,416 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:35:19,491 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:35:32,009 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:35:32,057 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:35:33,618 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:35:33,689 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:35:33,691 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:35:33,704 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:35:33,705 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:35:33,715 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:35:33,717 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:35:33,722 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:35:33,724 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:35:33,732 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:35:33,733 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:35:33,739 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:35:33,825 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:35:33,834 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:35:33,836 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:35:33,849 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:35:33,850 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:35:46,717 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:35:48,382 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:35:48,721 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:35:48,861 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:35:54,480 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:36:48,538 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:36:59,274 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:36:59,326 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:37:00,884 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:37:00,953 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:37:00,956 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:37:00,967 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:37:00,969 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:37:00,978 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:37:00,980 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:37:00,986 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:37:00,987 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:37:00,997 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:37:00,998 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:37:01,005 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:37:01,100 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:37:01,109 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:37:01,111 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:37:01,127 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:37:01,129 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:37:10,388 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:37:10,390 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:37:10,770 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:37:10,772 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:37:18,131 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:38:36,579 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-09-15 16:38:36,586 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-09-15 16:38:37,031 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-09-15 16:38:37,033 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-09-15 16:38:37,034 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-09-15 16:38:46,617 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:38:46,666 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:38:46,674 DEBUG 9 dtxk.business.BasicService - GetUSING_FORMById started
+2014-09-15 16:38:46,676 DEBUG 9 dtxk.business.BasicService - GetUSING_FORMById try to get USING_FORM for Id. idUSING_FORM=0
+2014-09-15 16:38:46,697 INFO 9 dtxk.business.BasicService - GetUSING_FORMById method got USING_FORM with successfully
+2014-09-15 16:38:46,699 DEBUG 9 dtxk.business.BasicService - GetUSING_FORMById finished
+2014-09-15 16:38:46,702 DEBUG 9 dtxk.business.BasicService - GetPARCEL_NAMEById started
+2014-09-15 16:38:46,704 DEBUG 9 dtxk.business.BasicService - GetPARCEL_NAMEById try to get PARCEL_NAME for Id. idPARCEL_NAME=0
+2014-09-15 16:38:46,728 INFO 9 dtxk.business.BasicService - GetPARCEL_NAMEById method got PARCEL_NAME with successfully
+2014-09-15 16:38:46,730 DEBUG 9 dtxk.business.BasicService - GetPARCEL_NAMEById finished
+2014-09-15 16:38:46,734 DEBUG 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById started
+2014-09-15 16:38:46,736 DEBUG 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById try to get MECHANICAL_STRUCTURE for Id. idMECHANICAL_STRUCTURE=0
+2014-09-15 16:38:46,856 INFO 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:38:46,858 DEBUG 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById finished
+2014-09-15 16:38:46,861 DEBUG 9 dtxk.business.BasicService - GetWATER_REGIMEById started
+2014-09-15 16:38:46,863 DEBUG 9 dtxk.business.BasicService - GetWATER_REGIMEById try to get WATER_REGIME for Id. idWATER_REGIME=0
+2014-09-15 16:38:46,892 INFO 9 dtxk.business.BasicService - GetWATER_REGIMEById method got WATER_REGIME with successfully
+2014-09-15 16:38:46,893 DEBUG 9 dtxk.business.BasicService - GetWATER_REGIMEById finished
+2014-09-15 16:39:09,813 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:39:09,862 ERROR 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - The index passed was not within the valid range.
+2014-09-15 16:39:11,428 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-15 16:39:11,500 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-15 16:39:11,503 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-15 16:39:11,514 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-15 16:39:11,516 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-15 16:39:11,526 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-15 16:39:11,528 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-15 16:39:11,535 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-15 16:39:11,536 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-15 16:39:11,546 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-15 16:39:11,548 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-15 16:39:11,554 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-15 16:39:11,630 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-15 16:39:11,640 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-15 16:39:11,642 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-15 16:39:11,657 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-15 16:39:11,658 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-15 16:33:51,302 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-15 16:33:51,305 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-15 16:33:51,651 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-15 16:33:51,653 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-15 16:33:52,687 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-15 16:33:53,711 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Method couldn't  update  featureobject
+2014-09-15 16:42:12,034 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-15 16:42:12,725 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.

@@ -1,0 +1,138 @@
+2014-12-28 23:22:40,253 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-12-28 23:22:43,604 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-28 23:22:49,199 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-28 23:22:49,323 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-28 23:22:52,670 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-28 23:22:52,671 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-28 23:22:58,882 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-28 23:22:59,160 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-28 23:22:59,344 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-28 23:22:59,346 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-28 23:23:02,281 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_DISTRICT started
+2014-12-28 23:23:02,336 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_DISTRICT try to getting ALL PRICE_DISTRICT 
+2014-12-28 23:23:02,423 INFO 1 dtxk.business.BasicService - LoadAllPRICE_DISTRICT method got PRICE_DISTRICT with successfully
+2014-12-28 23:23:02,424 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_DISTRICT finished
+2014-12-28 23:23:02,686 DEBUG 1 dtxk.business.BasicService - LoadAllLAND_CATEGORY started
+2014-12-28 23:23:02,726 DEBUG 1 dtxk.business.BasicService - LoadAllLAND_CATEGORY try to getting ALL LAND_CATEGORY 
+2014-12-28 23:23:02,811 INFO 1 dtxk.business.BasicService - LoadAllLAND_CATEGORY method got LAND_CATEGORY with successfully
+2014-12-28 23:23:02,812 DEBUG 1 dtxk.business.BasicService - LoadAllLAND_CATEGORY finished
+2014-12-28 23:23:03,299 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-12-28 23:23:03,312 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-12-28 23:23:03,379 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-12-28 23:23:03,380 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-12-28 23:23:04,535 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-28 23:23:04,562 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-28 23:23:04,695 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-28 23:23:06,440 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-28 23:23:06,458 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-28 23:23:06,576 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-28 23:23:06,578 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-28 23:23:07,058 DEBUG 1 dtxk.business.BasicService - LoadAllCONTRACT_FORM started
+2014-12-28 23:23:07,093 DEBUG 1 dtxk.business.BasicService - LoadAllCONTRACT_FORM try to getting ALL CONTRACT_FORM 
+2014-12-28 23:23:07,180 INFO 1 dtxk.business.BasicService - LoadAllCONTRACT_FORM method got CONTRACT_FORM with successfully
+2014-12-28 23:23:07,182 DEBUG 1 dtxk.business.BasicService - LoadAllCONTRACT_FORM finished
+2014-12-28 23:23:07,571 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP started
+2014-12-28 23:23:07,574 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP try to getting ALL PRICE_ZONE_GROUP 
+2014-12-28 23:23:07,634 INFO 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP method got PRICE_ZONE_GROUP with successfully
+2014-12-28 23:23:07,635 DEBUG 1 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP finished
+2014-12-28 23:23:11,878 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-28 23:23:11,971 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-28 23:23:11,983 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-28 23:23:11,985 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-28 23:23:12,023 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-28 23:23:12,024 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-28 23:23:12,029 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-28 23:23:12,029 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-28 23:23:14,871 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-28 23:23:14,872 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-28 23:23:14,888 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-28 23:23:14,889 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-28 23:23:14,897 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-28 23:23:14,898 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-28 23:23:14,900 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-28 23:23:14,901 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-28 23:23:20,034 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-28 23:23:20,035 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-28 23:23:20,039 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-28 23:23:20,040 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-28 23:23:20,049 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-28 23:23:20,049 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-28 23:23:20,052 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-28 23:23:20,053 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-28 23:23:24,585 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-28 23:23:24,585 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-28 23:23:24,590 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-28 23:23:24,590 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-28 23:23:24,599 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-28 23:23:24,599 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-28 23:23:24,610 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-28 23:23:24,611 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-28 23:23:27,554 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-28 23:23:27,557 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-28 23:23:27,565 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-28 23:23:32,950 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-28 23:23:32,952 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-28 23:23:32,957 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-28 23:23:35,249 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById started
+2014-12-28 23:23:35,312 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById try to getting merged PARCEL  for Parcel ID .idPARCEL= :5568
+2014-12-28 23:23:35,481 INFO 1 dtxk.business.Services.ServiceParcel - GetPARCELById method got PARCEL with successfully
+2014-12-28 23:23:35,483 DEBUG 1 dtxk.business.Services.ServiceParcel - GetPARCELById finfished
+2014-12-28 23:23:35,571 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners started
+2014-12-28 23:23:35,572 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners try to getting merged PARCEL_OWNER  for Parcel ID .idParcel= :5568
+2014-12-28 23:23:35,704 INFO 1 dtxk.business.Services.ServiceParcel - GetParcelOwners can't getting PARCEL_OWNER
+2014-12-28 23:23:35,860 ERROR 1 dtxk.business.Services.ServiceParcel - GetParcelOwners didn't work ,Exception message=System.Data.EntityCommandExecutionException: An error occurred while executing the command definition. See the inner exception for details. ---> Oracle.DataAccess.Client.OracleException: ORA-00904: "Extent2"."NOTE": invalid identifier
+   at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.EntityClient.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   --- End of inner exception stack trace ---
+   at System.Data.EntityClient.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   at System.Data.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at dtxk.business.Services.ServiceParcel.GetParcelOwners(Decimal idParcel, BusinessParam businessParam) in C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\Business\dtxk.business\Services\ServiceParcel.cs:line 353
+2014-12-28 23:23:35,862 DEBUG 1 dtxk.business.Services.ServiceParcel - GetParcelOwners finfished
+2014-12-28 23:23:36,922 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-12-28 23:23:36,948 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-12-28 23:23:36,953 INFO 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-12-28 23:23:36,953 DEBUG 1 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-12-28 23:23:47,836 DEBUG 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-28 23:23:47,873 DEBUG 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-28 23:23:48,047 INFO 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-28 23:23:48,047 DEBUG 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-28 23:23:51,875 DEBUG 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-28 23:23:51,876 DEBUG 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-28 23:23:51,881 INFO 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-28 23:23:51,882 DEBUG 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-28 23:23:52,417 DEBUG 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-28 23:23:52,419 DEBUG 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-28 23:23:52,424 INFO 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-28 23:23:52,425 DEBUG 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-28 23:23:52,591 DEBUG 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-28 23:23:52,593 DEBUG 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-28 23:23:52,597 INFO 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-28 23:23:52,598 DEBUG 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-28 23:24:03,209 DEBUG 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-28 23:24:03,210 DEBUG 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-28 23:24:03,224 INFO 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-28 23:24:03,225 DEBUG 4 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-28 23:24:03,417 DEBUG 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-28 23:24:03,419 DEBUG 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-28 23:24:03,423 INFO 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-28 23:24:03,424 DEBUG 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-28 23:24:03,609 DEBUG 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-28 23:24:03,611 DEBUG 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-28 23:24:03,615 INFO 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-28 23:24:03,616 DEBUG 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-28 23:24:07,925 DEBUG 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-28 23:24:07,927 DEBUG 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-28 23:24:07,931 INFO 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-28 23:24:07,932 DEBUG 5 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished
+2014-12-28 23:24:08,103 DEBUG 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson started
+2014-12-28 23:24:08,104 DEBUG 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson try to getting PHYSICAL_PERSON  for Physicalperson reference : refresh=True
+2014-12-28 23:24:08,108 INFO 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson method got Physical_Person with successfully
+2014-12-28 23:24:08,110 DEBUG 7 dtxk.business.Services.ServicePhysicalPerson - FindPhysicalPerson finfished

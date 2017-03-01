@@ -1,0 +1,22 @@
+2014-05-29 12:28:57,651 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-05-29 12:28:59,211 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-05-29 12:29:11,753 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-05-29 12:29:11,909 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=resad trying to connect
+2014-05-29 12:29:12,268 ERROR 4 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.EntityException: Произошла ошибка базового поставщика в Open. ---> Oracle.DataAccess.Client.OracleException: ORA-28001: the password has expired
+   в Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   в Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   в Oracle.DataAccess.Client.OracleConnection.Open()
+   в System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   в System.Data.EntityClient.EntityConnection.Open()
+   в System.Data.Objects.ObjectContext.EnsureConnection()
+   в System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   в System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   в System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   в System.Data.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__1[TResult](IEnumerable`1 sequence)
+   в System.Data.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   в System.Data.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   в System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source)
+   в dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) в C:\Users\atkis\Desktop\Share\24apr2014\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:строка 40

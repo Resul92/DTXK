@@ -1,0 +1,192 @@
+2014-11-18 11:43:09,317 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 11:43:11,766 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 11:50:49,701 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-11-18 11:50:50,288 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 11:50:58,349 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 11:50:58,357 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 11:51:03,228 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 11:51:03,231 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 11:55:24,742 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-11-18 11:55:25,266 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 11:55:34,345 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 11:55:34,353 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 11:55:38,928 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 11:55:38,930 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 11:59:47,231 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-11-18 11:59:47,793 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 11:59:57,926 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 11:59:57,934 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:00:02,416 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:00:02,418 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:03:38,185 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:03:38,757 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:03:46,581 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:03:46,588 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:03:51,553 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:03:51,556 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:11:21,293 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:11:21,999 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:11:28,161 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:11:28,169 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:11:33,052 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:11:33,055 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:13:54,912 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:13:55,519 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:14:01,102 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:14:01,110 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:14:06,005 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:14:06,008 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:14:44,319 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:14:45,285 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:14:50,056 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:14:50,064 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:14:54,884 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:14:54,886 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:17:38,237 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:17:38,815 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:18:05,018 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:18:05,027 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:18:09,914 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:18:09,916 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:24:26,184 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-11-18 12:24:26,247 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-11-18 12:24:26,330 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-11-18 12:24:26,333 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-11-18 12:27:25,962 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:27:26,583 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:27:32,654 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:27:32,662 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:27:37,412 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:27:37,414 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:35:01,198 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:35:01,820 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:35:08,224 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:35:08,232 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:35:12,247 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:35:12,250 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:39:45,005 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:39:45,594 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:39:57,143 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:39:57,148 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:40:01,565 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:40:01,567 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:40:13,201 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-11-18 12:40:13,224 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-11-18 12:40:13,306 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-11-18 12:40:13,308 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-11-18 12:40:13,356 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-11-18 12:40:13,364 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-11-18 12:40:13,423 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-11-18 12:40:13,425 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-11-18 12:44:13,622 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:44:14,245 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:44:19,810 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:44:19,819 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:44:24,826 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:44:24,828 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:52:27,815 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:52:28,405 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:52:39,063 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:52:39,071 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:52:43,786 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:52:43,789 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:56:06,865 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-11-18 12:56:07,472 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 12:56:18,924 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 12:56:18,932 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 12:56:23,492 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 12:56:23,495 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 12:56:34,716 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-11-18 12:56:34,740 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-11-18 12:56:34,817 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-11-18 12:56:34,830 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-11-18 12:56:34,872 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-11-18 12:56:34,875 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-11-18 12:56:34,933 INFO 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-11-18 12:56:34,936 DEBUG 8 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-11-18 13:00:20,163 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 13:00:20,841 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 13:00:28,016 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 13:00:28,024 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 13:00:33,021 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 13:00:33,024 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 13:03:23,751 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 13:03:24,393 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 13:03:29,701 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 13:03:29,709 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 13:03:34,492 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 13:03:34,494 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 14:50:04,165 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-11-18 14:50:05,046 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 14:50:11,390 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 14:50:11,398 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 14:50:15,855 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 14:50:15,858 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 14:53:46,194 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 14:53:47,191 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 14:54:08,456 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 14:54:08,463 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 14:54:12,974 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 14:54:12,976 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 14:57:39,077 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 14:57:39,701 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 14:57:51,218 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 14:57:51,227 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 14:57:56,082 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 14:57:56,084 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 15:03:49,245 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 15:03:50,618 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 15:04:55,002 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 15:04:55,009 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 15:04:59,890 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 15:04:59,892 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 15:21:46,915 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-11-18 15:21:47,556 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 15:21:57,755 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 15:21:57,763 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 15:22:02,621 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 15:22:02,624 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 15:23:48,362 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 15:23:48,953 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 15:23:55,843 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 15:23:55,851 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 15:24:00,315 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 15:24:00,316 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 16:47:26,405 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 16:47:26,901 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 17:09:02,138 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 17:09:02,659 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 17:11:01,660 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 17:11:01,668 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 17:11:06,448 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 17:11:06,451 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 17:11:48,757 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-11-18 17:11:49,859 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 17:12:18,939 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 17:12:18,947 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 17:12:23,791 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 17:12:23,793 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 17:18:05,009 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-11-18 17:18:05,651 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 17:18:12,792 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 17:18:12,799 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 17:18:17,615 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 17:18:17,617 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 17:21:44,929 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 17:21:46,730 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 17:21:51,883 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 17:21:51,892 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 17:21:56,739 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 17:21:56,741 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 17:23:28,858 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 17:23:29,951 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 17:23:38,962 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 17:23:38,969 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 17:23:45,141 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 17:23:45,144 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-11-18 17:25:24,041 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-11-18 17:25:24,687 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-11-18 17:25:34,008 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-11-18 17:25:34,015 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-11-18 17:25:38,488 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-11-18 17:25:38,490 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished

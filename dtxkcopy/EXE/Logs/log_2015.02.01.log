@@ -1,0 +1,6 @@
+2015-02-01 19:27:20,000 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-01 19:27:20,698 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-01 19:27:30,976 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-01 19:27:31,166 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-01 19:27:35,632 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-01 19:27:35,632 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished

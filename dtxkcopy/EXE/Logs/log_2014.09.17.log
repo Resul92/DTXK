@@ -1,0 +1,223 @@
+2014-09-17 10:13:19,363 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-09-17 10:13:21,271 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-17 10:13:30,217 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-17 10:13:30,267 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-17 10:13:35,652 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-17 10:13:35,654 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-17 10:15:41,974 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-17 10:15:42,510 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-17 10:15:52,405 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-17 10:15:52,412 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-17 10:15:56,812 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-17 10:15:56,814 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-17 10:18:46,403 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-09-17 10:18:46,948 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-17 10:18:57,544 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-17 10:18:57,550 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-17 10:19:02,334 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-17 10:19:02,336 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-17 10:19:28,375 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-17 10:19:29,541 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-17 10:19:29,615 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-17 10:19:29,631 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-17 10:19:29,695 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-17 10:19:29,697 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-17 10:19:29,917 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-17 10:19:29,919 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-17 10:19:29,955 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-17 10:19:29,957 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-17 10:19:29,980 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-17 10:19:29,982 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-17 10:19:30,021 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-17 10:19:30,022 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-17 10:19:30,045 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-17 10:19:30,047 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-17 10:19:30,130 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-17 10:19:30,132 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-17 10:19:44,140 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-17 10:19:44,145 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-17 10:19:44,349 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-17 10:19:44,351 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-17 10:19:46,160 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-17 10:19:50,336 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-09-17 10:19:50,342 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-09-17 10:19:50,907 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-09-17 10:19:50,909 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-09-17 10:19:50,911 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-09-17 10:19:55,808 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-17 10:19:57,131 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-17 10:19:57,214 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-17 10:19:57,216 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-17 10:19:57,228 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-17 10:19:57,230 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-17 10:19:57,240 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-17 10:19:57,242 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-17 10:19:57,249 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-17 10:19:57,250 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-17 10:19:57,262 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-17 10:19:57,263 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-17 10:19:57,270 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-17 10:19:57,340 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-17 10:19:57,351 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-17 10:19:57,353 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-17 10:19:57,367 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-17 10:19:57,369 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-17 10:20:12,022 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-17 10:20:12,024 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-17 10:20:12,245 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-17 10:20:12,247 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-17 10:20:14,047 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-17 10:20:15,330 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-09-17 10:20:15,332 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-09-17 10:20:15,801 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-09-17 10:20:15,803 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-09-17 10:20:15,804 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-09-17 10:20:18,512 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-17 10:20:19,734 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-17 10:20:19,809 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-17 10:20:19,811 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-17 10:20:19,822 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-17 10:20:19,824 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-17 10:20:19,835 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-17 10:20:19,837 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-17 10:20:19,843 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-17 10:20:19,844 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-17 10:20:19,856 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-17 10:20:19,858 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-17 10:20:19,864 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-17 10:20:19,952 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-17 10:20:19,965 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-17 10:20:19,966 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-17 10:20:19,979 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-17 10:20:19,981 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-17 10:20:29,151 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-17 10:20:29,159 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-17 10:20:29,272 INFO 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-17 10:20:29,275 DEBUG 9 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-17 10:20:33,209 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-17 10:20:33,214 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-17 10:20:33,221 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-17 10:20:33,221 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-17 10:20:40,185 DEBUG 9 dtxk.business.BasicService - SaveMECHANICAL_STRUCTURE started
+2014-09-17 10:20:40,188 DEBUG 9 dtxk.business.BasicService - SaveMECHANICAL_STRUCTURE try to save MECHANICAL_STRUCTURE
+2014-09-17 10:20:41,313 INFO 9 dtxk.business.BasicService - SaveMECHANICAL_STRUCTURE method saved MECHANICAL_STRUCTURE with successfully
+2014-09-17 10:20:41,315 DEBUG 9 dtxk.business.BasicService - SaveMECHANICAL_STRUCTURE finished
+2014-09-17 10:20:41,316 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-17 10:20:41,317 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-17 10:20:41,331 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-17 10:20:41,332 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-17 10:20:42,308 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-17 10:20:42,311 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-17 10:20:42,322 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-17 10:20:42,324 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-17 10:20:46,919 DEBUG 9 dtxk.business.BasicService - SavePARCEL_NAME started
+2014-09-17 10:20:46,922 DEBUG 9 dtxk.business.BasicService - SavePARCEL_NAME try to save PARCEL_NAME
+2014-09-17 10:20:47,001 INFO 9 dtxk.business.BasicService - SavePARCEL_NAME method saved PARCEL_NAME with successfully
+2014-09-17 10:20:47,004 DEBUG 9 dtxk.business.BasicService - SavePARCEL_NAME finished
+2014-09-17 10:20:47,005 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-17 10:20:47,006 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-17 10:20:47,049 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-17 10:20:47,052 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-17 10:20:52,175 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-17 10:20:53,505 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-17 10:20:53,581 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME started
+2014-09-17 10:20:53,583 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME try to getting ALL PARCEL_NAME 
+2014-09-17 10:20:53,597 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_NAME method got PARCEL_NAME with successfully
+2014-09-17 10:20:53,599 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_NAME finished
+2014-09-17 10:20:53,613 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE started
+2014-09-17 10:20:53,615 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE try to getting ALL MECHANICAL_STRUCTURE 
+2014-09-17 10:20:53,624 INFO 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE method got MECHANICAL_STRUCTURE with successfully
+2014-09-17 10:20:53,625 DEBUG 9 dtxk.business.BasicService - LoadAllMECHANICAL_STRUCTURE finished
+2014-09-17 10:20:53,639 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME started
+2014-09-17 10:20:53,640 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME try to getting ALL WATER_REGIME 
+2014-09-17 10:20:53,646 INFO 9 dtxk.business.BasicService - LoadAllWATER_REGIME method got WATER_REGIME with successfully
+2014-09-17 10:20:53,737 DEBUG 9 dtxk.business.BasicService - LoadAllWATER_REGIME finished
+2014-09-17 10:20:53,751 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM started
+2014-09-17 10:20:53,753 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM try to getting ALL USING_FORM 
+2014-09-17 10:20:53,768 INFO 9 dtxk.business.BasicService - LoadAllUSING_FORM method got USING_FORM with successfully
+2014-09-17 10:20:53,769 DEBUG 9 dtxk.business.BasicService - LoadAllUSING_FORM finished
+2014-09-17 10:21:11,900 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-09-17 10:21:11,902 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-09-17 10:21:12,085 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-09-17 10:21:12,215 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-09-17 10:21:15,873 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-09-17 10:21:18,730 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-09-17 10:21:18,733 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-09-17 10:21:19,078 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-09-17 10:21:19,081 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-09-17 10:21:19,082 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-09-17 10:21:23,207 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-09-17 10:21:23,221 DEBUG 9 dtxk.business.BasicService - GetUSING_FORMById started
+2014-09-17 10:21:23,223 DEBUG 9 dtxk.business.BasicService - GetUSING_FORMById try to get USING_FORM for Id. idUSING_FORM=5
+2014-09-17 10:21:23,248 INFO 9 dtxk.business.BasicService - GetUSING_FORMById method got USING_FORM with successfully
+2014-09-17 10:21:23,250 DEBUG 9 dtxk.business.BasicService - GetUSING_FORMById finished
+2014-09-17 10:21:23,254 DEBUG 9 dtxk.business.BasicService - GetPARCEL_NAMEById started
+2014-09-17 10:21:23,255 DEBUG 9 dtxk.business.BasicService - GetPARCEL_NAMEById try to get PARCEL_NAME for Id. idPARCEL_NAME=1
+2014-09-17 10:21:23,268 INFO 9 dtxk.business.BasicService - GetPARCEL_NAMEById method got PARCEL_NAME with successfully
+2014-09-17 10:21:23,270 DEBUG 9 dtxk.business.BasicService - GetPARCEL_NAMEById finished
+2014-09-17 10:21:23,274 DEBUG 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById started
+2014-09-17 10:21:23,276 DEBUG 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById try to get MECHANICAL_STRUCTURE for Id. idMECHANICAL_STRUCTURE=1
+2014-09-17 10:21:23,289 INFO 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById method got MECHANICAL_STRUCTURE with successfully
+2014-09-17 10:21:23,290 DEBUG 9 dtxk.business.BasicService - GetMECHANICAL_STRUCTUREById finished
+2014-09-17 10:21:23,428 DEBUG 9 dtxk.business.BasicService - GetWATER_REGIMEById started
+2014-09-17 10:21:23,430 DEBUG 9 dtxk.business.BasicService - GetWATER_REGIMEById try to get WATER_REGIME for Id. idWATER_REGIME=0
+2014-09-17 10:21:23,443 INFO 9 dtxk.business.BasicService - GetWATER_REGIMEById method got WATER_REGIME with successfully
+2014-09-17 10:21:23,445 DEBUG 9 dtxk.business.BasicService - GetWATER_REGIMEById finished
+2014-09-17 10:21:45,773 DEBUG 9 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE started
+2014-09-17 10:21:45,775 DEBUG 9 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE try to getting ALL SERVITUDE_TYPE 
+2014-09-17 10:21:45,811 INFO 9 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE method got SERVITUDE_TYPE with successfully
+2014-09-17 10:21:45,812 DEBUG 9 dtxk.business.BasicService - LoadAllSERVITUDE_TYPE finished
+2014-09-17 10:21:51,514 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS started
+2014-09-17 10:21:51,535 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS try to getting ALL LEGAL_FORMS 
+2014-09-17 10:21:51,601 INFO 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS method got LEGAL_FORMS with successfully
+2014-09-17 10:21:51,604 DEBUG 9 dtxk.business.BasicService - LoadAllLEGAL_FORMS finished
+2014-09-17 10:21:56,366 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP started
+2014-09-17 10:21:56,370 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP try to getting ALL PRICE_ZONE_GROUP 
+2014-09-17 10:21:56,475 INFO 9 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP method got PRICE_ZONE_GROUP with successfully
+2014-09-17 10:21:56,477 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_ZONE_GROUP finished
+2014-09-17 10:21:59,050 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT started
+2014-09-17 10:21:59,053 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT try to getting ALL PARCEL_APPOINTMENT 
+2014-09-17 10:21:59,123 INFO 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT method got PARCEL_APPOINTMENT with successfully
+2014-09-17 10:21:59,125 DEBUG 9 dtxk.business.BasicService - LoadAllPARCEL_APPOINTMENT finished
+2014-09-17 10:22:03,123 DEBUG 9 dtxk.business.BasicService - LoadAllENCUMBR_TYPE started
+2014-09-17 10:22:03,126 DEBUG 9 dtxk.business.BasicService - LoadAllENCUMBR_TYPE try to getting ALL ENCUMBR_TYPE 
+2014-09-17 10:22:03,172 INFO 9 dtxk.business.BasicService - LoadAllENCUMBR_TYPE method got ENCUMBR_TYPE with successfully
+2014-09-17 10:22:03,175 DEBUG 9 dtxk.business.BasicService - LoadAllENCUMBR_TYPE finished
+2014-09-17 10:22:07,521 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT started
+2014-09-17 10:22:07,525 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT try to getting ALL PRICE_DISTRICT 
+2014-09-17 10:22:07,607 INFO 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT method got PRICE_DISTRICT with successfully
+2014-09-17 10:22:07,610 DEBUG 9 dtxk.business.BasicService - LoadAllPRICE_DISTRICT finished
+2014-09-17 10:23:26,321 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-09-17 10:23:26,828 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-17 10:23:36,798 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-17 10:23:36,805 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-17 10:23:41,589 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-17 10:23:41,591 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-17 10:24:34,670 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-09-17 10:24:34,747 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-09-17 10:24:34,827 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-09-17 10:24:34,829 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-09-17 10:25:06,181 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-09-17 10:25:06,674 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-17 10:25:12,962 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-17 10:25:12,968 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-17 10:25:17,712 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-17 10:25:17,714 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-17 10:20:39,040 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-09-17 10:20:39,539 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-17 10:20:46,474 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-17 10:20:46,478 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-17 10:20:50,979 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-17 10:20:50,981 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-17 10:28:33,149 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-09-17 10:28:33,645 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-17 10:28:43,523 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-17 10:28:43,529 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-17 10:28:48,299 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-17 10:28:48,301 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-09-17 10:29:56,372 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-09-17 10:29:57,110 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-09-17 10:30:12,706 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-09-17 10:30:12,713 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-09-17 10:30:17,071 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-09-17 10:30:17,072 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished

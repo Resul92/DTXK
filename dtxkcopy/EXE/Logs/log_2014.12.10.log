@@ -1,0 +1,376 @@
+2014-12-10 16:33:50,542 INFO 10 dtxk.client.FrmLogIn - Program started
+2014-12-10 16:33:54,309 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-10 16:34:56,029 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-10 16:34:56,115 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-10 16:35:01,209 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-10 16:35:01,211 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-10 16:37:17,473 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-12-10 16:37:18,054 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-10 16:37:29,384 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-10 16:37:29,393 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-10 16:37:42,061 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username('admin') or password is invalid
+2014-12-10 16:37:42,064 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-10 16:57:51,203 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-12-10 16:57:53,480 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-10 16:58:03,006 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-10 16:58:03,108 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-10 16:58:07,332 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-10 16:58:07,335 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-10 16:59:11,803 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:11,914 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:11,918 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:31,211 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:31,271 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:31,273 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:33,619 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:33,622 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:33,624 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:36,022 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:36,027 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 16:59:36,030 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:08,038 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:08,041 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:08,044 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:19,927 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:19,930 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:19,932 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:19,950 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:19,953 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:19,955 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:22,180 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:22,184 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:22,187 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:22,204 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:22,207 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:22,210 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:23,233 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:23,238 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:23,240 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:23,257 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:23,259 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:23,261 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:42,183 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:42,202 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:42,204 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:42,229 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:42,231 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:42,234 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:45,470 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:45,474 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:45,477 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:45,494 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:45,497 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:45,499 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:48,308 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:48,311 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:48,313 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:48,331 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:48,333 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:48,369 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:51,880 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:51,884 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:51,887 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:51,897 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:51,899 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:51,901 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:53,686 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:53,690 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:53,702 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:53,760 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:55,225 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:55,228 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:55,230 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:55,240 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:55,242 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:55,244 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:57,756 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:57,760 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:57,762 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:57,772 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:57,775 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:00:57,777 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:01:08,644 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:01:11,127 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:01:11,131 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:01:11,134 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:01:11,144 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:01:11,147 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:01:11,149 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:04:40,028 INFO 9 dtxk.client.FrmLogIn - Program started
+2014-12-10 17:04:42,370 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-10 17:04:49,440 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-10 17:04:49,449 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-10 17:04:54,034 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-10 17:04:54,037 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-10 17:05:16,144 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:05:16,228 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:05:16,231 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:06:12,553 INFO 8 dtxk.client.FrmLogIn - Program started
+2014-12-10 17:06:14,297 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-10 17:06:20,724 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-10 17:06:20,733 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-10 17:06:25,526 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-10 17:06:25,528 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-10 17:06:51,645 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:06:51,681 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:06:51,685 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:07:03,607 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:07:03,612 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:07:03,615 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:07:11,399 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:07:15,047 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:07:18,692 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-12-10 17:07:18,796 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-12-10 17:07:19,220 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-12-10 17:07:19,222 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-12-10 17:07:19,555 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-10 17:07:19,558 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-10 17:07:19,737 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-10 17:07:19,741 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-10 17:07:19,771 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-10 17:07:19,776 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-10 17:07:19,914 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-10 17:07:19,917 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-10 17:07:19,972 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:07:19,978 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:07:20,854 INFO 8 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:07:20,858 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:07:20,907 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:07:20,910 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:07:22,761 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:07:22,766 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:07:22,865 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:07:22,868 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:07:24,189 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:07:24,193 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:07:24,230 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:07:24,232 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:07:24,840 INFO 8 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:07:24,843 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:07:24,893 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:07:24,895 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:07:26,195 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:07:26,199 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:07:26,254 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-10 17:07:26,256 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-10 17:07:26,290 INFO 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-10 17:07:26,292 DEBUG 8 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-10 17:07:26,324 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:07:26,326 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:07:26,927 INFO 8 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:07:26,931 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:07:26,978 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:07:26,981 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:07:28,143 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:07:28,147 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:07:43,204 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:07:43,225 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:07:43,844 INFO 8 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:07:43,849 DEBUG 8 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:07:43,886 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:07:43,890 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:07:45,253 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:07:45,257 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:07:55,397 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:07:55,400 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:07:56,712 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:07:56,716 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:07:59,874 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:07:59,877 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:08:01,204 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:08:01,208 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:08:01,229 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:08:01,231 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:08:02,551 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:08:02,555 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:08:06,201 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:08:06,204 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:08:07,518 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:08:07,531 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:08:07,551 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:08:07,552 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:08:08,891 INFO 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:08:08,895 DEBUG 8 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:08:11,060 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-12-10 17:08:11,065 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-12-10 17:08:11,264 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:08:11,269 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:08:11,271 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:08:12,549 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-12-10 17:08:12,560 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-12-10 17:08:12,564 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-12-10 17:08:12,579 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-12-10 17:08:12,585 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-12-10 17:08:12,976 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:08:12,980 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:08:12,983 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:08:12,991 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-12-10 17:08:12,993 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-12-10 17:08:12,994 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-12-10 17:08:22,632 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:08:22,660 DEBUG 8 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2014-12-10 17:08:22,674 DEBUG 8 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :90101502
+2014-12-10 17:08:22,706 INFO 8 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:08:22,714 DEBUG 8 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2014-12-10 17:12:21,920 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-12-10 17:12:22,401 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-10 17:12:31,246 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-10 17:12:31,259 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-10 17:12:35,978 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2014-12-10 17:12:35,981 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-10 17:13:04,451 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:13:04,613 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:13:04,695 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-12-10 17:13:04,700 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-12-10 17:13:04,794 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-12-10 17:13:04,796 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-12-10 17:13:04,840 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-10 17:13:04,842 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-10 17:13:04,916 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-10 17:13:04,918 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-10 17:13:04,942 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-10 17:13:04,945 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-10 17:13:05,084 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-10 17:13:05,087 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-10 17:13:05,125 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:13:05,127 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:13:05,923 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:13:05,926 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:13:05,969 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:05,971 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:07,513 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:07,516 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:07,551 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:07,552 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:08,231 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:08,233 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:08,251 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:13:08,251 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:13:08,523 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:13:08,525 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:13:08,539 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:08,540 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:09,137 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:09,139 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:09,150 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-10 17:13:09,151 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-10 17:13:09,169 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-10 17:13:09,170 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-10 17:13:09,178 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:13:09,179 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:13:09,451 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:13:09,453 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:13:09,467 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:09,468 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:10,079 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:10,081 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:10,088 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:13:10,089 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:13:10,356 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:13:10,358 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:13:10,371 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:10,373 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:10,989 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:10,991 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:10,998 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:10,999 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:11,610 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:11,612 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:15,584 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-12-10 17:13:15,592 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-12-10 17:13:15,802 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-12-10 17:13:15,804 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-12-10 17:13:15,814 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-12-10 17:13:15,853 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-12-10 17:13:15,861 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-12-10 17:13:16,191 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-12-10 17:13:16,194 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-12-10 17:13:16,195 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully
+2014-12-10 17:13:47,897 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:13:47,974 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2014-12-10 17:13:48,036 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-12-10 17:13:48,038 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-12-10 17:13:48,056 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-12-10 17:13:48,058 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-12-10 17:13:48,080 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-10 17:13:48,082 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-10 17:13:48,097 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-10 17:13:48,098 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-10 17:13:48,114 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-10 17:13:48,117 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-10 17:13:48,179 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-10 17:13:48,181 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-10 17:13:48,204 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:13:48,206 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:13:48,931 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:13:48,935 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:13:48,971 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:48,973 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:50,603 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:50,606 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:50,657 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:50,659 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:51,564 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:51,566 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:51,585 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:13:51,586 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:13:51,914 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:13:51,916 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:13:51,936 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:51,937 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:53,037 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:53,040 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:53,058 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-10 17:13:53,059 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-10 17:13:53,082 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-10 17:13:53,083 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-10 17:13:53,099 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:13:53,101 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:13:53,461 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:13:53,463 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:13:53,486 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:53,488 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:13:54,233 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:13:54,235 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:13:59,022 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-10 17:13:59,025 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-10 17:13:59,059 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2014-12-10 17:13:59,061 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-10 17:13:59,081 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:13:59,084 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:13:59,629 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:13:59,632 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:13:59,668 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:13:59,866 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:14:01,152 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:14:01,155 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:14:03,987 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-10 17:14:03,990 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-10 17:14:04,551 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-10 17:14:04,554 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-10 17:14:04,586 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:14:04,588 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:14:05,799 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:14:05,803 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:14:08,946 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:14:08,949 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:14:10,162 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:14:10,165 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:14:10,180 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:14:10,181 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:14:11,067 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:14:11,069 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:14:11,081 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-10 17:14:11,082 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-10 17:14:11,783 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-10 17:14:11,785 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-10 17:14:23,455 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.Update method started
+2014-12-10 17:14:23,457 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StartEditing method started
+2014-12-10 17:14:23,667 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation started with successfully
+2014-12-10 17:14:23,670 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has started
+2014-12-10 17:14:23,671 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.ObjectToFeature method started
+2014-12-10 17:14:23,674 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ObjectToFeature complete with successfully
+2014-12-10 17:14:23,676 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - ClsFeatureOperation.StopEditing method started
+2014-12-10 17:14:24,033 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Operation stopped with successfully
+2014-12-10 17:14:24,035 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Editing has stopped
+2014-12-10 17:14:24,037 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - Feature object has updated with successfully

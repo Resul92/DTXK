@@ -1,0 +1,58 @@
+2015-02-17 14:04:31,792 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-17 14:04:33,914 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-17 14:04:42,197 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-17 14:04:42,279 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-17 14:04:45,317 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-17 14:04:45,319 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-17 14:05:14,064 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-17 14:05:14,279 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-17 14:05:14,297 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-17 14:05:14,357 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-17 14:06:37,694 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-17 14:06:39,071 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-17 14:06:43,211 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-17 14:06:43,213 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-17 14:06:44,166 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-17 14:06:44,167 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-17 14:07:04,301 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-17 14:07:04,331 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-17 14:07:04,340 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-17 14:07:04,392 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-17 14:07:06,188 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2015-02-17 14:07:06,309 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :30800901
+2015-02-17 14:07:06,485 INFO 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2015-02-17 14:07:06,486 DEBUG 10 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2015-02-17 14:07:06,761 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit started
+2015-02-17 14:07:06,790 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit try to getting last PARCEL of territorialunit for idTU.idTu= :453
+2015-02-17 14:07:07,148 INFO 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit method got PARCEL with successfully
+2015-02-17 14:07:07,150 DEBUG 10 dtxk.business.Services.ServiceParcel - GetLastParcelOfTerritorialUnit finfished
+2015-02-17 14:07:07,188 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-17 14:07:07,211 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-17 14:07:07,455 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-17 14:07:07,458 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-17 14:07:07,528 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2015-02-17 14:07:07,529 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2015-02-17 14:07:07,544 INFO 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION method got CADASTRAL_REGION with successfully
+2015-02-17 14:07:07,545 DEBUG 10 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2015-02-17 14:07:07,562 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets started
+2015-02-17 14:07:07,584 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets try to getting STREET for TERRITORIAL_UNIT ID : idTU=453
+2015-02-17 14:07:07,585 INFO 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets method got STREET with successfully
+2015-02-17 14:07:07,586 DEBUG 10 dtxk.business.Services.ServiceStreet - GetTerritorialUnitStreets finfished
+2015-02-17 14:07:08,553 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Next> CadastreNo Page
+2015-02-17 14:07:08,563 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE started
+2015-02-17 14:07:08,605 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE try to getting ALL OLD_DOCK_TYPE 
+2015-02-17 14:07:08,691 INFO 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE method got OLD_DOCK_TYPE with successfully
+2015-02-17 14:07:08,692 DEBUG 10 dtxk.business.BasicService - LoadAllOLD_DOCK_TYPE finished
+2015-02-17 14:07:10,126 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting registration...
+2015-02-17 14:07:10,175 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - CadastreNo registration
+2015-02-17 14:07:10,179 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-17 14:07:10,180 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000441
+2015-02-17 14:07:10,182 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-17 14:07:10,184 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-17 14:07:10,239 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Address registration
+2015-02-17 14:07:11,445 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Vertex Points registration
+2015-02-17 14:07:11,521 DEBUG 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Starting Spatial data registration
+2015-02-17 14:07:11,642 ERROR 10 dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel - Error Parcel Registration: Exception message = 
+System.Runtime.InteropServices.COMException (0x80040202): The index passed was not within the valid range.
+   at ESRI.ArcGIS.Geodatabase.IFeature.set_Value(Int32 Index, Object Value)
+   at dtxk.cadastre.Windows.Dialogs.Registration.FrmDlgRegLandParcel.btnOK_Click(Object sender, EventArgs e) in D:\isleryenin copysi\dtxkcopy\Client\dtxk.cadastre\Windows\Dialogs\Registration\Parcel\FrmDlgRegLandParcel.cs:line 755

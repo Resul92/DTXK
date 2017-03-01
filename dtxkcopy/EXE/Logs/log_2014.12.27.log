@@ -1,0 +1,122 @@
+2014-12-27 11:44:16,404 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-12-27 11:44:20,830 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-27 11:44:24,303 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-27 11:44:24,426 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-27 11:44:26,750 ERROR 4 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.EntityException: The underlying provider failed on Open. ---> Oracle.DataAccess.Client.OracleException: ORA-12541: TNS:no listener
+   at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   --- End of inner exception stack trace ---
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   at System.Data.EntityClient.EntityConnection.Open()
+   at System.Data.Objects.ObjectContext.EnsureConnection()
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__1[TResult](IEnumerable`1 sequence)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source)
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-27 11:44:35,923 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-27 11:44:35,924 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2014-12-27 11:44:37,292 ERROR 4 dtxk.business.Services.ServiceAppUser - GetAppUser exception message=
+System.Data.EntityException: The underlying provider failed on Open. ---> Oracle.DataAccess.Client.OracleException: ORA-12541: TNS:no listener
+   at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   --- End of inner exception stack trace ---
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+   at System.Data.EntityClient.EntityConnection.Open()
+   at System.Data.Objects.ObjectContext.EnsureConnection()
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__1[TResult](IEnumerable`1 sequence)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source)
+   at dtxk.business.Services.ServiceAppUser.GetAppUser(String userName, String pass, BusinessParam businessParam) in C:\Users\atkis\Desktop\Share\22oktyabr2014\dtxk\Business\dtxk.business\Services\ServiceAppUser.cs:line 40
+2014-12-27 11:46:37,783 INFO 1 dtxk.client.FrmLogIn - Program started
+2014-12-27 11:46:37,966 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2014-12-27 11:46:42,313 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2014-12-27 11:46:42,318 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=resad trying to connect
+2014-12-27 11:46:45,963 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(resad) connected
+2014-12-27 11:46:45,964 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2014-12-27 11:46:55,094 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-27 11:46:56,127 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-27 11:46:56,294 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-27 11:46:56,296 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-27 11:47:00,601 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 11:47:00,642 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 11:47:00,706 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-27 11:47:01,110 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY started
+2014-12-27 11:47:01,339 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY try to getting ALL MUNICIPALITY 
+2014-12-27 11:47:01,639 INFO 1 dtxk.business.BasicService - LoadAllMUNICIPALITY method got MUNICIPALITY with successfully
+2014-12-27 11:47:01,640 DEBUG 1 dtxk.business.BasicService - LoadAllMUNICIPALITY finished
+2014-12-27 11:47:07,198 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT started
+2014-12-27 11:47:07,242 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT try to getting ALL TERRITORIAL_UNIT 
+2014-12-27 11:47:07,871 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT method got TERRITORIAL_UNIT with successfully
+2014-12-27 11:47:07,872 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT finished
+2014-12-27 11:47:08,679 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET started
+2014-12-27 11:47:08,809 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET try to getting ALL STREET 
+2014-12-27 11:47:08,831 INFO 1 dtxk.business.BasicService - LoadAllSTREET method got STREET with successfully
+2014-12-27 11:47:08,832 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET finished
+2014-12-27 11:47:08,833 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET started
+2014-12-27 11:47:08,834 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET try to getting ALL STREET 
+2014-12-27 11:47:08,836 INFO 1 dtxk.business.BasicService - LoadAllSTREET method got STREET with successfully
+2014-12-27 11:47:08,836 DEBUG 1 dtxk.business.BasicService - LoadAllSTREET finished
+2014-12-27 11:47:10,543 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-12-27 11:47:10,649 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-12-27 11:47:10,681 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-12-27 11:47:10,683 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-12-27 11:47:10,706 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-27 11:47:10,708 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-27 11:47:10,717 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-27 11:47:10,719 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-27 11:47:10,738 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 11:47:10,773 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 11:47:10,781 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-27 11:47:10,801 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 11:47:10,803 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 11:47:10,807 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-27 11:47:10,813 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 11:47:10,814 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 11:47:10,818 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-27 11:47:36,282 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-12-27 11:47:36,283 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-12-27 11:47:36,289 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-12-27 11:47:36,289 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-12-27 11:47:36,295 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-27 11:47:36,296 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-27 11:47:36,299 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-27 11:47:36,300 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-27 11:47:36,304 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 11:47:36,305 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 11:47:36,308 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-27 11:47:36,315 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 11:47:36,316 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 11:47:36,317 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-27 11:47:36,320 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 11:47:36,320 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 11:47:36,328 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-27 13:54:22,625 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE started
+2014-12-27 13:54:22,627 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE try to getting ALL TERRITORIAL_UNIT_TYPE 
+2014-12-27 13:54:22,638 INFO 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE method got TERRITORIAL_UNIT_TYPE with successfully
+2014-12-27 13:54:22,640 DEBUG 1 dtxk.business.BasicService - LoadAllTERRITORIAL_UNIT_TYPE finished
+2014-12-27 13:54:22,655 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE started
+2014-12-27 13:54:22,657 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE try to getting ALL CADASTRAL_ZONE 
+2014-12-27 13:54:22,664 INFO 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE method got CADASTRAL_ZONE with successfully
+2014-12-27 13:54:22,666 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_ZONE finished
+2014-12-27 13:54:22,678 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 13:54:22,679 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 13:54:22,686 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-27 13:54:22,705 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 13:54:22,706 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 13:54:22,710 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished
+2014-12-27 13:54:22,715 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION started
+2014-12-27 13:54:22,716 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION try to getting ALL CADASTRAL_REGION 
+2014-12-27 13:54:22,720 DEBUG 1 dtxk.business.BasicService - LoadAllCADASTRAL_REGION finished

@@ -1,0 +1,641 @@
+2015-02-03 10:43:59,904 INFO 1 dtxk.client.FrmLogIn - Program started
+2015-02-03 10:46:53,881 DEBUG 1 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 10:47:38,887 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 10:47:39,012 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 10:47:43,676 INFO 4 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 10:47:43,676 DEBUG 4 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 10:48:32,628 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 10:48:32,831 DEBUG 1 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 10:48:32,877 DEBUG 1 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000079
+2015-02-03 10:48:32,877 INFO 1 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 10:48:32,877 DEBUG 1 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 10:48:35,295 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 10:48:35,295 DEBUG 1 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2015-02-03 10:48:35,327 DEBUG 1 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :30800901
+2015-02-03 10:48:35,420 INFO 1 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2015-02-03 10:48:35,420 DEBUG 1 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2015-02-03 10:48:41,114 DEBUG 1 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 10:48:41,130 DEBUG 1 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 10:48:41,130 DEBUG 1 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000216
+2015-02-03 10:48:41,145 INFO 1 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 10:48:41,145 DEBUG 1 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 14:22:52,935 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 14:22:55,199 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 14:23:41,243 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 14:23:42,196 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 14:23:47,906 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 14:23:47,906 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 14:23:49,185 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 14:23:49,185 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 14:24:21,290 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 14:24:22,211 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 14:24:22,226 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000295
+2015-02-03 14:24:22,242 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 14:24:22,242 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 14:31:51,772 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 14:31:52,665 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 14:31:58,735 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 14:31:58,735 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 14:31:59,749 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 14:31:59,749 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 14:32:16,269 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 14:32:16,285 DEBUG 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode started
+2015-02-03 14:32:16,285 DEBUG 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode try to getting Cadastral_Zone for Code :3
+2015-02-03 14:32:16,316 INFO 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode method got Cadatral_Zones with successfully
+2015-02-03 14:32:16,316 DEBUG 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode finfished
+2015-02-03 14:32:34,396 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 14:32:41,230 DEBUG 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode started
+2015-02-03 14:32:41,230 DEBUG 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode try to getting Cadastral_Zone for Code :3
+2015-02-03 14:32:41,230 INFO 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode method got Cadatral_Zones with successfully
+2015-02-03 14:32:41,246 DEBUG 9 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode finfished
+2015-02-03 14:37:03,197 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-03 14:37:03,513 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 14:37:11,298 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 14:37:11,298 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 14:37:12,577 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 14:37:12,577 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 14:37:27,304 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 14:37:27,803 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 14:37:27,803 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000261
+2015-02-03 14:37:27,803 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 14:37:27,803 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 14:37:35,084 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 14:37:35,100 DEBUG 10 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode started
+2015-02-03 14:37:35,100 DEBUG 10 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode try to getting Cadastral_Zone for Code :3
+2015-02-03 14:37:35,131 INFO 10 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode method got Cadatral_Zones with successfully
+2015-02-03 14:37:35,131 DEBUG 10 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode finfished
+2015-02-03 14:38:15,929 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 14:38:15,929 DEBUG 10 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode started
+2015-02-03 14:38:15,929 DEBUG 10 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode try to getting Cadastral_Zone for Code :4
+2015-02-03 14:38:15,945 INFO 10 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode method got Cadatral_Zones with successfully
+2015-02-03 14:38:15,945 DEBUG 10 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode finfished
+2015-02-03 14:39:41,657 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 14:39:41,962 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 14:39:47,715 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 14:39:47,715 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 14:39:49,010 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 14:39:49,010 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 14:40:02,526 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 14:40:02,526 DEBUG 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode started
+2015-02-03 14:40:02,526 DEBUG 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode try to getting Cadastral_Zone for Code :3
+2015-02-03 14:40:02,542 INFO 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode method got Cadatral_Zones with successfully
+2015-02-03 14:40:02,542 DEBUG 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode finfished
+2015-02-03 14:41:39,884 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 14:41:40,169 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 14:41:45,577 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 14:41:45,577 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 14:41:47,511 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 14:41:47,511 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 14:41:58,385 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 14:42:00,195 DEBUG 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode started
+2015-02-03 14:42:00,210 DEBUG 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode try to getting Cadastral_Zone for Code :1
+2015-02-03 14:42:00,242 INFO 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode method got Cadatral_Zones with successfully
+2015-02-03 14:42:00,242 DEBUG 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode finfished
+2015-02-03 14:42:07,854 DEBUG 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode started
+2015-02-03 14:42:07,854 DEBUG 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode try to getting Cadastral_Zone for Code :1
+2015-02-03 14:42:07,870 INFO 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode method got Cadatral_Zones with successfully
+2015-02-03 14:42:07,870 DEBUG 8 dtxk.business.Services.ServiceCadastralZone - FindByCadastralCode finfished
+2015-02-03 14:53:18,458 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 14:53:18,880 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 14:54:18,017 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 14:54:18,017 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 14:54:18,860 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 14:54:18,860 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 14:54:36,456 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 14:54:37,314 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 14:54:37,314 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000010
+2015-02-03 14:54:37,329 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 14:54:37,329 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 15:32:07,770 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-03 15:32:08,054 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 15:32:11,556 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 15:32:11,556 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 15:32:12,320 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 15:32:12,320 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 15:32:26,784 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 15:32:26,987 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 15:32:26,987 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000287
+2015-02-03 15:32:26,987 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 15:32:26,987 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 15:34:06,768 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 15:34:07,080 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 15:34:10,824 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 15:34:10,824 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 15:34:11,714 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 15:34:11,714 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 15:34:25,036 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 15:34:25,910 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 15:34:25,910 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000285
+2015-02-03 15:34:25,910 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 15:34:25,910 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 15:36:28,597 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 15:36:28,938 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 15:36:32,422 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 15:36:32,424 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 15:36:33,285 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 15:36:33,285 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 15:36:46,591 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 15:36:47,496 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 15:36:47,496 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000240
+2015-02-03 15:36:47,512 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 15:36:47,512 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 15:41:58,060 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 15:41:58,347 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 15:42:57,172 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 15:42:57,172 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 15:42:58,014 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 15:42:58,014 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 15:43:25,488 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 15:43:26,913 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 15:43:26,913 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000294
+2015-02-03 15:43:26,913 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 15:43:26,913 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 15:43:44,741 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 15:43:44,757 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 15:43:44,788 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 15:45:12,819 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 15:45:13,131 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 15:46:38,326 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 15:46:38,866 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 15:46:42,698 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 15:46:42,698 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 15:46:43,556 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 15:46:43,556 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 15:46:57,846 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 15:47:24,816 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 15:47:24,816 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000285
+2015-02-03 15:47:24,816 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 15:47:24,816 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 15:48:10,853 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 15:48:10,853 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 15:48:10,868 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 15:52:21,356 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 15:52:21,693 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 15:52:25,596 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 15:52:25,598 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 15:52:26,363 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 15:52:26,363 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 15:52:40,860 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 15:52:41,053 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 15:52:41,055 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000322
+2015-02-03 15:52:41,057 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 15:52:41,057 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 15:58:04,508 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 15:58:04,836 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 15:59:05,097 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 15:59:05,100 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 15:59:05,871 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 15:59:05,872 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 15:59:20,284 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 15:59:20,444 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 15:59:20,445 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000081
+2015-02-03 15:59:20,448 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 15:59:20,448 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 15:59:33,014 DEBUG 8 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 15:59:33,016 DEBUG 8 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 15:59:33,030 DEBUG 8 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 15:59:56,142 DEBUG 8 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 15:59:56,142 DEBUG 8 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 15:59:56,152 DEBUG 8 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 16:01:00,753 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:01:01,056 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:02:07,743 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:02:08,055 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:02:11,870 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:02:11,870 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:02:12,681 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:02:12,681 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:02:25,554 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:02:25,725 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:02:25,725 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000312
+2015-02-03 16:02:25,725 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:02:25,725 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:07:26,104 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:07:26,638 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:08:08,280 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:08:08,283 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:08:09,171 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:08:09,172 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:08:42,100 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:08:42,268 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:08:42,270 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000369
+2015-02-03 16:08:42,272 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:08:42,273 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:12:38,765 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:12:39,090 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:14:55,387 DEBUG 8 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:14:55,390 DEBUG 8 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:14:56,306 INFO 8 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:14:56,306 DEBUG 8 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:16:48,980 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:16:49,362 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:18:38,445 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:18:38,804 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:19:19,031 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:19:19,390 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:20:04,321 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:20:04,651 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:20:08,609 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:20:08,611 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:20:09,548 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:20:09,548 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:20:30,511 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:20:32,575 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:20:32,578 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000323
+2015-02-03 16:20:32,582 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:20:32,583 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:23:38,084 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:23:38,456 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:24:30,213 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:24:30,580 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:34:54,279 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:34:54,646 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:36:15,970 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:36:16,333 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:36:21,489 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:36:21,491 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:36:22,327 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:36:22,328 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:36:34,685 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:36:34,841 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:36:34,842 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000091
+2015-02-03 16:36:34,844 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:36:34,845 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:37:38,572 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:38:29,722 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:38:30,071 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:38:33,989 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:38:33,991 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:38:34,774 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:38:34,774 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:38:52,836 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:38:52,983 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:38:52,984 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000237
+2015-02-03 16:38:52,987 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:38:52,988 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:39:13,667 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 16:39:13,669 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 16:39:13,795 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 16:40:54,863 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:40:55,185 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:40:59,100 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:40:59,102 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:41:00,235 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:41:00,235 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:41:14,683 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:41:15,582 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:41:15,583 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 16:41:15,586 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:41:15,590 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:42:52,882 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:42:53,199 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:43:00,216 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:43:00,218 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:43:01,000 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:43:01,001 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:43:13,274 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:43:13,497 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:43:13,498 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 16:43:13,501 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:43:13,501 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:43:53,980 DEBUG 10 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 16:43:53,984 DEBUG 10 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 16:43:54,126 DEBUG 10 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 16:45:37,242 DEBUG 10 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 16:45:37,242 DEBUG 10 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 16:45:37,273 DEBUG 10 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 16:46:38,172 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:46:38,538 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:46:43,579 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:46:43,579 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:46:44,406 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:46:44,406 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:46:59,241 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:46:59,397 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:46:59,397 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 16:46:59,397 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:46:59,397 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:56:20,280 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-03 16:56:20,686 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 16:56:30,139 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 16:56:30,139 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 16:56:30,997 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 16:56:30,997 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 16:56:51,183 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:56:51,524 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:56:51,524 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000010
+2015-02-03 16:56:51,539 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:56:51,539 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:56:56,968 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 16:56:57,155 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 16:56:57,155 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 16:56:57,155 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 16:56:57,155 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 16:57:15,566 DEBUG 10 dtxk.business.BasicService - GetFILE_LISTById started
+2015-02-03 16:57:15,566 DEBUG 10 dtxk.business.BasicService - GetFILE_LISTById try to get FILE_LIST for Id. idFILE_LIST=0
+2015-02-03 16:57:15,582 INFO 10 dtxk.business.BasicService - GetFILE_LISTById method got FILE_LIST with successfully
+2015-02-03 16:57:15,582 DEBUG 10 dtxk.business.BasicService - GetFILE_LISTById finished
+2015-02-03 17:00:17,485 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:00:17,807 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:00:24,764 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:00:24,766 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:00:25,537 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:00:25,538 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:00:45,723 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:00:45,886 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:00:45,887 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:00:45,890 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:00:45,891 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:01:08,068 DEBUG 8 dtxk.business.BasicService - GetFILE_LISTById started
+2015-02-03 17:01:08,072 DEBUG 8 dtxk.business.BasicService - GetFILE_LISTById try to get FILE_LIST for Id. idFILE_LIST=0
+2015-02-03 17:01:08,079 INFO 8 dtxk.business.BasicService - GetFILE_LISTById method got FILE_LIST with successfully
+2015-02-03 17:01:08,081 DEBUG 8 dtxk.business.BasicService - GetFILE_LISTById finished
+2015-02-03 17:05:51,067 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:05:51,695 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:06:39,967 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:06:40,277 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:06:45,248 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:06:45,251 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:06:46,278 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:06:46,279 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:07:02,982 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:07:04,199 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:07:04,202 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:07:04,208 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:07:04,210 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:09:16,345 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:09:16,678 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:09:23,121 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:09:23,124 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:09:23,906 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:09:23,906 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:09:42,192 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:09:42,517 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:09:42,518 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000300
+2015-02-03 17:09:42,521 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:09:42,522 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:09:59,186 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:09:59,385 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:09:59,386 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:09:59,389 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:09:59,391 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:11:08,227 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:11:08,580 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:11:14,946 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:11:14,948 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:11:15,741 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:11:15,742 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:11:31,849 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:11:31,884 DEBUG 9 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId started
+2015-02-03 17:11:31,886 DEBUG 9 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId try to getting TERRITORIAL_UNIT for code .Code= :30800901
+2015-02-03 17:11:31,940 INFO 9 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId method got TERRITORIAL_UNIT with successfully
+2015-02-03 17:11:31,942 DEBUG 9 dtxk.business.Services.ServiceTerrtorialUnit - LoadAllTerritorilUnitsByRegionId finfished
+2015-02-03 17:11:35,784 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:11:35,979 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:11:35,980 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:11:35,983 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:11:35,984 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:16:29,957 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:16:30,385 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:19:02,475 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:19:02,803 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:19:11,409 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:19:11,411 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:19:12,191 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:19:12,192 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:19:29,146 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:19:29,356 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:19:29,358 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:19:29,361 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:19:29,361 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:20:53,066 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:20:53,404 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:21:00,936 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:21:00,938 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:21:01,786 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:21:01,786 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:21:16,661 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:21:16,899 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:21:16,900 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:21:16,903 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:21:16,904 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:22:37,987 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:22:38,358 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:22:44,581 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:22:44,584 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:22:45,399 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:22:45,400 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:23:00,736 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:23:00,971 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:23:00,972 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:23:00,975 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:23:00,976 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:25:03,148 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 17:25:03,151 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 17:25:03,373 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 17:25:33,070 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 17:25:33,072 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 17:25:33,171 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 17:26:48,215 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 17:26:49,038 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 17:27:32,475 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 17:27:54,870 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 17:27:56,079 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 17:34:05,443 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:34:05,759 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:34:13,442 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:34:13,444 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:34:14,283 INFO 6 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:34:14,284 DEBUG 6 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:34:30,064 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:34:30,675 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:34:30,678 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:34:30,684 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:34:30,685 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:41:17,302 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:41:17,811 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:41:25,939 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:41:25,942 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:41:26,735 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:41:26,735 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:41:44,601 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:41:44,908 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:41:44,909 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:41:44,912 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:41:44,912 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:43:03,088 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:43:03,706 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:43:10,744 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:43:10,747 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:43:11,530 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:43:11,531 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:43:29,983 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:43:30,380 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:43:30,381 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:43:30,385 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:43:30,385 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:43:51,538 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 17:43:55,650 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 17:45:18,509 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 17:45:41,872 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:45:43,950 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:45:43,952 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:45:43,964 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:45:43,967 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:51:21,923 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 17:51:22,250 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 17:51:26,770 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 17:51:26,772 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 17:51:27,569 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 17:51:27,570 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 17:51:39,330 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 17:51:41,565 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 17:51:41,568 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 17:51:41,574 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 17:51:41,576 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 17:52:13,188 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 17:52:13,192 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 17:52:14,476 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 17:52:46,705 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 17:52:47,402 DEBUG 9 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 18:14:55,987 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 18:14:56,295 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 18:15:00,793 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 18:15:00,796 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 18:15:02,427 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 18:15:02,428 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 18:15:13,909 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 18:15:14,729 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 18:15:14,732 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 18:15:14,738 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 18:15:14,739 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 18:17:45,011 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 18:17:45,317 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 18:17:57,332 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 18:17:57,334 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 18:17:59,224 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 18:17:59,226 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 18:18:10,578 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 18:18:12,733 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 18:18:12,736 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 18:18:12,742 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 18:18:12,744 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 18:26:58,546 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-03 18:26:58,858 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 18:28:42,611 DEBUG 8 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 18:28:42,615 DEBUG 8 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 18:28:44,466 INFO 8 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 18:28:44,468 DEBUG 8 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 18:29:44,286 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 18:29:46,558 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 18:29:46,561 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 18:29:46,567 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 18:29:46,568 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 18:30:08,295 DEBUG 10 dtxk.business.BasicService - SaveFILE_LIST started
+2015-02-03 18:30:08,299 DEBUG 10 dtxk.business.BasicService - SaveFILE_LIST try to save FILE_LIST
+2015-02-03 18:30:08,651 DEBUG 10 dtxk.business.BasicService - SaveFILE_LIST finished
+2015-02-03 18:32:01,206 INFO 10 dtxk.client.FrmLogIn - Program started
+2015-02-03 18:32:02,012 DEBUG 10 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 18:32:14,164 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 18:32:14,166 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 18:32:16,341 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 18:32:16,342 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 18:32:31,259 DEBUG 10 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 18:32:36,656 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 18:32:36,659 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 18:32:36,665 INFO 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 18:32:36,667 DEBUG 10 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 18:38:13,477 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 18:38:14,226 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 18:39:42,446 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 18:39:42,446 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 18:39:43,819 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 18:39:43,819 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 18:41:19,262 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 18:41:19,277 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 18:41:19,277 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 18:41:19,277 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 18:41:19,277 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 18:42:49,569 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 18:42:49,865 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 18:43:41,608 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 18:43:42,809 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 18:44:08,253 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 18:44:08,253 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 18:44:09,173 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 18:44:09,173 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 18:44:19,968 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 18:44:19,968 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 18:44:19,984 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 18:44:19,984 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 18:44:19,984 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 18:53:44,178 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 18:53:44,591 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 18:53:51,639 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 18:53:51,639 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 18:53:52,388 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 18:53:52,403 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 18:54:26,022 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 18:54:26,022 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 18:54:26,037 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 18:54:26,037 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 18:54:26,037 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 18:55:30,092 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 18:55:30,435 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 18:57:19,996 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 18:57:19,996 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 18:57:20,745 INFO 11 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 18:57:20,745 DEBUG 11 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 18:57:36,017 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 18:57:36,033 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 18:57:36,033 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 18:57:36,033 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 18:57:36,033 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 19:23:34,999 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 19:23:35,295 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 20:05:36,221 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 20:05:36,516 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 20:05:42,774 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 20:05:42,776 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 20:05:43,544 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 20:05:43,545 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 20:06:01,205 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 20:06:01,225 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 20:06:01,227 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 20:06:01,231 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 20:06:01,231 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 21:14:23,426 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 21:14:23,726 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 21:14:29,890 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 21:14:29,892 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 21:14:30,665 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 21:14:30,666 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 21:14:55,435 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 21:14:55,451 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 21:14:55,452 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 21:14:55,454 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 21:14:55,455 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 21:17:27,994 INFO 9 dtxk.client.FrmLogIn - Program started
+2015-02-03 21:17:28,269 DEBUG 9 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 21:17:56,940 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 21:17:56,942 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 21:17:57,742 INFO 3 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 21:17:57,742 DEBUG 3 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 21:18:10,381 DEBUG 9 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 21:18:10,394 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 21:18:10,395 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 21:18:10,397 INFO 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 21:18:10,398 DEBUG 9 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 21:19:09,283 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 21:19:09,636 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
+2015-02-03 21:19:14,122 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser started
+2015-02-03 21:19:14,124 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser username=admin trying to connect
+2015-02-03 21:19:14,886 INFO 10 dtxk.business.Services.ServiceAppUser - GetAppUser username(admin) connected
+2015-02-03 21:19:14,887 DEBUG 10 dtxk.business.Services.ServiceAppUser - GetAppUser finished
+2015-02-03 21:19:25,396 DEBUG 8 dtxk.gis.FeatureRelatedClasses.ClsFeatureOperation - GetFeatureObject method started
+2015-02-03 21:19:25,410 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo started
+2015-02-03 21:19:25,411 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo try to getting PARCEL by cadastralNo :30800901000439
+2015-02-03 21:19:25,413 INFO 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo method got PARCEL with successfully
+2015-02-03 21:19:25,414 DEBUG 8 dtxk.business.Services.ServiceParcel - FindParcelsByCadastralNo finfished
+2015-02-03 21:21:39,344 INFO 8 dtxk.client.FrmLogIn - Program started
+2015-02-03 21:21:39,623 DEBUG 8 dtxk.client.FrmLogIn - FrmLogin constuct finished.
